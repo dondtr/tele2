@@ -923,6 +923,7 @@ tax.audible.com
 1641486558
 ads.temu.com
 com.einnovation.temu
+partner.temu.com
 seller.temu.com
 www.temu.com
 http://testnet.bybit.eu
