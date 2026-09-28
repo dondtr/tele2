@@ -199,5 +199,7 @@ Leaked/compromised employee accounts *.here.com
 *.drogas.lt
 *.drogas.lv
 *.moneyback.com.hk
+*ensemble*.yahoo.com
+*omega*.yahoo.com
 *.pwn.intigriti.rocks
 *.intigriti.me

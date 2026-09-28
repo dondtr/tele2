@@ -2675,6 +2675,7 @@ help.marriott.com
 homes-and-villas.marriott.com
 hotel-deals.marriott.com
 hotel-development.marriott.com
+hotshoppeservices.com
 http://www.shopmarriott.com
 https://dcfgatewaytst1.marriott.com/
 https://gatewaydsapdev2.marriott.com/
@@ -3298,6 +3299,11 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community

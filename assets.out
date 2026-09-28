@@ -1230,9 +1230,11 @@
 *dev.uzleuven.be
 *developer.cloud.com
 *elvetino.ch
+*ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *idp*.uzleuven.be
 *inf.fndlsb.net
+*omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
@@ -1260,8 +1262,6 @@
 1089294040
 1091010942
 10x.redoxengine.com
-1114799709
-1114800186
 1116488672
 1118448159
 1127881507
@@ -1638,6 +1638,7 @@
 6740879082
 6741442288
 674258465
+7 News
 719525810
 737216887
 740514933
@@ -1858,6 +1859,8 @@ Box Drive
 Box Tools
 Braintree SDK
 Brand Sites
+Brave Browser Desktop
+Brave websites
 Broken Link
 Browser Isolation
 BrowserGuard (Firefox/Chrome/Safari browser extension)
@@ -2068,6 +2071,7 @@ Games Tier 2
 Games Tier 3
 Gardener
 Gateway
+Gemini
 GenAI Apps under *.amazon.*
 Git Repositories (b2-sdk-java & B2 Command Line Tool)
 GitHub Actions in our Public Repositories 
@@ -2133,6 +2137,7 @@ ICI Paris XL Android
 ICI Paris XL iOS
 Ibotta App Data & Memory
 Id1406825640
+Identity Services
 Images
 In Scope - Points only
 Indoor Cam
@@ -2233,6 +2238,7 @@ Logitech Options PC/MAC
 Logitech Sync
 LookAtMe Philippines Android
 LookAtMe Philippines iOS
+Low Cost Access
 Low Level Properties and Test environment
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
@@ -2355,6 +2361,7 @@ OpenSea Solana Marketplace Program
 Opsgenie (Android)
 Opsgenie (IoS)
 Other
+Other (Misc)
 Other - (all other Atlassian targets)
 Other APK Assets
 Other Acronis Domains
@@ -2479,6 +2486,7 @@ Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
 Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
 Smokescreen Open Source Project
 Snaps
+Social Media Accounts
 Sockets
 Software
 Software Supply Chain
@@ -2547,6 +2555,12 @@ Superhuman Mail Desktop App
 System Specification
 T&P Servers (Temporarily Out of Scope)
 TF-PSA-Crypto
+TW Media: Front Page
+TW Media: News
+TW Media: Stock
+TW eCommerce: Auctions
+TW eCommerce: Shopping
+TW eCommerce: Used Car
 Tablets
 Tap to Pay (Android)
 Tap to Pay (iOS)
@@ -2696,6 +2710,24 @@ Workstation MFA (WMFA)
 Wrapped
 Wyze Cam V3
 X Pixel Helper (Chrome Extension)
+Yahoo Calendar
+Yahoo Finance
+Yahoo HK News
+Yahoo Mail
+Yahoo News
+Yahoo Open Source Projects
+Yahoo Search
+Yahoo Sports: Best Ball
+Yahoo Sports: Daily Fantasy
+Yahoo Sports: Editorial
+Yahoo Sports: Fantasy Games
+Yahoo Sports: Fantasy Slate/PicknWin
+Yahoo Sports: Fantasy Sports
+Yahoo Sports: Fantasy Wallet
+Yahoo Sports: Mobile
+Yahoo Video
+Yahoo Weather
+Yahoo! (Misc)
 Your Own GitLab Instance
 Zendesk AI
 Zendesk Front End
@@ -2987,7 +3019,6 @@ api.simplisafe.com (HSP Endpoints)
 api.slack.com
 api.smtp2go.com
 api.sorare.com
-api.soundtrackyourbrand.com
 api.spotify.com
 api.stage.evernote.com
 api.steampowered.com
@@ -3027,6 +3058,7 @@ api.yoti.com
 api2.frontapp.com
 api2.grofers.com
 apigw.foliofn.com
+apis.mail.yahoo.com
 apix.vodafone.om
 app*.hubspot.com
 app-*.easy4ipcloud.com
@@ -3214,7 +3246,6 @@ bettrfinancing.com
 bid.*.aws.indriverapp.com
 bigcommerce-adapter.judge.me
 bild.de
-billing.api.soundtrackyourbrand.com
 billingsupport.chaturbate.com
 bilt.marriott.com
 biolibre.ar
@@ -3272,7 +3303,6 @@ bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 builder.hostinger.com
 building-blocks.com
-builds.soundtrackyourbrand.com
 bulten.watsons.com.tr
 business-resources.truecaller.com
 business.kayak.com
@@ -3282,7 +3312,6 @@ business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
-business.soundtrackyourbrand.com
 business.tiktok.com
 business.truecaller.com
 businesshelp.snapchat.com
@@ -3520,6 +3549,8 @@ com.boozt
 com.boozt.app
 com.boozt.booztlet
 com.booztlet
+com.brave.browser
+com.brave.ios.browser
 com.bumble.app
 com.bumblebff.app
 com.bykea.pk
@@ -3719,7 +3750,6 @@ com.skypicker.Skypicker
 com.skypicker.main
 com.slack.slackmdm
 com.snapchat.android
-com.soundtrackyourbrand.soundtrack.player
 com.spotify.client
 com.spotify.kids
 com.spotify.music
@@ -3944,6 +3974,7 @@ dashboard.privy.io
 dashboard.qa.ai.8x8.com
 dashboard.razorpay.com
 data-test.nba.com
+data.mail.yahoo.com
 data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
@@ -4370,6 +4401,7 @@ hostinger.com
 hotel-deals.marriott.com
 hotel-development.marriott.com
 hotornot.com
+hotshoppeservices.com
 hpanel.hostinger.com
 http1mustdie.com
 http://--your-own-1password-account--.1password.com
@@ -4829,7 +4861,6 @@ https://audiencelogos.blis.com
 https://audio.20min.ch/
 https://auth-adx.op-mobile.opera.com
 https://auth-ywh.it.authentification.si.gouv.qc.ca/
-https://auth.api.soundtrackyourbrand.com/
 https://auth.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|tr|com.ua)
 https://auth.datadome.co
 https://auth.immutable.com
@@ -4893,7 +4924,6 @@ https://bugcrowd.charm.felixforus.ca/home
 https://bugcrowd.com/programs
 https://bugcrowd.lucky.felixforus.ca
 https://bugs.opera.com/
-https://builds.soundtrackyourbrand.com/download/WIN32SOUNDTRACK/latest
 https://bullish.com/
 https://business-staging.getmoneytree.com/
 https://business.rivian.com/api
@@ -5218,6 +5248,7 @@ https://github.com/base/*
 https://github.com/basecamp/once-campfire
 https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
+https://github.com/brave/*, https://github.com/brave-intl/*
 https://github.com/cashapp/cash-app-pay-android-sdk
 https://github.com/cashapp/cash-app-pay-ios-sdk
 https://github.com/cashapp/hermit
@@ -6620,7 +6651,6 @@ https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
 https://quicksight.aws.amazon.com
-https://radio.api.soundtrackyourbrand.com/
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6715,7 +6745,6 @@ https://song.link
 https://songlink.io
 https://soundcloud.com
 https://soundcloud.org
-https://soundtrack.io
 https://speeddials.opera.com
 https://sprint.com
 https://square.online
@@ -7564,7 +7593,6 @@ m.dana.id
 m.reddit.com
 m.tw.coupang.com
 mUSD Stablecoin
-macOS app
 maestro.8x8.cloud
 magazine.kruidvat.be
 magento.com
@@ -7953,6 +7981,7 @@ onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
 one.airbnb.com
 one.dash.cloudflare.com
+onepush.query.yahoo.com
 oneview.threatdown.com
 online.s-pankki.fi
 onlinedoctor.superdrug.com
@@ -8141,6 +8170,7 @@ prod-*.nubank.com.br
 prod-mipaasiaasservices.marriott.com
 prod.meeshoapi.com
 prod.ros.rockstargames.com
+proddata.xobni.yahoo.com
 production.plaid.com
 professionnels.vaccination-info-service.fr
 profiel.vrt.be
@@ -9333,6 +9363,7 @@ xlence.iciparisxl.nl
 xtramile.grabpay.com
 yelptop100.com
 yhteystietoni.posti.fi
+yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
 your-assigned-subdomain.hosted-by-files.com
