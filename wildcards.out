@@ -2,6 +2,8 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -58,8 +60,6 @@
 *.alasco.rocks
 *.aleenote.cn
 *.aleenote.com
-*.algolia.net
-*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -236,6 +236,7 @@
 *.coinbase.com
 *.computerbild.de
 *.consumer.worldcoin.org
+*.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -255,6 +256,7 @@
 *.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -568,6 +570,7 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
+*.kwsdose.be
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -584,6 +587,7 @@
 *.lightroom.adobe.com
 *.link.co
 *.linktree-extensions.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -667,6 +671,7 @@
 *.miot-spec.org
 *.mipay.com
 *.mipay.net
+*.mir.uzleuven.be
 *.mitt.vimla.se
 *.mittforetag.telenor.se
 *.miui.cn
@@ -721,6 +726,7 @@
 *.nflxvideo.net
 *.nic.eu
 *.ninjakiwi.me
+*.nitropack.io
 *.niumba.com
 *.nkstatic.com
 *.nmfn.com
@@ -798,6 +804,7 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
+*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -990,6 +997,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.super.xyz
@@ -1086,6 +1094,7 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1166,6 +1175,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1200,8 +1211,10 @@
 *.zomato.com
 *dev*.arlo.com
 *ensemble*.yahoo.com
+*idp*.uzleuven.be
 *omega*.yahoo.com
 *qa*.arlo.com
+*stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance

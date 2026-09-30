@@ -18,6 +18,8 @@
 *-eu.truecaller.com
 *-noneu.truecaller.com
 *-vpn.8x8.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -74,8 +76,6 @@
 *.alasco.rocks
 *.aleenote.cn
 *.aleenote.com
-*.algolia.net
-*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -252,6 +252,7 @@
 *.coinbase.com
 *.computerbild.de
 *.consumer.worldcoin.org
+*.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -271,6 +272,7 @@
 *.dash.ai
 *.dcfgateway.marriott.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -584,6 +586,7 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
+*.kwsdose.be
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -600,6 +603,7 @@
 *.lightroom.adobe.com
 *.link.co
 *.linktree-extensions.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -683,6 +687,7 @@
 *.miot-spec.org
 *.mipay.com
 *.mipay.net
+*.mir.uzleuven.be
 *.mitt.vimla.se
 *.mittforetag.telenor.se
 *.miui.cn
@@ -737,6 +742,7 @@
 *.nflxvideo.net
 *.nic.eu
 *.ninjakiwi.me
+*.nitropack.io
 *.niumba.com
 *.nkstatic.com
 *.nmfn.com
@@ -814,6 +820,7 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
+*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -1006,6 +1013,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.super.xyz
@@ -1102,6 +1110,7 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
+*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1182,6 +1191,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1216,16 +1227,19 @@
 *.zomato.com
 *app.simple-reports.com/demo
 *dev*.arlo.com
+*dev.uzleuven.be
 *developer.cloud.com
 *elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
+*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
 *sbbcargo.com
+*stag*.uzleuven.be
 *test*.bykea.net
 *tidalhi.fi
 *transsicura.ch
@@ -1359,6 +1373,7 @@
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
+193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 193.8.251.0/24
 194.209.121.0/24
 194.35.79.0/24
@@ -2655,6 +2670,7 @@ WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 WP Cloud
+WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -2865,8 +2881,6 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
-api-wallet-sandbox.venly.io
-api-wallet.venly.io
 api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
@@ -2874,7 +2888,6 @@ api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.anthropic.com
-api.arkane.network
 api.atg.se
 api.binance.com
 api.blockchain.info
@@ -3200,6 +3213,7 @@ auth0.net
 authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
+autodiscover.uzleuven.be
 autoupdateapi.lansweeper.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
@@ -3362,6 +3376,8 @@ capitanes.gleague.nba.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
+cardsonline.azdiest.be
+cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.capital.com
@@ -3848,10 +3864,8 @@ configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
 connect.8x8.com
-connect.arkane.network 
 connect.posti.fi
 connect.secure.wellsfargo.com
-connect.venly.io
 console-backend.truelayer[-sandbox].com
 console.anthropic.com
 console.circle.com
@@ -3961,7 +3975,6 @@ d-you Wallet iOS Test
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
-dashboard.algolia.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -4116,6 +4129,7 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerce.hostinger.com
 ecosystem-experience.super-id.net
+ecrf.uzleuven.be
 edge.bookbeat.com
 edge.lansweeper.com
 edgeapi.slack.com
@@ -4179,8 +4193,10 @@ expressvpn.jobs
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
+extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
+extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 fab.com
@@ -4217,6 +4233,7 @@ fiat.a.exodus.io
 file-storage-front.eu-east-1.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
+files.uzleuven.be
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
 fintech-aml-kyc-tw.coupang.com
@@ -4633,6 +4650,7 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/
 https://app.fin.ai/
+https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
@@ -5202,6 +5220,7 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
+https://getflywheel.com
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5597,6 +5616,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
+https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -6289,6 +6309,7 @@ https://my.smartposti.lt
 https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
+https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -6391,6 +6412,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
+https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
@@ -6766,6 +6788,7 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
+https://studiopress.blog
 https://suggestions.opera-api.com
 https://super.xyz
 https://superbet.pl
@@ -6803,6 +6826,7 @@ https://tidal.com/
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
+https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6864,6 +6888,7 @@ https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://velocitize.com
 https://vendor.riskrecon.com
 https://vendor.riskrecon.eu
 https://vendors.paddle.com
@@ -6910,6 +6935,7 @@ https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
+https://wpengine.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -6982,6 +7008,7 @@ https://www.crateandbarrel.me
 https://www.creditkarma.com/reviews/
 https://www.creditkarma.com/savings
 https://www.cultbeauty.co.uk/
+https://www.currencycloud.com/
 https://www.cyberghostvpn.com/en_US/apps/linux-vpn
 https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
@@ -7477,6 +7504,7 @@ ksuite.infomaniak.com
 ksuite.infomaniak.com/*/kdrive/*/preview/*
 kubernetes-csi.github.io
 kubernetes.io
+kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc.a.exodus.io
@@ -7505,6 +7533,8 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 liquidfiles.nexuzhealth.com
+liquidfiles.uzleuven.be
+liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
@@ -7526,7 +7556,6 @@ login-api.truelayer[-sandbox].com
 login-dev.nba.com
 login-qa.nba.com
 login-uat.nba.com
-login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -7544,7 +7573,6 @@ login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
-login.venly.io
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -7735,8 +7763,10 @@ mgs.marriott.com
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
+mijnacc.uzleuven.be
 minerva.robinhood.com
 mipartnerprivileges.marriott.com
+mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile.clearme.com
@@ -7766,6 +7796,8 @@ msg-gw-cf.*.aws.indriverapp.com
 msg.playcanvas.com
 mta-sts.wearehackerone.com
 mus1.badoo.com
+mx1.uzleuven.be
+mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -8065,6 +8097,7 @@ payroll.razorpay.com
 pb.deribit.com
 pc-cf.*.aws.indriverapp.com
 pc-gw-cf.*.aws.indriverapp.com
+pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
@@ -8127,6 +8160,8 @@ pr-qa.nba.com
 pr.nba.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
+prddnighting01.uzleuven.be
+prddsplunkhf.uzleuven.be
 premium.pixiv.net
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
@@ -8187,6 +8222,7 @@ quickstamp-gb.bpost.be
 ra-cf.*.aws.indriverapp.com
 ra-gw-cf.*.aws.indriverapp.com
 rafflee.co.uk
+random.uzleuven.be/random/
 raptor*.bykea.net
 raptors905-dev.gleague.nba.com
 raptors905-qa.gleague.nba.com
@@ -8558,6 +8594,7 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 sts.delen.be 
+sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
 style.23andme.org
@@ -8638,6 +8675,7 @@ test.payworks.io
 testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
+teststs.uzleuven.be
 texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
 texas.gleague.nba.com
@@ -8797,9 +8835,10 @@ vtmgo.be
 vttp.nba.com
 vwcm.visa.com
 vœux.vinci.com
+w1.uzleuven.be
+w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
-wallet.venly.io
 wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com
@@ -8887,6 +8926,7 @@ world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
+wp5-truststroke.uzleuven.be
 wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
@@ -8909,7 +8949,6 @@ www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
-www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.analvids.com
@@ -8954,7 +8993,6 @@ www.counter-strike.net
 www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
-www.currencycloud.com
 www.cybersource.com
 www.ddfcontent.com
 www.delen.bank
@@ -9228,6 +9266,7 @@ www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
+www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
 www.veriff.com
@@ -9371,6 +9410,7 @@ ywh.update.zecible.fr
 ywh.zcb.fr
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
+ziekenhuisschool.be
 zooplus.net
 ███
 ████

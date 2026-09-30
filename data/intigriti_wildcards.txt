@@ -163,6 +163,13 @@ Leaked/compromised employee accounts *.here.com
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
+*.kwsdose.be
+*.playuzleuven.be
+*.uzleuven.*
+*.contactallerg(y|ie).uzleuven.be
+*.mir.uzleuven.be
+*idp*.uzleuven.be
+*stag*.uzleuven.be
 *.optimuscards.com
 *.topperpay.com
 *.uphold.com
@@ -171,6 +178,14 @@ Leaked/compromised employee accounts *.here.com
 *.veriff.com
 *.voi.com
 *.voiscooters.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
+*.deliciousbrains.com
+*.localwp.com
+*.nitropack.io
+*.studiopress.com
+*.wpengine.io
+*.wpesvc.net
 *.water-link.be/
 *.mijnwater-link.be
 *.watsons.com.hk
