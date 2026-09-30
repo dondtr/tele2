@@ -992,6 +992,8 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -2814,7 +2816,6 @@ akismet.com
 alchemy.veriff.com
 alert.logitech.com
 alerts.ninjakiwi.com
-alfred-uat-31.nonprod.syfe.com
 alfred.syfe.com
 alipayhk.com
 all-inclusive.marriott.com
