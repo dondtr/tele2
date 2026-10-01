@@ -11,7 +11,6 @@ https://acorns.com/
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://graphql.acorns.com
 https://play.google.com/store/apps/details?id=com.acorns.android&hl=en_US&gl=US
-https://www.gohenry.com/
 https://www.pixpay.fr/
 https://marketplace.atlassian.com/apps/1219205/scrumpy-planning-poker-for-jira?hosting=cloud&tab=overview
 ████████████████
@@ -2325,11 +2324,14 @@ https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence-statu
 https://marketplace.atlassian.com/apps/1214971/handy-macros-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1214110/courses-and-quizzes-lms-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1899492230/live-tables-from-csv-json-for-confluence?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211062/documents-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1226592/great-gadgets-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1217117/project-team-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1216564/great-gadgets-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/607387265/velocity-throughput-charts-for-agile-scrum-kanban?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/2077076462/wip-run-wip-aging-charts-for-scrum-kanban-scaled-agile?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/375826955/burndown-burnup-charts-with-forecast-for-agile-teams?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1234296/azure-sync-for-jira-assets?hosting=cloud
 Self-Register Account on T-Mobile Microsoft Entra ID
 Cellular Network Auth Bypass via Web App/T-Life (404-200-7239)
