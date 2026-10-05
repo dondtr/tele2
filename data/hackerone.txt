@@ -442,6 +442,7 @@ com.nbaimd.gametime.nba2011
 com.nbaimd.gametime.universal
 comets-dev.wnba.com
 comets-qa.wnba.com
+comets-uat.wnba.com
 comets.wnba.com
 communityassist.nba.com
 contact-dev.nba.com
@@ -3434,6 +3435,11 @@ www.semrush.com
 com.quora.android
 com.quora.app.mobile
 http://poe.com
+Brave Browser Desktop
+Brave websites
+com.brave.browser
+com.brave.ios.browser
+https://github.com/brave/*, https://github.com/brave-intl/*
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community

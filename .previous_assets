@@ -315,6 +315,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.data.api.platform.here.com
 *.datacamp.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
@@ -774,6 +775,7 @@
 *.mercadoshops.com.py
 *.mercadoshops.com.uy
 *.metamask.io
+*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -939,6 +941,7 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
+*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -2050,6 +2053,7 @@ All other Assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
 All other games not listed in other target tables
+All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -2523,6 +2527,8 @@ Grepolis
 Gutenberg
 H5G
 H5G/Agency
+HERE WeGo Android
+HERE WeGo iOS
 HEY.app
 HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
@@ -2687,6 +2693,8 @@ Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
+Leaked Service Credentials
+Leaked/Compromised Employee Credentials
 Leaked/compromised employee accounts *.here.com
 Leaked/Сompromised Employee accounts
 Left 4 Dead
@@ -3439,11 +3447,13 @@ accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
 account.adobe.com
+account.api.here.com
 account.booking.com
 account.box.com
 account.brave.com
 account.deezer.com
 account.fr.cloud.gov
+account.here.com
 account.krisp.ai
 account.magento.com
 account.ui.com
@@ -4827,6 +4837,7 @@ com.zopim.android
 com.zzkko
 comets-dev.wnba.com
 comets-qa.wnba.com
+comets-uat.wnba.com
 comets.wnba.com
 comic-indies.pixiv.net
 comic.pixiv.net
@@ -10037,6 +10048,7 @@ liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
 list-v2--netlify-plugins.netlify.app
+listing.here.com
 lists.nextcloud.com
 lists.wordpress.org
 live-backstage.tiktok.com
@@ -10168,6 +10180,7 @@ manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
 map.snapchat.com
+mapcreator.here.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
@@ -10332,6 +10345,7 @@ mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
+mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
 mokapos.com
@@ -11007,6 +11021,7 @@ register.bpost.be
 register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
+registry.service.api.platform.here.com
 rei.com
 relay.firefox.com
 relay.passkeys.foundation
@@ -11160,6 +11175,7 @@ scrutiny.swiftfinancial.com
 sdg.data.gov
 se.mathem.mathem
 search.brave.com
+search.hereapi.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -11596,6 +11612,7 @@ trade.ripio.com
 training.ui.com
 transact.playstation.com
 transactions.transactional.unico.app
+transit.hereapi.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
@@ -11691,6 +11708,7 @@ vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
 vdam.visa.com
+vector.hereapi.com
 vector.prd.iat.it.xvservice.net
 vercel.app
 vercel.com
@@ -11804,6 +11822,7 @@ webhooks.booking.com
 webhooks.gamma.redoxstage.com
 webhooks.truelayer[-sandbox].com
 webmail.ownit.nu
+webtask.run
 webtoolbox.notebleue.pro
 webwinkel.ad.nl
 webwinkel.parool.nl
@@ -12415,6 +12434,7 @@ xoswap-graphql-p.a.exodus.io
 xoswap-graphql.a.exodus.io
 xs2a.banking.playground.klarna.com
 xtramile.grabpay.com
+xyz.api.here.com
 yelptop100.com
 yhteystietoni.posti.fi
 yimg.com
