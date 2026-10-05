@@ -45,6 +45,7 @@
 *.account.api.here.com
 *.account.here.com
 *.account.roon.app
+*.accounts.realestate.com.au
 *.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
@@ -112,6 +113,7 @@
 *.apexnews.com
 *.apexscores.io
 *.api-app.telenor.se
+*.api.id.realestate.com.au
 *.api.konghq.com
 *.api.louisvuitton.com
 *.api.originenergy.com.au
@@ -266,6 +268,7 @@
 *.de.jbl.com
 *.dell.com/*
 *.delltechnologies.com/* 
+*.demo.bp.mortgagechoice.com.au
 *.demorgen.be
 *.deribit.com
 *.deriv.cloud
@@ -507,6 +510,7 @@
 *.iciparisxl.be
 *.iciparisxl.lu
 *.iciparisxl.nl
+*.id.realestate.com.au
 *.ikarem.io
 *.immedia-semi.com/*
 *.imperva.com
@@ -634,6 +638,7 @@
 *.mavenlab.com
 *.mb-cosmos.com
 *.mbamupdates.com
+*.mclead.com.au
 *.mediatonic.co.uk
 *.megatix.be  
 *.melonapp.com
@@ -696,6 +701,7 @@
 *.moobidesk.com
 *.moonpay.com
 *.moonpaycloud.com
+*.mortgagechoice.com.au
 *.movilepay.com
 *.movilepay.com.br
 *.msgsvc.io
@@ -854,6 +860,7 @@
 *.rapyd.net
 *.rapyd.org
 *.rbx.com
+*.realestate.com.au
 *.recko.io
 *.reckoproduction.com
 *.reckostaging.com
@@ -867,6 +874,7 @@
 *.registry.eu
 *.rekap.8x8.com
 *.rentalcars.com
+*.report.uat.proptrack.com
 *.reposify.com
 *.restintergamma.nl
 *.rhinternal.net
@@ -956,6 +964,7 @@
 *.slimdevices.com
 *.slotomania.com
 *.smartcontract.com
+*.smartline.com.au
 *.snooguts.net
 *.sol-data.com
 *.solarcity.com
@@ -4500,6 +4509,7 @@ https://8x8.vc/xmpp-websocket
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.klaviyo.com/api/*
+https://access-sit.uat.proptrack.com
 https://account-registration.monash.edu/
 https://account.bitpanda.com
 https://account.business.t-mobile.com
@@ -4522,6 +4532,7 @@ https://admin.moneyboxapp.org
 https://admin.ring.com/*
 https://admintool.lime.bike
 https://aemdam.usaa360.com/
+https://agent-contact.realestate.com.au/lead-capture-page/campaign-id/8e50c3d0-0d2b-44d1-9df6-f4e02b9a690e
 https://agent.apps.monash.edu/
 https://aiven.io/
 https://aiven.io/clickhouse
@@ -4538,6 +4549,7 @@ https://api-businessportal.origin.com.au
 https://api-core.deriv.com
 https://api-iam.intercom.io
 https://api-js.datadome.co
+https://api-next.flatmates.com.au
 https://api-portal.originzero.com.au
 https://api-prod.retailsso.com
 https://api-prod.thatconceptstore.com/
@@ -4677,6 +4689,7 @@ https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
+https://apps.apple.com/au/app/realestate-com-au-property/id404667893
 https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/mediamarkt-belgi%C3%AB/id958993034
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
@@ -5030,6 +5043,7 @@ https://delta.app
 https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
+https://desktop-sit.uat.proptrack.com
 https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
@@ -5153,6 +5167,7 @@ https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
 https://exchange.pulsepoint.com
 https://exchange.pulsepoint.com/AdminPortal/AdminDashBoard.aspx
+https://explore-sit.uat.proptrack.com
 https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
 https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
@@ -6340,6 +6355,7 @@ https://newrelic.com/
 https://newrelic.com/blog
 https://news.vinted.com
 https://nexo.com/
+https://next.flatmates.com.au
 https://nice.wfmusaa.com
 https://nominatim.bykea.net
 https://northwesternmutual.com
@@ -6362,6 +6378,7 @@ https://ogws.optusnet.com.au/
 https://oma.posti.fi/
 https://onboard.neogov.com
 https://onchain.cc/
+https://one-sit.uat.proptrack.com/
 https://one.newrelic.com
 https://oneview.threatdownstage.com
 https://online.monash.edu/
@@ -6454,6 +6471,7 @@ https://play.fga.dev/
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=at.com.media.markt
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
+https://play.google.com/store/apps/details?id=au.com.realestate.app
 https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=be.com.media.markt
 https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
@@ -6626,6 +6644,7 @@ https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
 https://portalv2.lh360.com
+https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
 https://powerpak.com
 https://preprod-datahub.xelians.fr/
@@ -6643,6 +6662,7 @@ https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
 https://profreg.medscape.com
 https://projects.epam.com
+https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://quantum-events.onecloud.harman.com
@@ -6865,6 +6885,7 @@ https://usa.visa.com/gateway/api
 https://usdstandard.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
+https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
@@ -6996,6 +7017,8 @@ https://www.definitivetechnology.com
 https://www.demandforced3.com/
 https://www.denon.com
 https://www.designify.com
+https://www.developersites.com.au/testing-2505-houston/
+https://www.developersites.com.au/testing-2505-lms/
 https://www.dmp.fr
 https://www.dmp.gouv.fr
 https://www.enjoyselfish.com
@@ -7162,7 +7185,10 @@ https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
 https://www.privateinternetaccess.com/download/mac-vpn
 https://www.privateinternetaccess.com/download/windows-vpn
+https://www.proptrack.com
+https://www.proptrack.com.au
 https://www.quintoandar.com.br/*
+https://www.realcommercial.com.au/
 https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
@@ -8184,6 +8210,7 @@ promo.tw.coupang.com
 prow.k8s.io
 proxy-production.lime.bike
 ps-cf.euce1.indriverapp.com
+ps-gw-cf.euce1.indriverapp.com
 ps5.np.playstation.net
 pscp.tv
 psp.marriott.com
@@ -8200,6 +8227,9 @@ py.pl
 qa.stats.nba.com
 qm-*.8x8.com
 quickstamp-gb.bpost.be
+ra-cf.euce1.indriverapp.com
+ra-gw-cf.euce1.indriverapp.com
+ra-gw-scf.euce1.indriverapp.com
 rafflee.co.uk
 random.uzleuven.be/random/
 raptor*.bykea.net
@@ -8208,6 +8238,9 @@ raptors905-qa.gleague.nba.com
 raptors905.gleague.nba.com
 ras1.optus.com.au 
 rates.rewire.com
+rc-cf.africa.afso1.aws.indriverapp.com
+rc-gw-scf.sa.apse1.aws.indriverapp.com
+rea-group.com
 reach.hostinger.com
 readonly.fareharbor.com
 realme 15 5G
@@ -8225,6 +8258,7 @@ realme P1 speed
 realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
+reastatic.net
 reco.tw.coupang.com
 recovery.privy.io
 redditforbusiness.com
@@ -8321,9 +8355,12 @@ rockstarnorth.com
 roominglist.hyatt.com
 router.geneva-staging.com
 row.pro
+rp-gw-scf.sa.apse1.aws.indriverapp.com
 rpc.drpc.testnet.arc.network
 rpc.testnet.arc.network
 rps.3cx.com
+rs-gw-cf.africa.afso1.aws.indriverapp.com
+rs-gw-scf.sa.apse1.aws.indriverapp.com
 rs-open-api.tw.coupang.com
 rs.visa.com
 rt.playcanvas.com
@@ -8348,6 +8385,9 @@ santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
 santacruz.gleague.nba.com
 sap.api-xperience.com
+sc-cf.euce1.indriverapp.com
+sc-gw-cf.euce1.indriverapp.com
+sc-gw-scf.euce1.indriverapp.com
 scan.clearme.com
 scan.nextcloud.com
 scan.snapchat.com
@@ -8355,6 +8395,7 @@ scapegoat.hyatt.com
 scp.watsons.com.tr
 scpapi.watsons.com.tr
 screenshot-proxy.netlify.app
+scripts.developersites.com.au
 scrutiny.swiftfinancial.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
@@ -8390,6 +8431,8 @@ servicefr.kruidvat.be
 servicenl.iciparisxl.be
 session-share.playstation.com
 settings.superhuman.com
+sfc-gw-scf.sa.apse1.aws.indriverapp.com
+sftp://ftp.developersites.com.au:45875
 sgnl.ai
 sgnl.cloud
 sgnl.team
@@ -8447,6 +8490,7 @@ smarttrader.deriv.com
 smetrics.marriott.com
 smtp.sendgrid.net
 smtp2go.com
+sn-api-gw-scf.sa.apse1.aws.indriverapp.com
 snappublisher.snapchat.com
 snaps.metamask.io
 soaext.oft.hyatt.com
@@ -8488,6 +8532,8 @@ speelgoedfolder.kruidvat.be
 speelgoedfolder.kruidvat.nl
 splunk-phantom-nlb.marriott.com
 sporza.be
+ssn-lb-cf.africa.afso1.aws.indriverapp.com
+ssn-lb-scf.sa.apse1.aws.indriverapp.com
 sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
@@ -8588,6 +8634,8 @@ support.rockstargames.com
 support.steampowered.com
 support.varonis.com
 supportal.netlify.app
+sur-gw-cf.euce1.indriverapp.com
+sur-gw-scf.euce1.indriverapp.com
 survey.vinci.com
 survey.visa.com
 surveyserver.nextcloud.com
@@ -8667,6 +8715,10 @@ tomoe.bykea.net
 toolsforhumanity.com
 townhall.nba.com
 tpp.nba.com
+tr-cf.euce1.indriverapp.com
+tr-gw-cf.euce1.indriverapp.com
+tr-gw-scf.euce1.indriverapp.com
+tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
@@ -8680,6 +8732,7 @@ trendyol.com
 trm.pinepaymentsolutions.com
 trs.nba.com
 trust.23andme.com
+trv-cf.euce1.indriverapp.com
 try.discourse.org
 tucarro.com
 tucarro.com.co
@@ -8689,6 +8742,9 @@ tw.coupang.com
 tw.coupangcorp.com
 tw.coupangls.com
 twinmotion.unrealengine.com
+txd-cf.cis.euce1.aws.indriverapp.com
+txf-cf.cis.euce1.aws.indriverapp.com
+txm-gw-cf.cis.euce1.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
 uatcms.optimuscards.com
 uber.com
@@ -8772,6 +8828,8 @@ visa.com.ru
 visainnovationprogram.com
 visaonchainanalytics.com
 visasgic.api-xperience.com
+vm-cf.mena.meso1.aws.indriverapp.com
+vm-gw-scf.sa.apse1.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
 voi.com
@@ -8802,9 +8860,13 @@ wallets.api.playstation.com
 wallettg.com
 wallettg.net
 walt.io
+was-cf.africa.afso1.aws.indriverapp.com
+was-gw-scf.sa.apse1.aws.indriverapp.com
 wasapi.watsons.com.tr
 watch-ng.nba.com
 watch.global.nba.com
+wd1-cf.euce1.indriverapp.com
+wd1-gw-cf.euce1.indriverapp.com
 weather.opera-api.com
 web-edge.clearme.com
 web-message-high.lime.bike
@@ -8862,6 +8924,8 @@ winterpackages.tomorrowland.com
 wisconsin-dev.gleague.nba.com
 wisconsin-qa.gleague.nba.com
 wisconsin.gleague.nba.com
+wlr-cf.euce1.indriverapp.com
+wlr-scf.euce1.indriverapp.com
 wmr.3cx.net
 wnbabroadcastmanuals.nba.com
 wolt.com
