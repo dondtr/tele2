@@ -525,7 +525,6 @@
 *.indriver.io
 *.indriverapp.com
 *.infomaniak.com
-*.infra-prod.nsvcs.net
 *.inpli.se
 *.insider.in
 *.insight.io
@@ -748,7 +747,6 @@
 *.oktukids.com
 *.okx.com
 *.oncatapult.com
-*.onegraph.com
 *.onevasco.com
 *.openai.com
 *.openai.org
@@ -762,7 +760,6 @@
 *.operanewsapp.com
 *.operationstechnology.io
 *.opr.news
-*.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
@@ -927,9 +924,7 @@
 *.seoquake.com
 *.serious.li
 *.seriously.com
-*.services-prod.nsvcs.net
 *.services.klaviyo.com
-*.services.netlify.com
 *.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
@@ -2258,8 +2253,6 @@ Marionnaud Switzerland Android
 Marionnaud Switzerland iOS
 Megaphone
 Merchant Portal
-MetaMask Browser Extension
-MetaMask SDK
 Mi Band
 Mi Electric Scooter 
 Mi Home Webcam 
@@ -2465,7 +2458,6 @@ Slack Desktop Application
 Smart Contract: Solana - EQYRmLmkE7G7a2WQyojwrXg4SeguypCdnbm3ecncizsd
 Smart Contract: Solana mainnet - xoUSDq85Rjsb6SbUwJyreFgeWQvxdkT7R3c3g7s6p5Y
 Smokescreen Open Source Project
-Snaps
 Social Media Accounts
 Sockets
 Software
@@ -2549,7 +2541,6 @@ The Perfume Shop Android
 The Perfume Shop iOS
 Third Party Application
 Third Party Marketplace Apps
-Third Party Snaps
 Third Party Targets
 Third-party dependency versions
 ThousandEyes Endpoint Agent 
@@ -2849,7 +2840,6 @@ api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
 api-wallet.venly.io
-api-wallet.web3auth.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
@@ -2956,7 +2946,6 @@ api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
 api.neon.opera.com/pub
-api.netlify.com
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
@@ -3084,7 +3073,6 @@ app.midtrans.com
 app.moderntreasury.com
 app.mona.co
 app.moonpay.com
-app.netlify.com
 app.nl.socialdeal
 app.paybox.sh
 app.pharmacy.superdrug.com
@@ -3826,6 +3814,9 @@ com.yourcompany.PPClient
 com.zhiliao.musically.livewallpaper
 com.zhiliaoapp.musically
 com.zzkko
+comets-dev.wnba.com
+comets-qa.wnba.com
+comets.wnba.com
 comic-indies.pixiv.net
 comic.pixiv.net
 commercemarketplace.adobe.com
@@ -3944,8 +3935,12 @@ cweb-ott-qa.nba.com
 cweb-ott-uat-preview.nba.com
 cweb-ott-uat-uc-preview.nba.com
 cweb-ott-uat-uc.nba.com
+cweb-ott-uat.nba.com
 cweb-ott-uc-preview.nba.com
 cweb-ott-uc.nba.com
+cweb-ott-wnba-dev.nba.com
+cweb-ott-wnba-qa.nba.com
+cweb-ott-wnba.nba.com
 cweb-ott.nba.com
 cweb-qa-aws-preview.nba.com
 cweb-slot1-ott-dev.nba.com
@@ -4017,6 +4012,7 @@ dev.courtside.nba.com
 dev.epicgames.com/*
 dev.stats.gleague.nba.com
 dev.stats.nba.com
+dev.stats.wnba.com
 devcenter.unico.io
 developer*.earlywarning.com
 developer-api.crypto.com
@@ -6214,7 +6210,6 @@ https://marketplace.atlassian.com/apps/1237787?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1238069/file-type-checker-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1238098/project-access-review-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1238103/appsvio-test-management-for-jira?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1238203/self-service-portal-report?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1238286/ai-ticket-assistant?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/133/custom-space-user-management-csum-for-dc-and-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/133/custom-space-user-management-csum-for-dc-and-cloud?hosting=datacenter&tab=overview
@@ -6292,7 +6287,6 @@ https://mein.wien.gv.at/
 https://mein.wien.gv.at/broker/api/*
 https://member.webmd.com
 https://metabase.pwn.intigriti.rocks/
-https://metamask.github.io/phishing-warning/<vX.Y.Z>
 https://metrobyt-mobile.com
 https://metroconnect.app.ridewithvia.com
 https://mg.n0c.com/
@@ -6906,10 +6900,10 @@ https://vtxapp9d.underarmour.com/
 https://vtxapp9p.underarmour.com/
 https://vtxapp9q.underarmour.com/
 https://vtxappd.underarmour.com/
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
-https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/status-lists
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/wpb
 https://wallet.blofin.com/en
 https://walletproxy.tapayments.com
@@ -7378,6 +7372,7 @@ identity-uat.nba.com
 identity.clearme.com
 identity.nba.com
 identity.stage.vismaonline.com
+identity.wnba.com
 identity.yoti.com
 identityhomolog.acesso.io
 identityserver-acc.landmarkcinemas.com
@@ -7422,8 +7417,6 @@ intercity.indrive.com
 internal-api-drive-stream.larksuite.com
 internal-api-lark-api.larksuite.com
 internal-api.larksuite.com
-internal-docs.netlify.com
-internal.netlify.com
 interseller.io
 investor.meesho.com
 investors.semrush.com
@@ -7431,8 +7424,6 @@ invisionu.education
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
-io.metamask
-io.metamask.Metamask
 iowa-dev.gleague.nba.com
 iowa-qa.gleague.nba.com
 iowa.gleague.nba.com
@@ -7536,6 +7527,8 @@ liberty-qa.wnba.com
 liberty-qa2.wnba.com
 liberty.wnba.com
 licensemgmt.varonis.com
+lineemup-dev.wnba.com
+lineemup.wnba.com
 link.tw.coupang.com
 linkpop.com
 links.geneva-staging.chat
@@ -7545,7 +7538,6 @@ liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
-list-v2--netlify-plugins.netlify.app
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -7562,8 +7554,11 @@ login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login-dev.nba.com
+login-dev.wnba.com
 login-qa.nba.com
+login-qa.wnba.com
 login-uat.nba.com
+login-uat.wnba.com
 login.arkane.network
 login.cm.com
 login.delen.be 
@@ -7582,6 +7577,7 @@ login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
 login.venly.io
+login.wnba.com
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -7616,7 +7612,6 @@ m.chaturbate.com
 m.dana.id
 m.reddit.com
 m.tw.coupang.com
-mUSD Stablecoin
 maestro.8x8.cloud
 magazine.kruidvat.be
 magento.com
@@ -7752,7 +7747,6 @@ mercury-qa2.wnba.com
 mercury.wnba.com
 meta-api.reddit.com
 metahuman.unrealengine.com
-metamask.io
 metasearch-api.booking.com
 metrics.int.remitly.com
 metrocompetitions.com
@@ -7879,8 +7873,6 @@ net.supertreat.solitaire
 net.wooga.junes_journey_hidden_object_mystery_game
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
-netlify-cdp-loader.netlify.app
-netlify-rum.netlify.app
 netposti.fi
 networkguard.com
 new.express.adobe.com
@@ -8069,6 +8061,7 @@ partnerselfservice.posti.fi
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
+pata.wnba.com
 pay-admin.exodus.io
 pay.8x8.com
 pay.exodus.io
@@ -8122,10 +8115,12 @@ plannerrequest.hyatt.com
 platform.8x8.com
 platform.8x8pilot.com
 platform.cloudways.com
+platform.enjin.io
 platform.remix.com
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
+playbook.wnba.com
 playcanv.as
 playcanvas.com
 player-login.unity.com
@@ -8394,7 +8389,6 @@ scan.snapchat.com
 scapegoat.hyatt.com
 scp.watsons.com.tr
 scpapi.watsons.com.tr
-screenshot-proxy.netlify.app
 scripts.developersites.com.au
 scrutiny.swiftfinancial.com
 secure-dfadmin.deriv.com
@@ -8461,7 +8455,6 @@ shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
 sign.dropbox.com
-signature-insights.api.cx.metamask.io
 signin.auth.welt.de
 signup.sendgrid.com
 simperium.com
@@ -8492,7 +8485,6 @@ smtp.sendgrid.net
 smtp2go.com
 sn-api-gw-scf.sa.apse1.aws.indriverapp.com
 snappublisher.snapchat.com
-snaps.metamask.io
 soaext.oft.hyatt.com
 social.geneva-staging.chat
 social.geneva-staging.com
@@ -8633,7 +8625,6 @@ support.nextcloud.com
 support.rockstargames.com
 support.steampowered.com
 support.varonis.com
-supportal.netlify.app
 sur-gw-cf.euce1.indriverapp.com
 sur-gw-scf.euce1.indriverapp.com
 survey.vinci.com
@@ -8736,6 +8727,7 @@ trv-cf.euce1.indriverapp.com
 try.discourse.org
 tucarro.com
 tucarro.com.co
+tue.wnba.com
 tumoto.com
 turing.exodus.io
 tw.coupang.com
@@ -8854,7 +8846,6 @@ w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
-wallet.web3auth.io
 walletbot.me
 wallets.api.playstation.com
 wallettg.com

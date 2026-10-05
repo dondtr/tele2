@@ -4825,6 +4825,9 @@ com.zhiliao.musically.livewallpaper
 com.zhiliaoapp.musically
 com.zopim.android
 com.zzkko
+comets-dev.wnba.com
+comets-qa.wnba.com
+comets.wnba.com
 comic-indies.pixiv.net
 comic.pixiv.net
 commerce.coinbase.com
@@ -4970,8 +4973,12 @@ cweb-ott-qa.nba.com
 cweb-ott-uat-preview.nba.com
 cweb-ott-uat-uc-preview.nba.com
 cweb-ott-uat-uc.nba.com
+cweb-ott-uat.nba.com
 cweb-ott-uc-preview.nba.com
 cweb-ott-uc.nba.com
+cweb-ott-wnba-dev.nba.com
+cweb-ott-wnba-qa.nba.com
+cweb-ott-wnba.nba.com
 cweb-ott.nba.com
 cweb-qa-aws-preview.nba.com
 cweb-slot1-ott-dev.nba.com
@@ -5066,6 +5073,7 @@ dev.courtside.nba.com
 dev.epicgames.com/*
 dev.stats.gleague.nba.com
 dev.stats.nba.com
+dev.stats.wnba.com
 devcenter.unico.io
 developer*.earlywarning.com
 developer-api.crypto.com
@@ -9163,6 +9171,7 @@ https://vtxapp9d.underarmour.com/
 https://vtxapp9p.underarmour.com/
 https://vtxapp9q.underarmour.com/
 https://vtxappd.underarmour.com/
+https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/status-lists
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/mdvm
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/pns
 https://wallet-backend-sandbox.apps.sandbox.nwb.youniqx.com/v1/rwsca
@@ -9787,6 +9796,7 @@ identity.clearme.com
 identity.nba.com
 identity.porsche.com
 identity.stage.vismaonline.com
+identity.wnba.com
 identity.yoti.com
 identityforce.com
 identityforcevault.com
@@ -10015,6 +10025,8 @@ lightsparkdev/js-sdk
 lightsparkdev/kotlin-sdk
 lightsparkdev/lightspark-crypto-uniffi
 lightsparkdev/swift-wallet-sdk
+lineemup-dev.wnba.com
+lineemup.wnba.com
 link.tw.coupang.com
 linkpop.com
 links.geneva-staging.chat
@@ -10045,11 +10057,14 @@ login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
 login-api.truelayer[-sandbox].com
 login-dev.nba.com
+login-dev.wnba.com
 login-ia.tvg.com
 login-pabets.tvg.com
 login-qa.nba.com
+login-qa.wnba.com
 login-sandbox.nba.com
 login-uat.nba.com
+login-uat.wnba.com
 login.arkane.network
 login.cm.com
 login.delen.be 
@@ -10073,6 +10088,7 @@ login.swapcard.com
 login.truelayer[-sandbox].com
 login.tvg.com
 login.venly.io
+login.wnba.com
 login.www.vaxvacationaccess.com
 logiq.logitech.io
 logistica.redelcom.cl
@@ -10668,6 +10684,7 @@ passkeys.foundation
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
+pata.wnba.com
 pay*.indriverapp.com
 pay-admin.exodus.io
 pay-api.truelayer[-sandbox].com
@@ -10747,6 +10764,7 @@ platformtest.cat.earlywarning.io
 play.google.com/store/apps/details?id=com.crowdstrike.falconmobile
 play.google.com/store/apps/details?id=fr.assurancemaladie.monespacesante&showAllReviews=true (Android)
 playartifact.com
+playbook.wnba.com
 playcanv.as
 playcanvas.com
 player-login.unity.com
@@ -11596,6 +11614,7 @@ trv-cf.euce1.indriverapp.com
 try.discourse.org
 tucarro.com
 tucarro.com.co
+tue.wnba.com
 tumoto.com
 tunnistus.s-ryhma.fi
 turing.exodus.io

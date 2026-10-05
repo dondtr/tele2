@@ -1479,7 +1479,6 @@ https://apps.apple.com/us/app/myfitnesspal-calorie-counter/id341232718
 https://app.navan.com
 https://marketplace.atlassian.com/apps/1222843/aio-tests-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219230/advanced-portal-reports-for-service-desk?hosting=cloud&tab=overview
-https://marketplace.atlassian.com/apps/1238203/self-service-portal-report?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1234378/modify-my-request?hosting=cloud&tab=overview
 https://secure.neogov.com
 https://login.neogov.com

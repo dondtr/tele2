@@ -512,7 +512,6 @@
 *.indriver.io
 *.indriverapp.com
 *.infomaniak.com
-*.infra-prod.nsvcs.net
 *.inpli.se
 *.insider.in
 *.insight.io
@@ -735,7 +734,6 @@
 *.oktukids.com
 *.okx.com
 *.oncatapult.com
-*.onegraph.com
 *.onevasco.com
 *.openai.com
 *.openai.org
@@ -749,7 +747,6 @@
 *.operanewsapp.com
 *.operationstechnology.io
 *.opr.news
-*.ops.netlify.com
 *.opsgenie.com
 *.optimuscards.com
 *.optus.com.au
@@ -914,9 +911,7 @@
 *.seoquake.com
 *.serious.li
 *.seriously.com
-*.services-prod.nsvcs.net
 *.services.klaviyo.com
-*.services.netlify.com
 *.services.repostnetwork.com
 *.shein.com
 *.sheingsp.com
