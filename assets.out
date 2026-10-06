@@ -44,7 +44,6 @@
 *.acceptance.cloud.8x8.com
 *.account.roon.app
 *.accounts.realestate.com.au
-*.acrobat.adobe.com
 *.acronis.com
 *.acronis.work
 *.ad.nl
@@ -590,7 +589,6 @@
 *.latitudepay.com.au
 *.lemonsqueezy.com
 *.libelle.nl
-*.lightroom.adobe.com
 *.link.co
 *.linktree-extensions.com
 *.logi.com
@@ -1689,12 +1687,6 @@ ASN: AS62876
 AWS Infrastructure
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 AXIS OS
-Acrobat AI Assistant
-Acrobat Create Podcast
-Acrobat Create Presentations
-Acrobat PDF Spaces
-Acrobat Reader Mobile App (Android)
-Acrobat Reader Mobile App (iOS)
 Acronis Agent
 Acronis Cloud Manager
 Acronis Cyber Infrastructure
@@ -1703,15 +1695,6 @@ Acronis DeviceLock DLP
 Acronis Snap Deploy
 Acronis True Image (formerly Acronis Cyber Protect Home Office)
 Additional Loyalty scope included under resources tab
-Adobe ColdFusion without ColdFusion Administrator
-Adobe Commerce, Adobe Commerce B2B and Magento Open Source
-Adobe Express AI Assistant
-Adobe Firefly AI Features
-Adobe Fresco (iOS)
-Adobe Photoshop Express Mobile App (iOS)
-Adobe Scan Mobile App (Android)
-Adobe Scan Mobile App (iOS)
-Adobe Stock AI Studio
 AdwCleaner
 Affiliates or entities such as recently acquired companies
 Agent SDKs
@@ -1897,7 +1880,6 @@ Coda Chrome Extension
 Codex Desktop
 CoinMarketCap Android app
 CoinMarketCap iOS app
-ColdFusion Administrator
 ColorOS
 Community Management & Communications
 Compass
@@ -2031,7 +2013,6 @@ FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
 Fortress Hong Kong Android
 Fortress Hong Kong iOS
-Frame.io iOS Application
 Front for Mac
 Front for Windows
 Functions dealing with vehicle access and immobilizer
@@ -2197,9 +2178,6 @@ Leaked Employee API Keys
 Leaked/Сompromised Employee accounts
 Lens Studio
 Liberty 5 Pro Max D1204
-Lightroom AI Features
-Lightroom Video & Photo Editor (Android)
-Lightroom Video & Photo Editor (IOS)
 Load Balancing
 Localized airbnb sites listed at the link below:
 Localized versions of www.tripadvisor.com available from the site's header or footer
@@ -2364,7 +2342,6 @@ Password Sync for macOS
 PayPal SDK
 Peephole Cam
 Penny
-Photoshop AI Assistant
 PlayStation 4
 PlayStation 5
 Playground
@@ -2720,11 +2697,9 @@ access.ripe.net
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
-account.adobe.com
 account.booking.com
 account.box.com
 account.krisp.ai
-account.magento.com
 account.ui.com
 accountoffers.wellsfargo.com
 accounts.cloud.com
@@ -2765,7 +2740,6 @@ admincms.monespacesante.fr
 adminstore.developer.monespacesante.fr
 adminstore.monespacesante.fr
 admintool.lime.bike
-adobeid-na1.services.adobe.com
 ads-partners.tw.coupang.com
 ads.reddit.com
 ads.snapchat.com
@@ -3167,7 +3141,6 @@ auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
-auth.services.adobe.com
 auth.skypicker.com
 auth.truelayer[-sandbox].com
 auth0.com	
@@ -3834,7 +3807,6 @@ comets-uat.wnba.com
 comets.wnba.com
 comic-indies.pixiv.net
 comic.pixiv.net
-commercemarketplace.adobe.com
 community.8x8.com
 community.forescout.com
 community.logitech.com
@@ -4218,7 +4190,6 @@ fch-gw-cf.euce1.indriverapp.com
 fch-gw-scf.euce1.indriverapp.com
 fch-scf.euce1.indriverapp.com
 fe-gw-scf.sa.apse1.aws.indriverapp.com
-federatedid-na1.services.adobe.com
 feed-web.tw.coupang.com
 feedback.logitech.com
 fetlife.com
@@ -4250,7 +4221,6 @@ fintech-aml-kyc-tw.coupang.com
 fire-dev.wnba.com
 fire-qa.wnba.com
 fire.wnba.com
-firefly.adobe.com
 fit.nba.com
 flights.booking.com
 flourish-user-preview.com
@@ -4263,7 +4233,6 @@ folder.kruidvat.be
 folder.kruidvat.nl
 folder.trekpleister.nl
 folders.iciparisxl.nl
-fonts.adobe.com
 forms.cybersource.com
 forms.mobilevikings.be
 fortnite.com
@@ -7406,7 +7375,6 @@ ignite.gleague.nba.com
 ik.watsons.com.tr
 img.swapcard.com
 imove.bpost.cloud
-ims-na1.adobelogin.com
 in-gw-scf.sa.apse1.aws.indriverapp.com
 in.amazon.mShop.android.business.shopping
 in.amazon.mShop.android.shopping
@@ -7534,7 +7502,6 @@ larksuite.com
 launch.playcanvas.com
 launchpad.37signals.com
 lawmanager.marriott.com
-learningmanagerstage4.adobe.com
 lego.me
 leonard.vinci.com
 libNVVM API
@@ -7632,7 +7599,6 @@ m.reddit.com
 m.tw.coupang.com
 maestro.8x8.cloud
 magazine.kruidvat.be
-magento.com
 magic.veriff.me
 magisto.com,www.magisto.com
 mail.hostinger.com
@@ -7888,14 +7854,12 @@ ncc-cf.latam-br.saea1.aws.indriverapp.com
 ncc-gw-cf.latam-pe.saea1.aws.indriverapp.com
 neoket.net
 net.bitstamp.app
-net.s2stagehance.com
 net.supertreat.solitaire
 net.wooga.junes_journey_hidden_object_mystery_game
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
 netposti.fi
 networkguard.com
-new.express.adobe.com
 new.reddit.com
 new.www.vaxvacationaccess.com
 news.remitly.com
@@ -8134,7 +8098,6 @@ phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
 photoservice.stage.vismaonline.com
-photoshop.adobe.com
 picc.posti.fi
 pigeon.swiftfinancial.com
 plaid.com
@@ -8173,7 +8136,6 @@ portal.polygon.technology
 portal.taxi.booking.com
 portalinmobiliario.cl
 portalinmobiliario.com
-portfolio.ccpsx.com
 portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
@@ -8335,7 +8297,6 @@ remitresearch.com
 reno-dev.gleague.nba.com
 reno.gleague.nba.com
 repo.3cx.com
-repo.magento.com
 report-html-sight.stg.inspectorio.com
 report.voi.com
 res.blueskytours.globalbookingsolutions.com
@@ -8598,7 +8559,6 @@ status.delen.be
 status.larksuite.com
 status.uphold.com
 steamcommunity.com
-stock.adobe.com
 stockton-dev.gleague.nba.com
 stockton-qa.gleague.nba.com
 stockton.gleague.nba.com
