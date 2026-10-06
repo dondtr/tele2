@@ -69,6 +69,8 @@
 *.alasco.rocks
 *.aleenote.cn
 *.aleenote.com
+*.algolia.net
+*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -3973,6 +3975,7 @@ d-you Wallet iOS Test
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
+dashboard.algolia.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -4314,6 +4317,7 @@ giftcards.marriott.com
 gifts.grab.com
 gifts.marriott.com
 gist.github.com
+git.notebleue.pro
 github.com
 github.com/anthropics
 github.com/binary-com
@@ -7231,9 +7235,6 @@ https://www.thousandeyes.com/
 https://www.thuisbezorgd.nl/
 https://www.tickets.mgm.mo/
 https://www.tilalalghaf.com/en
-https://www.toursgds.com/
-https://www.toursgds.com/SupplierService?wsdl
-https://www.toursgds.com/ToursGdsService?wsdl
 https://www.tripadvisor.com
 https://www.twilio.com/docs/authy/api
 https://www.twilio.com/docs/libraries
@@ -8005,7 +8006,7 @@ oauth.developers.stagaws.visma.com
 obs-sensors.iris.acceptance.forescoutcloud.net
 obs-sensors.iris.production.forescoutcloud.net
 ocijlbex1prd.marriott.com
-odoo14.notebleue.pro
+odoo.zecible.pro
 odul.watsons.com.tr
 official-dev.nba.com
 official-qa.nba.com
@@ -8990,6 +8991,7 @@ www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
+www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.analvids.com
@@ -9446,8 +9448,10 @@ ywh.dev.zecible.fr
 ywh.fichiers.zecible.fr
 ywh.mydata.zecible.fr
 ywh.routage.zecible.fr
+ywh.static.zcb.fr
 ywh.static.zecible.fr
 ywh.update.zecible.fr
+ywh.verify.zecible.fr
 ywh.zcb.fr
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
