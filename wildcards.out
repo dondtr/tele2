@@ -231,7 +231,6 @@
 *.coinbase.com
 *.computerbild.de
 *.consumer.worldcoin.org
-*.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -563,7 +562,6 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
-*.kwsdose.be
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -660,7 +658,6 @@
 *.miot-spec.org
 *.mipay.com
 *.mipay.net
-*.mir.uzleuven.be
 *.mitt.vimla.se
 *.mittforetag.telenor.se
 *.miui.cn
@@ -786,7 +783,6 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
-*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -1064,7 +1060,6 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
-*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1177,10 +1172,8 @@
 *.zomato.com
 *dev*.arlo.com
 *ensemble*.yahoo.com
-*idp*.uzleuven.be
 *omega*.yahoo.com
 *qa*.arlo.com
-*stag*.uzleuven.be
 *test*.bykea.net
 3rd party services hosted at *.sophos.com
 Any associated *.atlassian.com or *.atl-paas.net domain that can be exploited DIRECTLY from the *.atlassian.net instance

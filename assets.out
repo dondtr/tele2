@@ -244,7 +244,6 @@
 *.coinbase.com
 *.computerbild.de
 *.consumer.worldcoin.org
-*.contactallerg(y|ie).uzleuven.be
 *.cp.dyson.com
 *.creditkarma.ca
 *.creditkarma.co.uk
@@ -576,7 +575,6 @@
 *.kruidvat.be
 *.kruidvat.nl
 *.kruidvatkids.nl
-*.kwsdose.be
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
@@ -673,7 +671,6 @@
 *.miot-spec.org
 *.mipay.com
 *.mipay.net
-*.mir.uzleuven.be
 *.mitt.vimla.se
 *.mittforetag.telenor.se
 *.miui.cn
@@ -799,7 +796,6 @@
 *.playstation.net
 *.playticorp.com
 *.playtika.com
-*.playuzleuven.be
 *.playwsop.com
 *.pns.hk
 *.points.com
@@ -1077,7 +1073,6 @@
 *.uscc.com
 *.uscc.net
 *.uscellular.com
-*.uzleuven.*
 *.vacationhomerentals.com
 *.varonis.com
 *.varonis.io
@@ -1190,19 +1185,16 @@
 *.zomato.com
 *app.simple-reports.com/demo
 *dev*.arlo.com
-*dev.uzleuven.be
 *developer.cloud.com
 *elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
-*idp*.uzleuven.be
 *inf.fndlsb.net
 *omega*.yahoo.com
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
 *sbbcargo.com
-*stag*.uzleuven.be
 *test*.bykea.net
 *transsicura.ch
 *uat.marriott.com
@@ -1334,7 +1326,6 @@
 193.109.229.0/24
 193.110.154.0/24
 193.5.66.0/23
-193.58.149.121,193.58.149.98,193.58.149.82,193.58.149.101,193.58.149.107,193.58.149.108,193.58.149.111
 193.8.251.0/24
 194.209.121.0/24
 194.35.79.0/24
@@ -2974,7 +2965,6 @@ api.watsons.vn
 api.whatnot.com
 api.wisdomtreeprimeapp.com
 api.wordpress.org
-api.workbox.dk
 api.yoti.com
 api2.frontapp.com
 api2.grofers.com
@@ -3059,7 +3049,6 @@ app.ticketmaster.eu
 app.ticketmaster.ie
 app.watsons.com.tr
 app.whoop.com
-app.workbox.dk
 app3.rewire.to
 applause1.magisto.com
 appmiral.com
@@ -3121,9 +3110,7 @@ auth0.com
 auth0.net
 authentication.clearme.com
 authentication.wolt.com
-authz.workbox.dk
 autocomplete.booking.com
-autodiscover.uzleuven.be
 autointerface.stag.visma.net
 autoupdateapi.lansweeper.com
 av.indrive.com
@@ -3229,6 +3216,7 @@ brasil.tomorrowland.com
 bridge.8x8.com
 bsp.marriott.com
 buckingfuggy.com
+bugbounty-refined-test-<bugcrowd-name>.refined.site	
 bugcrowd-*your-own-instance*.cloud.mattermost.com/
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
@@ -3295,8 +3283,6 @@ capitanes.gleague.nba.com
 capturingreality.com
 cardpayments.remitly.io
 cards.remitly.io
-cardsonline.azdiest.be
-cardsonlinetst.azdiest.be
 career.bpost.be
 careers.booking.com
 careers.capital.com
@@ -4074,7 +4060,6 @@ ecom-static.kruidvat.be
 ecom-static.kruidvat.nl
 ecommerce.hostinger.com
 ecosystem-experience.super-id.net
-ecrf.uzleuven.be
 edge.bookbeat.com
 edge.lansweeper.com
 edgeapi.slack.com
@@ -4138,10 +4123,8 @@ exs-dtu-gw-scf.sa.apse1.aws.indriverapp.com
 external-api.lime.bike
 external.indrive.dev
 external.logitech.com
-extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
-extranet.uzleuven.be
 extras-acc.landmarkcinemas.com
 extras.landmarkcinemas.com
 fab.com
@@ -4180,7 +4163,6 @@ fic-cf.euce1.indriverapp.com
 file-storage-front.aws.indriverapp.com
 file.larksuite.com
 files-stg.inspectorio.com
-files.uzleuven.be
 fileupload-video.tw.coupang.com
 fileupload.tw.coupang.com
 fintech-aml-kyc-tw.coupang.com
@@ -4556,6 +4538,7 @@ https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com
 https://api.myntra.com
 https://api.neogov.com
+https://api.onedoc.ch
 https://api.openai.com
 https://api.optimizely.com/
 https://api.paddle.com
@@ -4623,6 +4606,7 @@ https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4702,6 +4686,7 @@ https://apps.apple.com/id/app/superbank/id6444720285
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://apps.apple.com/ie/app/new-relic/id594038638
 https://apps.apple.com/in/app/city-centres/id1448471823
+https://apps.apple.com/in/app/expedia-group-partner-central/id987675995
 https://apps.apple.com/in/app/flipkart-online-shopping-app/id742044692
 https://apps.apple.com/in/app/mall-of-egypt-official-app/id1441905105
 https://apps.apple.com/in/app/mall-of-the-emirates-moe/id1449578693
@@ -4839,6 +4824,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5518,6 +5504,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -5573,6 +5560,7 @@ https://marketplace.atlassian.com/apps/1211109/user-deactivator-jira?hosting=ser
 https://marketplace.atlassian.com/apps/1211109/user-management-and-license-optimizer-for-jira-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211111/elements-copy-sync-jira-issue-sync?hosting=cloud
 https://marketplace.atlassian.com/apps/1211116/countdown-timer?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1211136/refined-macro-toolkit-content-formatting-macros?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1211141/xsd-viewer?hosting=cloud
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence/version-history
 https://marketplace.atlassian.com/apps/1211159/advanced-codeblocks-for-confluence?hosting=cloud
@@ -5683,6 +5671,7 @@ https://marketplace.atlassian.com/apps/1215843/global-pull-request-organizr?host
 https://marketplace.atlassian.com/apps/1215875/scrum-poker-estimates-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1216054/agile-retrospectives-for-confluence?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1216056/refined-toolkit-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1216060/atlas-crm-customers-in-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1216074/insight-macro-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1216079/statuspage-for-jira-service-management?hosting=cloud
@@ -5750,6 +5739,7 @@ https://marketplace.atlassian.com/apps/1218251/s-notify-email-encryption-for-jir
 https://marketplace.atlassian.com/apps/1218305/out-of-office-assistant-for-jira-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1218391/dependency-map-for-jira-link-viewer?hosting=cloud
 https://marketplace.atlassian.com/apps/1218474/compliance-for-confluence?hosting=cloud
+https://marketplace.atlassian.com/apps/1218481/refined-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/1218555/easy-pdf-html-word-export-to-custom-documents?hosting=cloud
 https://marketplace.atlassian.com/apps/1218652/deep-clone-for-jira?hosting=cloud
@@ -5839,6 +5829,7 @@ https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table
 https://marketplace.atlassian.com/apps/1221271/easy-heading-macro-floating-table-of-contents?hosting=datacenter
 https://marketplace.atlassian.com/apps/1221301/jira-cloud-for-excel-official?hosting=cloud
 https://marketplace.atlassian.com/apps/1221312/opsgenie-incident-timeline-eu?hosting=cloud
+https://marketplace.atlassian.com/apps/1221322/refined-for-confluence-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1221392/easy-agile-personas-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1221399/security-for-bitbucket-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1221462/time-between-statuses?hosting=cloud&tab=overview
@@ -6149,6 +6140,7 @@ https://marketplace.atlassian.com/apps/1236512/easy-action-items-checklist-templ
 https://marketplace.atlassian.com/apps/1236742/advanced-content-status-labels-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1236750?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1236956/power-bi-for-jira-embed-and-share-reports?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1236998/refined-ui-toolkit-for-confluence-page-builder-navigation?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1237211/devops-gadgets-for-jira-insights-from-github-bb?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1237433/snapmetrics-real-time-analytics?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1237512/latex-math-for-confluence?hosting=cloud
@@ -6417,6 +6409,7 @@ https://platform.nexo.com/api/trading/advanced/facade/api/v1/withdraw
 https://platform.openai.com/playground
 https://platform.rc.blis.com
 https://play.fga.dev/
+https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en
 https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=at.com.media.markt
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
@@ -6588,6 +6581,7 @@ https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -6601,6 +6595,7 @@ https://priceless.com/golf/
 https://printerdriver.posti.com/
 https://privacy.blismedia.com
 https://privateinternetaccess.com/api/client/v5
+https://pro.onedoc.ch
 https://pro.posti.fi
 https://prod.euid.eu
 https://prod.uidapi.com
@@ -6618,6 +6613,7 @@ https://quicksight.aws.amazon.com
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
+https://refinedsites.refinedwiki.com
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
 https://repair.voiweb.net
@@ -6759,6 +6755,7 @@ https://t-mobile.com
 https://takeaway.com
 https://taxify.eu/
 https://teach.classdojo.com
+https://telehealth.onedoc.ch
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
@@ -7091,6 +7088,7 @@ https://www.npmjs.com/package/@privy-io/wagmi
 https://www.nuinvest.com.br/
 https://www.okta.com/fastpass/
 https://www.okta.com/products/advanced-server-access/
+https://www.onedoc.ch
 https://www.ooredoo.qa
 https://www.opensincera.com
 https://www.opera.com/
@@ -7447,7 +7445,6 @@ ksuite.infomaniak.com
 ksuite.infomaniak.com/*/kdrive/*/preview/*
 kubernetes-csi.github.io
 kubernetes.io
-kumulus.uzleuven.be
 kws-companion/id1342124012
 kyc-onboarding.booking.com
 kyc.a.exodus.io
@@ -7480,8 +7477,6 @@ links.geneva-staging.chat
 links.geneva-staging.com
 links.portswigger.net
 liquidfiles.nexuzhealth.com
-liquidfiles.uzleuven.be
-liquidfilestest.uzleuven.be
 lirportal.ripe.net
 listing.here.com
 lists.nextcloud.com
@@ -7713,9 +7708,7 @@ mgs.marriott.com
 mijn.gamma.be/*
 mijn.gamma.nl/*
 mijn.karwei.nl/*
-mijnacc.uzleuven.be
 minerva.robinhood.com
-mirc.uzleuven.be
 mix-dev.monash.edu/*
 mix-qat.monash.edu/*
 mobile.clearme.com
@@ -7747,8 +7740,6 @@ msg-gw-scf.euce1.indriverapp.com
 msg.playcanvas.com
 mta-sts.wearehackerone.com
 mus1.badoo.com
-mx1.uzleuven.be
-mx2.uzleuven.be
 my-accpt.portofantwerp.com
 my-accpt.portofantwerpbruges.com
 my.account.sony.com
@@ -8040,7 +8031,6 @@ paypalobjects.com
 payroll.razorpay.com
 pb.deribit.com
 pc-gw-scf.sa.apse1.aws.indriverapp.com
-pcrstudioruzb.uzleuven.be
 pdfroster-dev.nba.com
 pdfroster-qa.nba.com
 pdfroster.nba.com
@@ -8107,8 +8097,6 @@ pr-qa.nba.com
 pr.nba.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
-prddnighting01.uzleuven.be
-prddsplunkhf.uzleuven.be
 premium.pixiv.net
 preprod.am.monespacesante.fr
 preprod.api.monespacesante.fr
@@ -8174,7 +8162,6 @@ ra-cf.euce1.indriverapp.com
 ra-gw-cf.euce1.indriverapp.com
 ra-gw-scf.euce1.indriverapp.com
 rafflee.co.uk
-random.uzleuven.be/random/
 raptor*.bykea.net
 raptors905-dev.gleague.nba.com
 raptors905-qa.gleague.nba.com
@@ -8207,6 +8194,7 @@ recovery.privy.io
 redditforbusiness.com
 refer.23andme.com
 referral-program.indrive.com
+refined.site/admin
 register-accpt.portofantwerp.com
 register-accpt.portofantwerpbruges.com
 register.bpost.be
@@ -8542,7 +8530,6 @@ streaming-gw.iris.production.forescoutcloud.net
 streaming.iris.acceptance.forescoutcloud.net
 streaming.iris.production.forescoutcloud.net
 sts.delen.be 
-sts.uzleuven.be
 studio-api.swapcard.com
 studio.swapcard.com
 studio.twilio.com
@@ -8627,7 +8614,6 @@ testapi.redoxengine.com
 testapp.redoxengine.com
 testbank.xs2a.com
 testing.maventa.com
-teststs.uzleuven.be
 texas-dev.gleague.nba.com
 texas-qa.gleague.nba.com
 texas.gleague.nba.com
@@ -8797,8 +8783,6 @@ vtmgo.be
 vttp.nba.com
 vwcm.visa.com
 vœux.vinci.com
-w1.uzleuven.be
-w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
@@ -8889,7 +8873,6 @@ world.hey.com
 world.hyatt.com
 world.org
 worldcoin.org
-wp5-truststroke.uzleuven.be
 wps-cps.cv.dmp.gouv.fr
 wps-cps.dmp.gouv.fr
 wps-cps.dmp.monespacesante.fr
@@ -9228,7 +9211,6 @@ www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
-www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
 www.vfsvisaonline.com
@@ -9374,7 +9356,6 @@ ywh.verify.zecible.fr
 ywh.zcb.fr
 zelleservice.my.salesforce.com
 zelleservice.my.site.com
-ziekenhuisschool.be
 zooplus.net
 ███
 ████
