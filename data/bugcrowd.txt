@@ -80,6 +80,20 @@ https://marketplace.atlassian.com/apps/1237524/dashboard-assistant-for-jira-clou
 https://marketplace.atlassian.com/apps/1238098/project-access-review-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1238069/file-type-checker-for-jira-cloud?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225059/apptime-free-time-tracking-planning-team-mangement?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1215431/ai-powered-automated-release-notes-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1212849/upraise-for-employee-success-with-okrs?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1220406/upraise-people-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1218801/upraise-for-employee-garrison?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1217536/embedder-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1221519/roadmap-portal-for-jira-service-desk?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1225798/screenjar-screen-recorder-for-jira?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1230896/arn-confluence-helper-app?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219112/easy-templates-for-jira-issues?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236389/easy-progress-hill-charts-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1236512/easy-action-items-checklist-templates-and-automation?hosting=cloud&tab=overview
@@ -767,6 +781,9 @@ https://apps.apple.com/gb/app/bwin-sports-betting/id393760245
 https://apps.apple.com/gb/app/partycasino-play-casino-games/id818432894
 https://apps.apple.com/gb/app/partypoker-texas-holdem-poker/id687740281
 https://www.galacasino.com
+https://marketplace.atlassian.com/apps/1225496/?hosting=cloud
+https://marketplace.atlassian.com/apps/1234104/smart-guess-free-planning-poker-for-jira?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/4028833452/smart-guess-time-in-status-flow-intelligence-ai-guidance?hosting=cloud&tab=overview
 https://www.epam.com/
 https://projects.epam.com
 https://lab.epam.com
@@ -881,9 +898,7 @@ https://www.myprotein.com/
 https://www.myvitamins.com/
 https://www.arrowfilms.com
 https://www.mankind.co.uk/
-https://www.illamasqua.com/
 https://www.matalan.co.uk
-https://www.enjoyselfish.com
 Hypixel Public APIs
 Hytale Game Client
 Hytale Game Server
@@ -1250,6 +1265,11 @@ https://playlist.link
 https://mylink.page
 https://marketplace.atlassian.com/apps/1230303/project-templates-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1235430/space-templates-for-confluence?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1224662/usage-statistics-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1224660/link-management-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1213057/lively-blogs-vibrant-news-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1214272/task-reminder-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1211199/pocketquery-sql-rest-for-confluence?hosting=cloud&tab=overview
 https://shop.lululemon.com
 https://apps.apple.com/us/app/lululemon/id920098546
 https://www.lululemon.com.au/  

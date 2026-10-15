@@ -2,6 +2,9 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
+*. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
 *.3lateral.com
@@ -252,6 +255,7 @@
 *.dbtlabs.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -269,9 +273,11 @@
 *.devicelock.com
 *.dibz.co.uk
 *.digitalocean.com
+*.directverify.in
 *.district.in
 *.dns.eu
 *.docsend.com
+*.docswallet.com
 *.doctolib.(fr|de|it|com|net)
 *.doj.io
 *.dojo.me
@@ -340,6 +346,7 @@
 *.exodus.com
 *.exodus.io
 *.expedia-aarp.com
+*.expedia.biz
 *.expedia.com
 *.expediaagents.com
 *.expediacruises.com
@@ -576,6 +583,7 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -708,6 +716,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -723,6 +732,7 @@
 *.oktukids.com
 *.okx.com
 *.oncatapult.com
+*.onevasco.com
 *.openai.com
 *.openai.org
 *.openvela.com
@@ -970,6 +980,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.super.xyz
@@ -1071,6 +1082,10 @@
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
+*.vfsai.com
+*.vfsevisa.com
+*.vfsglobal.(com|co.uk|ca)
+*.vfsglobal.by
 *.vhx.tv
 *.viator.com
 *.viatorinc.com
@@ -1135,6 +1150,8 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
