@@ -2,8 +2,6 @@
  *.test.*.lfscnp.com
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -255,7 +253,6 @@
 *.dbtlabs.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
-*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -583,7 +580,6 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -716,7 +712,6 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -963,6 +958,8 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -980,7 +977,6 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
-*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.super.xyz
@@ -1039,6 +1035,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
@@ -1150,8 +1149,6 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn

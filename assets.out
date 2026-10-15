@@ -15,8 +15,6 @@
 (se|fi|uk).bingo.com
 *-api-*.acronis.com
 *-vpn.8x8.com
-*. advancedcustomfields.com
-*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -268,7 +266,6 @@
 *.dbtlabs.com
 *.dcfgateway.marriott.com
 *.de.jbl.com
-*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -596,7 +593,6 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
-*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -729,7 +725,6 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -976,6 +971,8 @@
 *.springtools.de
 *.sprint.apps.dynatracelabs.com
 *.sprint.dynatracelabs.com
+*.sqills.com
+*.sqills.team
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -993,7 +990,6 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
-*.studiopress.com
 *.stylebook.de
 *.subp-router.hereapi.com
 *.super.xyz
@@ -1052,6 +1048,9 @@
 *.trip.com
 *.triplinkintl.com
 *.trouw.nl
+*.truelayer.cloud
+*.truelayer.com
+*.truelayer.io
 *.tstaging.com
 *.tstaging.tools
 *.tucarro.com.ve
@@ -1163,8 +1162,6 @@
 *.worldcoin.org
 *.worldfirst.com
 *.wotif.com
-*.wpengine.io
-*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -1822,6 +1819,7 @@ BuddyPress Core
 Burp Collaborator
 Burp Suite DAST
 Burp Suite Pro/Community
+C# SDK
 C100447517
 C103149579
 CDNJS
@@ -2113,6 +2111,7 @@ In Scope - Points only
 Indoor Cam
 Infrastructure & Internal Apps/Services
 Intellectual Property on Public Domains
+Java SDK
 Jetpack
 Jira
 Jira Projects
@@ -2340,6 +2339,7 @@ Other assets
 Other assets owned by Personio
 Other non-production infrastructure
 Other related e-commerce services
+PHP SDK
 PIA VPN servers
 PNS Android
 PNS iOS
@@ -2362,6 +2362,7 @@ Protocol of the Swiss Post Voting System
 Protocol of the Swiss Post Voting System 2.0 (Whitepaper)
 Public API
 Public Others Target
+React Native SDK
 Recon Data
 Recruitment services
 Relational Migrator
@@ -2385,6 +2386,7 @@ Roblox Client
 Roblox Engine
 Roblox Studio
 Rockstar Games Launcher
+Rust SDK
 SAP AI Core
 SAP Business Network for Asset Collaboration
 SAP Business Network for Logistics	
@@ -2543,6 +2545,7 @@ Trello Mobile App for Android
 Trello Mobile App for iOS
 Trello Third Party Powerups
 Tribal Wars
+TrueLayer for Magento (Magento plugin)
 TrustedServer 100,000 Bonus Award (See Program Policy for Info)
 Trustwallet Android App
 Trustwallet Chrome Extension
@@ -2600,7 +2603,6 @@ WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 WP Cloud
-WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -2622,6 +2624,7 @@ Watsons Turkey iOS
 Watsons Vietnam Android
 Watsons Vietnam iOS
 Web Playback SDK
+Web SDK
 Web3 - Smart Contracts Scope
 Whatnot: Shop, Sell, Connect
 Wickr Me Android
@@ -2912,6 +2915,7 @@ api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
 api.moonx-dev.com
+api.mtls.truelayer[-sandbox].com
 api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
@@ -2967,6 +2971,7 @@ api.syfe.com
 api.taxjar.com
 api.theperfumeshop.com
 api.trello.com
+api.truelayer[-sandbox].com
 api.tumblr.com
 api.twilio.com
 api.unleashed.be
@@ -3068,6 +3073,7 @@ app.ticketmaster.com.au
 app.ticketmaster.com.mx
 app.ticketmaster.eu
 app.ticketmaster.ie
+app.truelayer[-sandbox].com
 app.watsons.com.tr
 app.whoop.com
 app3.rewire.to
@@ -3121,12 +3127,14 @@ auth.digital.delen.lu
 auth.dmp.gouv.fr
 auth.monespacesante.fr
 auth.moonpay.com
+auth.mtls.truelayer[-sandbox].com
 auth.nextcloud.com
 auth.ort-one-pingone.com
 auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
 auth.skypicker.com
+auth.truelayer[-sandbox].com
 auth0.com	
 auth0.net
 authentication.clearme.com
@@ -3814,11 +3822,13 @@ connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
 connectedapps.dev
+console-backend.truelayer[-sandbox].com
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
 console.posti.com
 console.tink.com
+console.truelayer[-sandbox].com
 console.twilio.com
 console.x.ai
 console.x.com
@@ -4624,7 +4634,6 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/
 https://app.fin.ai/
-https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.insomnia.rest/
@@ -5182,7 +5191,6 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
-https://getflywheel.com
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5561,7 +5569,6 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
-https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -5791,7 +5798,6 @@ https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-con
 https://marketplace.atlassian.com/apps/1218888/simple-custom-reports-charts-time-in-status-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218960/scrum-poker-estimates-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=datacenter
-https://marketplace.atlassian.com/apps/1219003/enriched-profiles-for-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219004/worklogs-time-tracking-and-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219099/stagil-tables-todo-checklists-reports-statistics?hosting=cloud&tab=overview
@@ -5998,7 +6004,6 @@ https://marketplace.atlassian.com/apps/1225375/site-statistics-for-jira-cloud?ho
 https://marketplace.atlassian.com/apps/1225449/intelligent-user-manager-ium-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225496/?hosting=cloud
 https://marketplace.atlassian.com/apps/1225519/elements-publish-to-confluence-create-pages-from-jira?hosting=cloud
-https://marketplace.atlassian.com/apps/1225551/typeform-integration-for-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225654/ui-wireframes-mockup-prototype-diagrams-for-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1225664/form-macro-builder-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1225798/screenjar-screen-recorder-for-jira?tab=overview&hosting=cloud
@@ -6069,7 +6074,6 @@ https://marketplace.atlassian.com/apps/1228657/easy-peasy-roadmap-for-jira?hosti
 https://marketplace.atlassian.com/apps/1228694/revyz-backup-restore?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228719/gitprotect-io-for-jira-backup-restore-dr-data-management?hosting=cloud
 https://marketplace.atlassian.com/apps/1228815?tab=overview&hosting=cloud
-https://marketplace.atlassian.com/apps/1228848/release-planning-and-reports-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228867/assetit-it-asset-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228868/esign-document-management?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1228920/issue-work-item-summary-description-templates-for-jira?hosting=cloud&tab=overview
@@ -6320,7 +6324,6 @@ https://my.smartposti.lt
 https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
-https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -6422,7 +6425,6 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
-https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
@@ -6787,7 +6789,6 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
-https://studiopress.blog
 https://stytch.com/blog
 https://stytch.com/dashboard
 https://suggestions.opera-api.com
@@ -6827,7 +6828,6 @@ https://ticket.multiplayer.classdojo.com
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
-https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6889,7 +6889,6 @@ https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
-https://velocitize.com
 https://vendor.riskrecon.com
 https://vendor.riskrecon.eu
 https://vendors.paddle.com
@@ -6936,7 +6935,6 @@ https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
-https://wpengine.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -7552,6 +7550,7 @@ logilife.logitech.com
 login-4ngbets.us.betfair.com
 login-4njbets.us.betfair.com
 login-accpt.portofantwerpbruges.com
+login-api.truelayer[-sandbox].com
 login-dev.nba.com
 login-dev.wnba.com
 login-qa.nba.com
@@ -7575,6 +7574,7 @@ login.rei.com
 login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
+login.truelayer[-sandbox].com
 login.venly.io
 login.wnba.com
 login.www.vaxvacationaccess.com
@@ -7996,6 +7996,7 @@ oklahomacity-qa.gleague.nba.com
 oklahomacity.gleague.nba.com
 om.vodafone.mva
 onboarding-*.cloud.com
+onboarding-api.truelayer.com
 onboarding.cloud.com
 onboarding.greenhouse.io
 one-world-radio-tomorrowland/id1485778856
@@ -8062,13 +8063,16 @@ passwordchallenge.marriott.com
 pastela.app
 pata.wnba.com
 pay-admin.exodus.io
+pay-api.truelayer[-sandbox].com
 pay.8x8.com
 pay.exodus.io
 pay.ibex.exchange
 pay.tokopediax.com
+pay.truelayer[-sandbox].com
 pay.tw.coupang.com
 pay.wallet.tg
 paybridge.booking.com
+paydirect.truelayer[-sandbox].com
 payment.backend-capital.com
 payment.bingo.com
 payment.casinohuone.com
@@ -8079,10 +8083,12 @@ payment.ottokasino.com
 payment.pixiv.net
 payment.storspelare.se
 payment.storspiller.com
+payment.truelayer[-sandbox].com
 payment.tw.coupang.com
 payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 payment.vladcazino.ro
 paymentcomponent.booking.com
+payments-experience-api.truelayer[-sandbox].com
 payments.geneva-staging.chat
 payments.geneva-staging.com
 payments.hostinger.com
@@ -8430,6 +8436,7 @@ servicenl.iciparisxl.be
 session-share.playstation.com
 settings.superhuman.com
 sfc-gw-scf.sa.apse1.aws.indriverapp.com
+sftp.reports.truelayer.com
 sftp://ftp.developersites.com.au:45875
 sgnl.ai
 sgnl.cloud
@@ -8443,6 +8450,7 @@ share.portofantwerp.com
 share.portofantwerpbruges.com
 share.portswigger.net
 shop-id.tokopedia.com
+shop-pay-app-api.truelayer.com
 shop.app
 shop.dyson.co.za
 shop.dyson.tw
@@ -8455,6 +8463,7 @@ shop.trouw.nl
 shop.tw.coupang.com
 shop.whoop.com
 shop.wyndhamvacationownership.trisept.travel
+shopify-admin.truelayer.com
 shopify.plus
 shopifyinbox.com
 shoppers.instacart.com
@@ -8728,6 +8737,7 @@ trello.com
 trendyol.com
 trm.pinepaymentsolutions.com
 trs.nba.com
+truelayer-signing
 trunking.twilio.com
 trust.23andme.com
 trv-cf.euce1.indriverapp.com
@@ -8768,12 +8778,14 @@ us.cloud.com
 us.forescout.cloud
 us1.badoo.com
 usa.visa.com
+user-authentication-api.truelayer[-sandbox].com
 user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
 userprofile-acc.landmarkcinemas.com
 userprofile-ui.landmarkcinemas.com
+users-api.truelayer.com
 uwa.mobilevikings.be
 v0.app
 v0.dev
@@ -8889,6 +8901,7 @@ webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
 webauthn.me	
 webhooks.booking.com
+webhooks.truelayer[-sandbox].com
 webtask.run
 webtoolbox.notebleue.pro
 webwinkel.parool.nl
