@@ -12,7 +12,6 @@ Any other *.atlassian.com or *.atl-paas.net domain that cannot be exploited dire
 *.backblazeb2.com
 *.bitdefender.net
 *.bitdefender.com
-*.bitgo.com
 *.blofin.com
 *.boltable.eu
 *.gov.bugcrowd.net
