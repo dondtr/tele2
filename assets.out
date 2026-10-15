@@ -166,6 +166,7 @@
 *.bionic.ai
 *.bitdefender.com
 *.bitdefender.net
+*.bitgo.com
 *.blinkforhome.com/*
 *.blofin.com
 *.boardkingsgame.com
@@ -4592,6 +4593,8 @@ https://app-staging.getmoneytree.com
 https://app.agency360.com
 https://app.asana.com
 https://app.aurory.io
+https://app.bitgo-test.com
+https://app.bitgo.com
 https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
 https://app.chime.com
 https://app.datadome.co
@@ -4846,6 +4849,7 @@ https://billingserver.pinelabs.com
 https://binance.tr
 https://bistro.sk
 https://bitbucket.org
+https://bitgo.ae/
 https://bitso.com
 https://blablacardaily.com
 https://blis.com
@@ -6818,6 +6822,7 @@ https://us.eufy.com/products/t88511d1
 https://us.eufy.com/products/t88711w1
 https://us.identity.konghq.com/*
 https://usa.visa.com/gateway/api
+https://usdstandard.com/
 https://utv.usaa.com
 https://v.utv.usaa.com
 https://valuations-sit.uat.proptrack.com
