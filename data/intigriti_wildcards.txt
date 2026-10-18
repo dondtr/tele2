@@ -41,7 +41,6 @@
 *.cloudways.com
 *.dpgmedia.be
 *.dpgmedia.nl
-*.datacamp.com
 *.demorgen.be
 *.volkskrant.nl
 *.digitalocean.com
@@ -153,13 +152,6 @@ sks-*.exo.io
 *.tweakblogs.net
 *.tweakers.net
 *.tweakimg.net
-*.kwsdose.be
-*.playuzleuven.be
-*.uzleuven.*
-*.contactallerg(y|ie).uzleuven.be
-*.mir.uzleuven.be
-*idp*.uzleuven.be
-*stag*.uzleuven.be
 *.vtm.be
 *.vtmgo.be
 *.veriff.com
