@@ -70,8 +70,6 @@
 *.alasco.rocks
 *.aleenote.cn
 *.aleenote.com
-*.algolia.net
-*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -264,7 +262,6 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
-*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -2822,15 +2819,12 @@ api-sandbox.uphold.com
 api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
-api-wallet-sandbox.venly.io
-api-wallet.venly.io
 api.23andme.com
 api.8x8.com
 api.adm.cloud.com
 api.airbnb.com
 api.alasco.de
 api.anthropic.com
-api.arkane.network
 api.atg.se
 api.authy.com
 api.binance.com
@@ -3016,9 +3010,6 @@ app.alasco.de
 app.basecamp.com
 app.box.com
 app.circle.com
-app.datacamp.com/certification
-app.datacamp.com/groups
-app.datacamp.com/learn
 app.delen.be 
 app.delen.ch 
 app.delen.lu 
@@ -3110,9 +3101,6 @@ arc.net
 arrive-server.shopifycloud.com
 arsentomsky.indrive.com
 askpeopleteam.visa.com
-assessment-api.datacamp.com
-assessment-v2.datacamp.com 
-assessment.datacamp.com
 assets.airbnb.com
 assets.hyatt.com
 assets.koho.ca
@@ -3314,7 +3302,6 @@ campaign.theperfumeshop.com
 campaign.trekpleister.nl
 campaign.watsons.com.tr
 campaigns.theperfumeshop.com
-campus.datacamp.com
 cancellation.prod.ps.welt.de
 canton-dev.gleague.nba.com
 canton-qa.gleague.nba.com
@@ -3550,7 +3537,6 @@ com.coloros.wallet
 com.compass.compass
 com.creditkarma.mobile
 com.creditkarma.mobile.international
-com.datacamp
 com.dd.doordash
 com.deribit
 com.dolap.android
@@ -3835,11 +3821,9 @@ configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
-connect.arkane.network 
 connect.identity.stagaws.visma.com
 connect.posti.fi
 connect.secure.wellsfargo.com
-connect.venly.io
 connectedapps.dev
 console-backend.truelayer[-sandbox].com
 console.anthropic.com
@@ -3956,7 +3940,6 @@ d-you Wallet iOS Test
 dash.ai
 dash.cloudflare.com
 dash.dropbox.com
-dashboard.algolia.com
 dashboard.doppler.com
 dashboard.mergify.com
 dashboard.plaid.com
@@ -4651,7 +4634,7 @@ https://app.asana.com
 https://app.aurory.io
 https://app.bitgo-test.com
 https://app.bitgo.com
-https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/e5213e1a814bf0ba/public-install-page/bed0d33f048271d6828c5a4a979ecc96
+https://app.bitrise.io/app/51a95edaab331ec5/installable-artifacts/48548bd7878361ab/public-install-page/82f78f6dddbebab09e2f4ac3c0081984
 https://app.chime.com
 https://app.datadome.co
 https://app.easy4ipcloud.com
@@ -4668,7 +4651,6 @@ https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
-https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4699,7 +4681,6 @@ https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
 https://apps.apple.com/au/app/certsy/id1617796159
-https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
@@ -4887,7 +4868,6 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
-https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5568,7 +5548,6 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
-https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -6665,7 +6644,6 @@ https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
-https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -7592,7 +7570,6 @@ login-qa.nba.com
 login-qa.wnba.com
 login-uat.nba.com
 login-uat.wnba.com
-login.arkane.network
 login.cm.com
 login.delen.be 
 login.delen.ch 
@@ -7610,7 +7587,6 @@ login.remitly.com
 login.starbucks.co.jp
 login.swapcard.com
 login.truelayer[-sandbox].com
-login.venly.io
 login.wnba.com
 login.www.vaxvacationaccess.com
 logiq.logitech.io
@@ -8207,7 +8183,6 @@ ppw.euce1.indriverapp.com
 pr-dev.nba.com
 pr-qa.nba.com
 pr.nba.com
-practice.datacamp.com
 prd-ring-web-us.prd.rings.solutions
 prd.iat.it.xvservice.net
 prddnighting01.uzleuven.be
@@ -8252,8 +8227,6 @@ profile-photos-us-east-2.hackerone-user-content.com
 profile-photos.hackerone-user-content.com
 profile.playstation.com
 profile.segment.com
-profiles-api.datacamp.com
-projects.datacamp.com
 projects.nextcloud.com
 promo.tw.coupang.com
 prow.k8s.io
@@ -8913,7 +8886,6 @@ w1.uzleuven.be
 w1.uzleuven.be/random
 wallet-sandbox.uphold.com
 wallet.tg
-wallet.venly.io
 walletbot.me
 wallets.api.playstation.com
 wallettg.com
@@ -9026,7 +8998,6 @@ www.abritel.fr
 www.ad.nl
 www.ad.nl/abonnementen
 www.airbnb.com
-www.algolia.com
 www.am.monespacesante.fr
 www.amazon.*
 www.analvids.com
@@ -9072,8 +9043,6 @@ www.creditkarma.ca
 www.crowdstrike.com
 www.crowdstrike.org
 www.cybersource.com
-www.datacamp.com
-www.datacamp.com/datalab
 www.ddfcontent.com
 www.delen.bank
 www.delen.be/en 

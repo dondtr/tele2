@@ -57,8 +57,6 @@
 *.alasco.rocks
 *.aleenote.cn
 *.aleenote.com
-*.algolia.net
-*.algolianet.com
 *.alipayplus.com
 *.allegro.cz.allegrosandbox.pl
 *.allegro.pl.allegrosandbox.pl
@@ -251,7 +249,6 @@
 *.das.eu
 *.dash.ai
 *.data.api.platform.here.com
-*.datacamp.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
