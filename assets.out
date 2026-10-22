@@ -1671,6 +1671,7 @@ AMP Real URL
 API & SDKs
 API Playground
 API Shield
+API calls going to disco-api from https://www.tagesanzeiger.ch 
 API's
 AS16314
 AS6720 1/2
@@ -4044,7 +4045,6 @@ dns1.optus.net.au
 do.co
 doaction.org
 docs.anthropic.com
-docs.api.enterprise.uphold.com
 docs.gitlab.com
 docs.gocardless.com
 docs.lansweeper.com
@@ -4567,6 +4567,12 @@ https://api.datadome.co
 https://api.dbs.kape.com
 https://api.dts.kape.com
 https://api.enc.kape.com
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
 https://api.expressvpn.com
 https://api.fishbowlapp.com/*
 https://api.fstr.rocks
@@ -5214,6 +5220,7 @@ https://github.com/ExodusOSS/bytes
 https://github.com/ExodusOSS/crypto
 https://github.com/ExodusOSS/hydra
 https://github.com/Hacker0x01/react-datepicker
+https://github.com/Infomaniak/desktop-kChat
 https://github.com/Infomaniak/desktop-kDrive
 https://github.com/OctopusDeploy
 https://github.com/ProjectOpenSea/seaport#deployments
@@ -7225,6 +7232,7 @@ https://www.sophos.com/en-us/products/mobile-control/free-trial
 https://www.sophos.com/en-us/products/next-gen-firewall
 https://www.sourcetreeapp.com/
 https://www.spontaan.nl/
+https://www.tagesanzeiger.ch
 https://www.tdfitloan.com/#!/
 https://www.teamviewer.com/en/products/teamviewer/
 https://www.thecurrent.com
@@ -8599,7 +8607,6 @@ stats.vinci.com
 stats.wnba.com
 status.delen.be 
 status.larksuite.com
-status.uphold.com
 steamcommunity.com
 stockton-dev.gleague.nba.com
 stockton-qa.gleague.nba.com

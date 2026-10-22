@@ -64,7 +64,6 @@ Open redirect at *.projects.epam.com, *.lab.epam.com, *.opensource.epam.com
 *.dbtlabs.com
 *.kiln.it
 *.central.arubanetworks.com
-*.central.arubanetworks.com
 *.movilepay.com
 *.movilepay.com.br
 *.imperva.com
