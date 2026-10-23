@@ -459,6 +459,7 @@ kws-companion/id1342124012
 mynexuz.be
 mynexuzhealth/id1459856321
 liquidfiles.nexuzhealth.com
+idp-url.nexuzhealth.be
  idp-contact.nexuzhealth.be
 media.nexuzhealth.be/patient/ 
 https://associatie.kuleuven.be/inschrijvingen/oli_login_50000050
@@ -578,6 +579,17 @@ Rivian iOS Application
 basecamp.rivian.com
 Rivian Android Application
 rivian.com
+ Mobile Apps
+www.sbb.ch
+Mobile Apps
+www.elvetino.ch
+*elvetino.ch
+www.sbbcargo.com
+*sbbcargo.com
+www.transsicura.ch
+*transsicura.ch
+All other Web and mobile APPs owned by SBB 
+All other SBB owned IT assets
 SimScale API
 SimScale Platform
 SimScale Forum
