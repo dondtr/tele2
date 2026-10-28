@@ -145,6 +145,7 @@
 *.auth.bild.de
 *.autobild.de
 *.avecspotify.com
+*.aww.be
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
@@ -1121,7 +1122,7 @@
 *.vtm.be
 *.vtmgo.be
 *.wali.com
-*.water-link.be/
+*.water-link.be
 *.watsons.co.id
 *.watsons.co.th
 *.watsons.com.hk
@@ -1570,7 +1571,6 @@
 545519333
 545599256
 547702041
-564141518
 566635048
 586634331
 594802437
@@ -2701,7 +2701,6 @@ accounts.snapchat.com
 accounts.stage.evernote.com
 accounts.twilio.com
 accounts.x.ai
-accountsettings.connect.identity.stagaws.visma.com
 accountshomolog.acesso.io
 aces-dev.wnba.com
 aces-qa.wnba.com
@@ -2711,6 +2710,7 @@ actionnaires.vinci.com
 activate.3cx.com
 adayevrak.watsons.com.tr
 adb.nba.com
+adelta.be
 adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
@@ -2719,7 +2719,6 @@ admin.booking.com
 admin.instacart.com
 admin.meeshosupply.com
 admin.shopify.com
-admin.stage.vismaonline.com
 admin.wickr.com
 admincms.developer.monespacesante.fr
 admincms.monespacesante.fr
@@ -2747,7 +2746,6 @@ aguacaliente.gleague.nba.com
 ai.portswigger.net
 ai.x.GrokApp
 ai.x.grok
-aiassistant.stage.vismaonline.com
 air.com.bitrhymes.bingo
 air.com.buffalo_studios.newflashbingo
 air.com.playtika.cvs
@@ -3076,6 +3074,8 @@ apps.portofantwerp.com
 apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 aquiris.com.br
 aquiris.studio
 aquiristech.com
@@ -3127,6 +3127,7 @@ autocomplete.booking.com
 autodiscover.uzleuven.be
 autoupdateapi.lansweeper.com
 av.indrive.com
+aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
 backoffice.lansweeper.com
@@ -3731,7 +3732,6 @@ com.venmo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
-com.visma.blue
 com.vrbo.android
 com.wealthsimple
 com.wealthsimple.predict
@@ -3798,7 +3798,6 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
-connect.identity.stagaws.visma.com
 connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
@@ -3962,6 +3961,7 @@ deriv.partners
 derivws.com
 design.gitlab.com
 design.ui.com
+desktop.water-link.be
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
@@ -4050,8 +4050,6 @@ dropbox.com/paper
 dwhreports.nba.com
 dwy.visa.com
 e-Commerce
-eaccounting.stage.vismaonline.com
-eaccountingprinting.stage.vismaonline.com
 eassessment.monash.edu
 ebctest.cybersource.com
 ebsext.oft.hyatt.com
@@ -5020,7 +5018,6 @@ https://demo.adstruc.com
 https://demo.priceless.com/
 https://desk.thetradedesk.com
 https://desktop-sit.uat.proptrack.com
-https://desktop.water-link.be/
 https://dev.tutoring.classdojo.com
 https://devedge.t-mobile.com
 https://developer.ifood.com.br
@@ -6427,7 +6424,6 @@ https://php-rce.cloudflare.app/
 https://pinepg.in
 https://pinepgconsole.in:9099
 https://pioneer.truata.com/
-https://pit.water-link.be/
 https://pixabay.com/
 https://platform.blis.com
 https://platform.blismedia.com
@@ -7254,7 +7250,6 @@ https://www.vwfs.nl
 https://www.vwfs.pl
 https://www.vwfs.pt
 https://www.vwfs.sk
-https://www.water-link-jaarverslag.be
 https://www.webmd.com
 https://www.webproteus.com/lpro-web/login
 https://www.whosampled.com/
@@ -7355,7 +7350,6 @@ identity-server.nba.com
 identity-uat.nba.com
 identity.clearme.com
 identity.nba.com
-identity.stage.vismaonline.com
 identity.wnba.com
 identity.yoti.com
 identityhomolog.acesso.io
@@ -7384,6 +7378,8 @@ inclusion.nba.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 indrive.com
+induss.eu
+indussiibis.water-link.be
 inference.do-ai.run
 influencers.tw.coupang.com
 infomaniak.events
@@ -7828,8 +7824,6 @@ myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
 myself.tw.coupang.com
-myservices-api.stage.vismaonline.com
-myservices.stage.vismaonline.com
 mystics-dev.wnba.com
 mystics-qa.wnba.com
 mystics-qa2.wnba.com
@@ -7971,7 +7965,6 @@ nycbasketball.nba.com
 nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
-oauth.developers.stagaws.visma.com
 oauth.twilio.com
 ob.gocardless.com
 obs-sensors.iris.acceptance.forescoutcloud.net
@@ -8099,9 +8092,9 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
-photoservice.stage.vismaonline.com
 picc.posti.fi
 pigeon.swiftfinancial.com
+pit.water-link.be
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -8331,6 +8324,7 @@ rewire.com
 rezagent.triseptsolutions.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
+rio-link.be
 riograndevalley-dev.gleague.nba.com
 riograndevalley-qa.gleague.nba.com
 riograndevalley.gleague.nba.com
@@ -8860,6 +8854,13 @@ was-gw-scf.sa.apse1.aws.indriverapp.com
 wasapi.watsons.com.tr
 watch-ng.nba.com
 watch.global.nba.com
+water-kracht-levering.be
+water-kracht-levering.eu
+water-link-jaarverslag.be
+waterkracht-levering.be
+waterkracht-levering.eu
+waterlink.be
+waterstoringen.be
 wd1-cf.euce1.indriverapp.com
 wd1-gw-cf.euce1.indriverapp.com
 weather.opera-api.com
