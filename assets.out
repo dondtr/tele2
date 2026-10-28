@@ -1114,8 +1114,6 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
-*.voi.com
-*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -2513,7 +2511,6 @@ Tap to Pay (Android)
 Tap to Pay (iOS)
 Tesla Energy hardware you own
 Tesla vehicle hardware that you own
-Texts
 The Perfume Shop Android
 The Perfume Shop iOS
 Third Party Application
@@ -2584,8 +2581,6 @@ Vercel sandbox
 Video Conferencing Products
 Video Doorbell
 Virtual Office Desktop
-Voi – e-scooter & e-bike hire
-Voi – e-scooters & e-bikes
 Vox Cinemas Android
 Vox Cinemas iOS
 WARP Mobile Apps
@@ -4198,7 +4193,6 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
-fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -4591,7 +4585,6 @@ https://api.riskrecon.eu
 https://api.rx.originenergy.com.au/v1/lpg/graphql
 https://api.shop.ua.com/graphql
 https://api.simnext.bullish-test.com
-https://api.staging.luno.com/
 https://api.t-mobile.com
 https://api.test.latitudefinancial.com
 https://api.thefork.com
@@ -4605,7 +4598,6 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
-https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -4646,7 +4638,6 @@ https://app.requirementyogi.com
 https://app.ring.com/*
 https://app.ripio.com
 https://app.saltlabs.com/
-https://app.staging.luno.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
 https://app.web.com
@@ -4659,7 +4650,6 @@ https://appgallery.huawei.com/app/C101186357
 https://apphouse.underarmour.com/
 https://apps.apple.com/am/app/maya-your-all-in-one-money-app/id991673877
 https://apps.apple.com/app/bitpanda-buy-bitcoin-crypto/id1449018960
-https://apps.apple.com/app/bitx-wallet/id927362479
 https://apps.apple.com/app/chia-signer/id6504493785 
 https://apps.apple.com/app/id1216446440
 https://apps.apple.com/app/id1503045795
@@ -5798,10 +5788,12 @@ https://marketplace.atlassian.com/apps/1218865/advanced-children-display-for-con
 https://marketplace.atlassian.com/apps/1218888/simple-custom-reports-charts-time-in-status-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218960/scrum-poker-estimates-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1218974/insight-azure-integration?hosting=datacenter
+https://marketplace.atlassian.com/apps/1219004/worklogs-time-tracking-and-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219094/insight-sccm-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219099/stagil-tables-todo-checklists-reports-statistics?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219112/easy-templates-for-jira-issues?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219169/bulk-linker?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1219196/team-performance-reports-and-insights?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219205/scrumpy-planning-poker-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1219212/insight-google-cloud-integration?hosting=datacenter
 https://marketplace.atlassian.com/apps/1219213/clockwork-pro-for-jira-time-tracking-and-timesheets?hosting=cloud
@@ -5839,6 +5831,7 @@ https://marketplace.atlassian.com/apps/1219908/insight-jamf-integration?hosting=
 https://marketplace.atlassian.com/apps/1219932/language-translation-jira-service-desk?hosting=cloud
 https://marketplace.atlassian.com/apps/1219994/external-data-for-jira-fields?hosting=cloud
 https://marketplace.atlassian.com/apps/1220001/visualize-openapi-swagger-documentation?hosting=cloud
+https://marketplace.atlassian.com/apps/1220026/multiple-checklists-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1220099/jira-server-for-slack-official?hosting=datacenter
 https://marketplace.atlassian.com/apps/1220136/quick-filters-for-jira-dashboards?hosting=cloud
 https://marketplace.atlassian.com/apps/1220137/portfolio-by-herocoders-structure-ppm-for-jira-capacity?tab=overview&hosting=cloud
@@ -5906,6 +5899,7 @@ https://marketplace.atlassian.com/apps/1222010/jira-cloud-migration-assistant?ho
 https://marketplace.atlassian.com/apps/1222051/status-time-free?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1222051/status-time-reports-free-time-in-status?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1222079/microsoftteams-confluence-connector-lite?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1222083/qality-test-management-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1222084/spreadsheet-issue-field-editor?hosting=cloud
 https://marketplace.atlassian.com/apps/1222102/webhook-manager-for-confluence-cloud?hosting=cloud
 https://marketplace.atlassian.com/apps/1222136/topdesk-jira-integration?hosting=cloud
@@ -5939,6 +5933,7 @@ https://marketplace.atlassian.com/apps/1223249/mailto-wiki-email-for-confluence?
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223249/mailto-wiki-send-emails-to-confluence?tab=overview&hosting=server
 https://marketplace.atlassian.com/apps/1223298/agile-risk-management-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1223344/qality-plus-test-management-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/1223382/previous-next-navigation?hosting=cloud
 https://marketplace.atlassian.com/apps/1223423/teamboard-resource-management-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1223455/advanced-bulk-edit-for-jira?hosting=cloud
@@ -6081,6 +6076,7 @@ https://marketplace.atlassian.com/apps/1229346/marketplace-integration-for-jira?
 https://marketplace.atlassian.com/apps/1229376/security-for-jira-enhanced-secret-scanner-by-soteri?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229376/security-for-jira-enhanced-secret-scanner-by-soteri?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/1229405/cost-tracker-for-jira-cloud?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/1229442/team-planner-resource-planning-for-jira?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1229446/developer-assistant-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1229447/site-statistics-for-confluence-cloud?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1229459/elements-overview-custom-display-for-related-issues?hosting=cloud
@@ -6165,6 +6161,8 @@ https://marketplace.atlassian.com/apps/1235238/morph-ai-powered-content-formatti
 https://marketplace.atlassian.com/apps/1235338/cycle-time-gadgets-time-in-status-trend-reports-for-jira?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1235430/space-templates-for-confluence?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1235463/?tab=overview&hosting=cloud
+https://marketplace.atlassian.com/apps/1235478/time-assistant-time-tracking-and-workload-dashboard?hosting=cloud
+https://marketplace.atlassian.com/apps/1235478/time-assistant-time-tracking-and-workload-dashboard?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1235488/confluence-widget-for-figma-beta?hosting=cloud
 https://marketplace.atlassian.com/apps/1235496/jira-board-buddy?hosting=cloud
 https://marketplace.atlassian.com/apps/1235502/chart-factory-for-jira?hosting=cloud&tab=overview
@@ -6266,6 +6264,7 @@ https://master.servicecentre.digitalservicing-np.lfscnp.com/
 https://matlab.mathworks.com/
 https://mattermost.com/apps/
 https://mcp-server.zomato.com/mcp
+https://mcp-staging.getmoneytree.com/
 https://mcp.atlassian.com
 https://mcp.opensea.io
 https://mcp.recordedfuture.com
@@ -6289,7 +6288,6 @@ https://mmp.otto.de
 https://mobile.monash/ 
 https://mobile.ooredoo.qa
 https://mobile.usaa.com
-https://mobileapi.staging.luno.com/
 https://mobileapp.opsgenie.com
 https://mobileapps.usaa.com/
 https://mohesr.vfsglobal.com/forms/CVUAE/admin/
@@ -6457,7 +6455,6 @@ https://platform.openai.com/playground
 https://platform.rc.blis.com
 https://play.fga.dev/
 https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en
-https://play.google.com/store/apps/details?hl=en&id=co.bitx.android.wallet
 https://play.google.com/store/apps/details?id=at.com.media.markt
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
@@ -6659,7 +6656,6 @@ https://redash-staging.getmoneytree.com/
 https://refinedsites.refinedwiki.com
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
-https://repair.voiweb.net
 https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
@@ -6762,8 +6758,6 @@ https://staging-trafficking.vistarmedia.com
 https://staging.claytonapp.com
 https://staging.claytonapp.com/api
 https://staging.gearset.com/
-https://staging.luno.com.ng
-https://staging.luno.com/
 https://start.atlassian.com
 https://static-images.ifood.com.br
 https://static.mgm.mo
@@ -6806,7 +6800,6 @@ https://telehealth.onedoc.ch
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/package
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/polling
 https://telemetry-polling.devicecloud.acceptance.forescoutcloud.net/v1/upload
-https://teleoptiprd.otto.de
 https://tempus-ex.com
 https://tess.service-now.com
 https://test-escalations.vintedgo.com
@@ -7159,6 +7152,7 @@ https://www.otto.de
 https://www.otto.de/jobs
 https://www.outsourcing.optus.net.au/eFRAMS3/
 https://www.outsourcing2.optus.net.au/eFRAMS3/
+https://www.pacsun.me/
 https://www.paddle.com
 https://www.partycasino.com
 https://www.partypoker.com
@@ -7208,6 +7202,7 @@ https://www.spontaan.nl/
 https://www.tagesanzeiger.ch
 https://www.tdfitloan.com/#!/
 https://www.teamviewer.com/en/products/teamviewer/
+https://www.teleoptiprd.otto.de
 https://www.thecurrent.com
 https://www.thefork.com
 https://www.theforkmanager.com
@@ -7260,8 +7255,6 @@ https://www.vwfs.pl
 https://www.vwfs.pt
 https://www.vwfs.sk
 https://www.water-link-jaarverslag.be
-https://www.water-link.be
-https://www.waterstoring.be/
 https://www.webmd.com
 https://www.webproteus.com/lpro-web/login
 https://www.whosampled.com/
@@ -7673,7 +7666,6 @@ mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
-mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -8315,7 +8307,6 @@ reno-dev.gleague.nba.com
 reno.gleague.nba.com
 repo.3cx.com
 report-html-sight.stg.inspectorio.com
-report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
@@ -8838,7 +8829,6 @@ vm-cf.mena.meso1.aws.indriverapp.com
 vm-gw-scf.sa.apse1.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
-voi.com
 voices.nba.com
 volans.tech
 vote.nba.com
