@@ -10,6 +10,7 @@
  idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
  mix.monash.edu 
+ new CDI-based architecture
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 (se|fi|uk).bingo.com
 *-api-*.acronis.com
@@ -53,7 +54,6 @@
 *.advisorsolutions.gs.com
 *.adx.opera.com
 *.ai.8x8.vc
-*.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnb.org
@@ -338,7 +338,6 @@
 *.emakina.group
 *.emakina.nl 
 *.emakina.us
-*.employer.seek.com
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
@@ -543,9 +542,6 @@
 *.jbl.ru
 *.jit.si
 *.jitsi.net
-*.jobapi.net
-*.jobsdb.com
-*.jobstreet.com
 *.jora.com
 *.jora.xyz
 *.karwei.nl/*
@@ -706,7 +702,6 @@
 *.myhomebook.de
 *.myinsights.io
 *.myklpages.com/*
-*.myseek.xyz
 *.mysqueezebox.com
 *.myteksi.com
 *.myteksi.net
@@ -761,7 +756,6 @@
 *.oslo.io
 *.osp.opera.software
 *.otherside.xyz
-*.outfra.xyz
 *.ovo.id
 *.ovofinansial.com
 *.ownit.se
@@ -907,8 +901,6 @@
 *.securecircle.com
 *.securegatewayaccess.com
 *.securityservices.io
-*.seek.com
-*.seekpass.co
 *.sellzone.com
 *.semrush.com
 *.semrush.net
@@ -932,7 +924,6 @@
 *.singspacegame.com
 *.sip.*.twilio.com
 *.sketchfab.com
-*.skinfra.xyz
 *.skybet.co.uk
 *.skybet.com
 *.skybet.net
@@ -953,7 +944,6 @@
 *.smartcontract.com
 *.smartline.com.au
 *.snooguts.net
-*.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
@@ -1700,6 +1690,7 @@ All Assets (other than Blinkit)
 All Chime Assets
 All In Scope Targets
 All Motorola Devices running Android 13 and above. 
+All Other NVIDIA Container Toolkit Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
@@ -1810,6 +1801,9 @@ Burp Suite Pro/Community
 C100447517
 C103149579
 CDNJS
+CUDA Driver APIs
+CUDA Libraries
+CUDA Runtime APIs
 Canva (Android)
 Canva (Chrome Extension)
 Canva (iOS)
@@ -2247,6 +2241,9 @@ Munkisrv Open Source Project
 NARZO 80 Lite 4G
 NARZO 80 Pro 5G
 NARZO 80x 5G
+NVCC
+NVIDIA Nsight Developer Tools
+NVRTC library
 Naasapi.optus.com.au
 Narzo 80 lite 5G
 Neon-supported extensions
@@ -2271,6 +2268,7 @@ Notion Desktop App
 Notion Frontend
 Notion Integrations
 Notion MCP
+Nsight Systems
 OKX Android APK
 OKX Wallet Chrome Extension
 OKX Wallet Edge Add-ons
@@ -4640,14 +4638,12 @@ https://apps.apple.com/app/thefork-manager-neo/id1295795281
 https://apps.apple.com/app/thefork-restaurants-bookings/id424850908
 https://apps.apple.com/at/app/mediamarkt-%C3%B6sterreich/id583300669
 https://apps.apple.com/at/developer/stadt-wien/id858505368
-https://apps.apple.com/au/app/certsy/id1617796159
 https://apps.apple.com/au/app/datacamp-learn-data-science/id1263413087
 https://apps.apple.com/au/app/jora-jobs-job-search-work/id917565665
 https://apps.apple.com/au/app/monash-bsafe/id1462241951
 https://apps.apple.com/au/app/my-optus/id503716230
 https://apps.apple.com/au/app/plann-preview-for-instagram/id1106201141
 https://apps.apple.com/au/app/realestate-com-au-property/id404667893
-https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
 https://apps.apple.com/be/app/mediamarkt-belgi%C3%AB/id958993034
 https://apps.apple.com/br/app/ifood-pedir-comida-e-mercado/id483017239
 https://apps.apple.com/br/app/nubank-conta-e-cart%C3%A3o/id814456780
@@ -4826,7 +4822,6 @@ https://auth.opera.com
 https://auth.requirementyogi.com
 https://auth.riskrecon.com
 https://auth.riskrecon.eu
-https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
 https://auth2.pdq.com/
@@ -5396,7 +5391,6 @@ https://gomastercard.com.au
 https://gov.bugcrowd.net
 https://gpt.lime.bike
 https://graphql.acorns.com
-https://graphql.seek.com
 https://guest.usaa.com/
 https://gwapi.tripadvisor.com
 https://gwapi1.tripadvisor.com
@@ -6434,7 +6428,6 @@ https://play.google.com/store/apps/datasafety?id=com.expediapartnercentral&hl=en
 https://play.google.com/store/apps/details?id=at.com.media.markt
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
-https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=be.com.media.markt
 https://play.google.com/store/apps/details?id=br.com.brainweb.ifood&hl=pt_BR
 https://play.google.com/store/apps/details?id=br.com.movilepay.banking.application&hl=pt_BR
@@ -6463,7 +6456,6 @@ https://play.google.com/store/apps/details?id=com.booking&hl=en
 https://play.google.com/store/apps/details?id=com.booking.hotelmanager&hl=en
 https://play.google.com/store/apps/details?id=com.bybit.app&hl=en
 https://play.google.com/store/apps/details?id=com.callpod.android_apps.keeper&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.certsy.app
 https://play.google.com/store/apps/details?id=com.classdojo.android
 https://play.google.com/store/apps/details?id=com.coindesk.mobile
 https://play.google.com/store/apps/details?id=com.comuto&hl=en
@@ -6678,7 +6670,6 @@ https://securemail.usaa.com
 https://securesignin.neogov.com
 https://securesignin.powerdms.com/
 https://securitytrails.com
-https://seekcdn.com
 https://selector.viator.com
 https://selfcare.ooredoo.qa
 https://send2.co/
@@ -7465,6 +7456,7 @@ launchpad.37signals.com
 lawmanager.marriott.com
 lego.me
 leonard.vinci.com
+libNVVM API
 liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty-qa2.wnba.com
@@ -7921,6 +7913,7 @@ ns1.optusnet.com.au
 ns2.optusnet.com.au
 numbers.twilio.com
 nummus.robinhood.com
+nvJitLink APIs
 nycbasketball.nba.com
 nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com

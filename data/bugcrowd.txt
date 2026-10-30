@@ -2215,13 +2215,6 @@ https://marketplace.atlassian.com/apps/1218509/s-notify-email-encryption-for-con
 https://marketplace.atlassian.com/apps/1226720/s-notify-email-encryption-for-bitbucket?hosting=datacenter
 https://marketplace.atlassian.com/apps/1226453/secureflag-knowledge-base?tab=overview&hosting=cloud
 https://marketplace.atlassian.com/apps/1232491?tab=overview&hosting=cloud
-https://seekcdn.com
-https://graphql.seek.com
-https://auth.seek.com
-https://apps.apple.com/au/app/seek-jobs-job-search/id520400855
-https://play.google.com/store/apps/details?id=au.com.seek&hl=en_AU&gl=US
-https://apps.apple.com/au/app/certsy/id1617796159
-https://play.google.com/store/apps/details?id=com.certsy.app
 ███████████████████
 ████████████
 ███████████████
@@ -2763,6 +2756,11 @@ https://play.google.com/store/apps/details?id=com.transferwise.android&hl=en_US&
 AWS infrastructure and services in use by Wise (eg: S3 buckets)
 https://github.com/transferwise/*
 https://wise-sandbox.com/
+https://auth.wyze.com
+https://my.wyze.com
+https://api.wyzecam.com
+Wyze Cam V3
+https://www.wyze.com/products/wyze-cam
 https://auth.wyze.com
 https://my.wyze.com
 https://api.wyzecam.com
