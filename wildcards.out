@@ -41,6 +41,7 @@
 *.advisorsolutions.gs.com
 *.adx.opera.com
 *.ai.8x8.vc
+*.aips-internal.com
 *.airbnb-aws.com
 *.airbnb.com
 *.airbnb.org
@@ -325,6 +326,7 @@
 *.emakina.group
 *.emakina.nl 
 *.emakina.us
+*.employer.seek.com
 *.enjinusercontent.com
 *.enspotify.com
 *.eops.nl
@@ -529,6 +531,9 @@
 *.jbl.ru
 *.jit.si
 *.jitsi.net
+*.jobapi.net
+*.jobsdb.com
+*.jobstreet.com
 *.jora.com
 *.jora.xyz
 *.karwei.nl/*
@@ -689,6 +694,7 @@
 *.myhomebook.de
 *.myinsights.io
 *.myklpages.com/*
+*.myseek.xyz
 *.mysqueezebox.com
 *.myteksi.com
 *.myteksi.net
@@ -743,6 +749,7 @@
 *.oslo.io
 *.osp.opera.software
 *.otherside.xyz
+*.outfra.xyz
 *.ovo.id
 *.ovofinansial.com
 *.ownit.se
@@ -888,6 +895,8 @@
 *.securecircle.com
 *.securegatewayaccess.com
 *.securityservices.io
+*.seek.com
+*.seekpass.co
 *.sellzone.com
 *.semrush.com
 *.semrush.net
@@ -911,6 +920,7 @@
 *.singspacegame.com
 *.sip.*.twilio.com
 *.sketchfab.com
+*.skinfra.xyz
 *.skybet.co.uk
 *.skybet.com
 *.skybet.net
@@ -931,6 +941,7 @@
 *.smartcontract.com
 *.smartline.com.au
 *.snooguts.net
+*.sol-data.com
 *.solarcity.com
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
