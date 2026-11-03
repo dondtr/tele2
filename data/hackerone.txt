@@ -3996,7 +3996,6 @@ com.atebits.Tweetie2
 com.twitter.android
 console.x.ai
 console.x.com
-grok-build
 grok.com
 grokipedia.com
 money.x.com

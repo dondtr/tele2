@@ -2274,7 +2274,7 @@ AWS Infrastructure
 https://github.com/electroneum/electroneum-sc/
 https://blockexplorer.electroneum.com
 https://testnet-blockexplorer.electroneum.com
-https://marketplace.atlassian.com/apps/1237433/snapmetrics-real-time-analytics?hosting=cloud&tab=overview
+███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 https://snapnames.com/
 https://www.namejet.com/
 https://marketplace.atlassian.com/apps/1219004/worklogs-time-tracking-and-reports?hosting=cloud&tab=overview
