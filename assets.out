@@ -715,7 +715,6 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -978,7 +977,6 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
@@ -1018,7 +1016,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -2469,8 +2466,6 @@ UniFi Wireless Access Points
 UniFi-Play
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
-Uphold: Buy BTC, ETH and 300+
-Uphold: Buy BTC, ETH and 360+
 Upwork - Android Application
 Upwork - Marketplace Portal
 Upwork - Messages
@@ -2700,8 +2695,6 @@ api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
-api-sandbox.uphold.com
-api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -2817,7 +2810,6 @@ api.paybox.sh
 api.personio-dev.com
 api.personio.com
 api.pns.hk
-api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -2836,7 +2828,6 @@ api.remitly.io
 api.robinhood.com
 api.row.pro
 api.ryadom.kz
-api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.segmentapis.com
@@ -2942,7 +2933,6 @@ app.paybox.sh
 app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
-app.sandbox.topperpay.com
 app.savers.co.uk
 app.segment.com
 app.sendgrid.com
@@ -3913,11 +3903,8 @@ docs.gocardless.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
-docs.optimuscards.com
 docs.redoxengine.com
 docs.superhuman.com
-docs.topperpay.com
-docs.uphold.com
 docsend.com
 docuflow.stg.inspectorio.com
 doordash.DoorDashConsumer
@@ -4165,7 +4152,6 @@ github.com/stytchauth/stytch-rust
 github.com/stytchauth/terraform-provider-stytch
 github.com/twilio
 github.com/twilio-labs
-github.com/uphold/*
 gitlab.com
 gldatacenter.nba.com
 gleague-dev.nba.com
@@ -4195,7 +4181,6 @@ grae.nba.com
 grandrapids-dev.gleague.nba.com
 grandrapids-qa.gleague.nba.com
 grandrapids.gleague.nba.com
-graphql.sandbox.topperpay.com/graphql
 gravatar.com
 green.nba.com
 greensboro-dev.gleague.nba.com
@@ -4426,12 +4411,6 @@ https://api.datadome.co
 https://api.dbs.kape.com
 https://api.dts.kape.com
 https://api.enc.kape.com
-https://api.enterprise.sandbox.uphold.com/core
-https://api.enterprise.sandbox.uphold.com/kyc-connector
-https://api.enterprise.sandbox.uphold.com/market-pulse
-https://api.enterprise.sandbox.uphold.com/topper
-https://api.enterprise.sandbox.uphold.com/trading
-https://api.enterprise.sandbox.uphold.com/widgets
 https://api.expressvpn.com
 https://api.fishbowlapp.com/*
 https://api.fstr.rocks
@@ -8048,7 +8027,6 @@ politico.eu
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
-portal.enterprise.uphold.com
 portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
@@ -8659,7 +8637,6 @@ txf-cf.cis.euce1.aws.indriverapp.com
 txm-gw-cf.cis.euce1.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
 uat.marriott.com
-uatcms.optimuscards.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
@@ -8764,7 +8741,6 @@ vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
-wallet-sandbox.uphold.com
 wallet.tg
 wallet.venly.io
 walletbot.me
@@ -9083,7 +9059,6 @@ www.nba.com
 www.netflix.com
 www.onsexprime.fr
 www.onthewaterfrontfestival.com
-www.optimuscards.com
 www.ottocasino.se
 www.ottokasino.com
 www.ovh.com
@@ -9147,7 +9122,6 @@ www.tgoyemek.com
 www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
-www.topperpay.com
 www.torfs.be
 www.torfs.nl
 www.tradepmr.com
@@ -9169,7 +9143,6 @@ www.udemy.com
 www.ultimateears.com
 www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 www.universalorlandovacations.com
-www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
@@ -9375,8 +9348,4 @@ zooplus.net
 ██████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-██████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
