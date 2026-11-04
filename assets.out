@@ -251,6 +251,7 @@
 *.dancecentral.com
 *.das.eu
 *.dash.ai
+*.data.api.platform.here.com
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
@@ -356,8 +357,6 @@
 *.fareharbor.engineering
 *.feednews.com
 *.fetlife.com
-*.findaya.co.id
-*.findaya.com
 *.fitbook.de
 *.flickr.com
 *.flipkey.com
@@ -377,7 +376,6 @@
 *.fromspotify.com
 *.fuze.com
 *.fuze.site
-*.gaming.gopayapi.com
 *.gamma.be/*
 *.gamma.nl/*
 *.gateway.marriott.com
@@ -394,22 +392,14 @@
 *.gitlab.org
 *.gitlap.com
 *.global-liquidity.gs.com
-*.go-pay.co.id
-*.gobiz.co.id
 *.gocardless-cicd.io
 *.gocardless-lab.io
 *.gocardless.dev
 *.gocardless.io,*.gocardless-banking.io
-*.gofood.co.id
-*.gofoodmerchant.co.id
-*.gojek.com
-*.gojekapi.com
-*.golabs.io
 *.goldman.com
 *.goldmanpfm.com
 *.goldmansachs.com
 *.gop3.nl
-*.gopayapi.com
 *.gotinder.com
 *.gov.bugcrowd.net
 *.governorofpoker.com
@@ -436,7 +426,6 @@
 *.gsam.com
 *.gspublishing.com
 *.gsselect.com
-*.gtflabs.io
 *.gtld-servers.net (DNS service; DNS related)
 *.hackerone-ext-content.com
 *.hackerone-user-content.com/
@@ -446,6 +435,8 @@
 *.hellofax.com
 *.hellosign.com
 *.helloworks.com
+*.here.com
+*.hereapi.com
 *.hey.bild.de
 *.hey.com
 *.hhc247.org
@@ -575,7 +566,6 @@
 *.lyst.co
 *.lyst.com
 *.lystit.com
-*.mab.co.id
 *.magisto.com
 *.magwien.gv.at
 *.marcus.co.uk
@@ -616,6 +606,7 @@
 *.mercadopago.com.mx
 *.mercadopago.com.pe
 *.mercadopago.com.uy
+*.metrics.platform.here.com
 *.metronome.com
 *.mevo.com
 *.mgbcareconnect.org
@@ -752,6 +743,7 @@
 *.pipopay.com
 *.plannthat.com
 *.platacard.mx
+*.platform.here.com
 *.platformservices.io
 *.play.ownit.se
 *.playstation.com
@@ -834,6 +826,7 @@
 *.rocketleague.com
 *.rockstargames.com
 *.romwe.com
+*.router.hereapi.com
 *.rtbscale.com
 *.runnr.in
 *.s-cloud.net
@@ -852,6 +845,7 @@
 *.sc-core.net
 *.sc-corp.net
 *.scatec.io
+*.scbe.api.here.com
 *.scopely.com
 *.scopely.io
 *.sec-tunnel.com
@@ -939,6 +933,7 @@
 *.stripchat.com
 *.stripe.com
 *.stylebook.de
+*.subp-router.hereapi.com
 *.super.xyz
 *.superbet.com
 *.superbet.gr
@@ -1636,6 +1631,7 @@ All internet facing Sky Italy assets
 All internet facing Sky UK/ROI assets
 All other SBB owned IT assets
 All other Web and mobile APPs owned by SBB 
+All other related services owned by HERE
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -1938,6 +1934,11 @@ FortniteLauncher-Win64-Shipping_EAC.exe
 FortniteLauncher.exe
 Fortress Hong Kong Android
 Fortress Hong Kong iOS
+Freshcaller-iOS-App
+Freshchat-iOS-App
+Freshdesk-iOS-App
+Freshservice-Intune-iOS-App
+Freshservice-iOS-App
 Front for Mac
 Front for Windows
 Functions dealing with vehicle access and immobilizer
@@ -1975,6 +1976,8 @@ GraphQL API (bugbounty-test-<bugcrowd-name>.atlassian.net/gateway/api/graphql)
 Grepolis
 Gutenberg
 H5G/Agency
+HERE WeGo Android
+HERE WeGo iOS
 HEY.app
 HEY.exe
 HPE Aruba Networking Central - New UI (see Scope Details)
@@ -2087,10 +2090,11 @@ Kruidvat NL Android
 Kruidvat NL iOS
 Lakebase-Supported extensions
 LaunchDarkly Open Source SDKs
-Leaked Credentials
 Leaked Credentials and Secrets (Canva Employee/Contractor)
 Leaked Credentials and Secrets (Canva User)
 Leaked Employee API Keys
+Leaked Service Credentials
+Leaked/Compromised Employee Credentials
 Leaked/Сompromised Employee accounts
 Lens Studio
 Liberty 5 Pro Max D1204
@@ -2585,8 +2589,10 @@ access.remitly.com
 accommodations.booking.com
 account-sprint.dynatracelabs.com
 account.acronis.com
+account.api.here.com
 account.booking.com
 account.box.com
+account.here.com
 account.krisp.ai
 account.ui.com
 accountinfodirect-snd.earlywarning.com
@@ -2757,8 +2763,6 @@ api.figma.com
 api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
-api.gobiz.co.id
-api.gojek.co.id
 api.grabpay.com
 api.greenhouse.io
 api.grofers.com
@@ -2796,7 +2800,6 @@ api.marionnaud.sk
 api.mercadolibre.com
 api.mercadopago.com
 api.mergify.com
-api.midtrans.com
 api.monespacesante.fr
 api.moonpay.com
 api.moonx-dev.com
@@ -2924,7 +2927,6 @@ app.marionnaud.hu
 app.marionnaud.it
 app.marionnaud.ro
 app.marionnaud.sk
-app.midtrans.com
 app.moderntreasury.com
 app.mona.co
 app.moonpay.com
@@ -3425,6 +3427,11 @@ com.finshell.finance
 com.finshell.wallet
 com.fintech.life
 com.foxnextgames.m3
+com.freshchat.agent.android
+com.freshdesk.helpdesk
+com.freshservice.helpdesk
+com.freshservice.helpdesk.intune
+com.freshworks.freshcaller
 com.frontapp.mobile
 com.genevachat.staging
 com.goodrx
@@ -4170,11 +4177,8 @@ go.capital.com
 go.geneva-staging.com
 go.stripchat.com
 go.welt.de
-gocorp.gojek.com
-gofood.co.id
 goldmansachsindices.com
 googleplace*.bykea.net
-gopaymerchant.midtrans.com
 gql.reddit.com
 grab.careers
 grae.nba.com
@@ -4567,8 +4571,6 @@ https://apps.apple.com/gb/app/moneybox-save-and-invest/id1049797239
 https://apps.apple.com/gb/app/partycasino-play-casino-games/id818432894
 https://apps.apple.com/gb/app/partypoker-texas-holdem-poker/id687740281
 https://apps.apple.com/id/app/dana/id1437123008
-https://apps.apple.com/id/app/gojek/id944875099
-https://apps.apple.com/id/app/gopay-transfer-pulsa-bills/id6446321594
 https://apps.apple.com/id/app/superbank/id6444720285
 https://apps.apple.com/ie/app/doctolib-siilo/id1083002150
 https://apps.apple.com/ie/app/new-relic/id594038638
@@ -4594,7 +4596,6 @@ https://apps.apple.com/se/app/atg-live/id1608156355
 https://apps.apple.com/se/app/atg/id1434660322
 https://apps.apple.com/se/app/bookbeat-audiobooks-e-books/id1056652614?l=en-GB
 https://apps.apple.com/se/app/vimla/id1233271881  https://play.google.com/store/apps/details?id=com.vimlaapp&hl=en
-https://apps.apple.com/sg/app/gojek-driver/id1573529788
 https://apps.apple.com/sg/app/syfe-stay-invested/id1497156434
 https://apps.apple.com/tr/app/mediamarkt-t%C3%BCrkiye/id908956795
 https://apps.apple.com/tt/app/blofin/id1616804346
@@ -5020,7 +5021,7 @@ https://externalconnect.usaa.com/
 https://fcu.eu-west-2.outscale.com
 https://features.opera-api.com
 https://fi.harmanaudio.com
-https://fi.harmankardon.com/
+https://fi.harmankardon.com
 https://fi.jbl.com
 https://fileshare.ze.monash.edu
 https://fin.ai/
@@ -6081,13 +6082,16 @@ https://marketplace.atlassian.com/apps/1752044660/cumulative-flow-diagram-cfd-ch
 https://marketplace.atlassian.com/apps/1855294554/pivot-tables-charts-heatmaps-for-jira-agile-reporting?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/187209184/sprintretro-free-retrospective-metrics-suite?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/1899492230/live-tables-from-csv-json-for-confluence?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/2021241528/syncup-sprint-intelligence-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/207/latex-and-mathjax?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/2077076462/wip-run-wip-aging-charts-for-scrum-kanban-scaled-agile?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2113139725/formula-cards-gauge-charts-rag-reports-custom-kpis?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2194903109/cycle-time-lead-time-time-in-status-charts-for-agile?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-management-in-jsm?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/2333382001/spotlight-ai-charts-reports-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/23337/elements-connect-external-data-fields?hosting=cloud
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
+https://marketplace.atlassian.com/apps/2446184211/pulse-content-health-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence?hosting=datacenter
 https://marketplace.atlassian.com/apps/2501894527/throughput-charts-for-scrum-kanban-agile-gadgets-reports?hosting=cloud&tab=overview
@@ -6115,6 +6119,7 @@ https://marketplace.atlassian.com/apps/375826955/burndown-burnup-charts-with-for
 https://marketplace.atlassian.com/apps/3762467523/myra-csat-nps-ces-feedback-hub-for-jsm?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/37658/column-order-gadget-plugin?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/3780102417/sprintpoker-free-planning-poker-async-estimation?hosting=cloud&tab=overview
+https://marketplace.atlassian.com/apps/3790067068/xpress-pdf-exporter-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/3937617820/team-wallboard-for-agile-scrum-kanban-itsm-dashboards?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4028833452/smart-guess-time-in-status-flow-intelligence-ai-guidance?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/4076194710/laya-export-studio-for-jira-and-confluence?hosting=cloud&tab=overview
@@ -6380,10 +6385,6 @@ https://play.google.com/store/apps/details?id=com.ercom.cryptobox.release&hl=fr
 https://play.google.com/store/apps/details?id=com.fishbowlmedia.fishbowl&hl=en_US
 https://play.google.com/store/apps/details?id=com.flipkart.android
 https://play.google.com/store/apps/details?id=com.glassdoor.app&hl=en_US
-https://play.google.com/store/apps/details?id=com.gojek.app
-https://play.google.com/store/apps/details?id=com.gojek.gopay&hl=id
-https://play.google.com/store/apps/details?id=com.gojek.partner
-https://play.google.com/store/apps/details?id=com.gojek.resto
 https://play.google.com/store/apps/details?id=com.indeed.android.jobsearch
 https://play.google.com/store/apps/details?id=com.indeed.resume
 https://play.google.com/store/apps/details?id=com.infomaniak.auth
@@ -7426,6 +7427,7 @@ liquidfiles.nexuzhealth.com
 liquidfiles.uzleuven.be
 liquidfilestest.uzleuven.be
 lirportal.ripe.net
+listing.here.com
 lists.nextcloud.com
 live-backstage.tiktok.com
 live-service.whatnot.com
@@ -7529,6 +7531,7 @@ manager.infomaniak.com/v3/*
 mangerbouger.fr
 map.8x8.com
 map.snapchat.com
+mapcreator.here.com
 mapi.moneyback.com.hk
 mark8.syfe.com
 marketing.fareharbor.com
@@ -7669,9 +7672,9 @@ mobileapi.lystit.com
 mobileapi.na1.insightly.com
 mobileapp.hyatt.com
 mobilevikings.be
+mobilitygraph.hereapi.com
 mod.reddit.com
 modefestival.com
-mokapos.com
 moments.marriottbonvoy.com
 money.x.com
 moneybird.com
@@ -8027,7 +8030,6 @@ politico.eu
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
-portal.gofoodmerchant.co.id
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
 portal.nextcloud.com
@@ -8159,6 +8161,7 @@ register.bpost.be
 register.capital.com
 registre.notebleue.pro
 registry.gitlab.com
+registry.service.api.platform.here.com
 rei.com
 relay.playcanvas.com
 releasor.payworks.com/
@@ -8286,6 +8289,7 @@ scp.watsons.com.tr
 scpapi.watsons.com.tr
 scripts.developersites.com.au
 scrutiny.swiftfinancial.com
+search.hereapi.com
 secure-dfadmin.deriv.com
 secure-supply-xml.booking.com
 secure.booking.com
@@ -8608,6 +8612,7 @@ tr-scf.euce1.indriverapp.com
 trade.ripio.com
 training.ui.com
 transact.playstation.com
+transit.hereapi.com
 translate.badoo.com
 travel.crypto.com
 travelagents.marriott.com/
@@ -8685,6 +8690,7 @@ vasdemos.visa.com
 vault2.faraday.ai
 vcc-*.8x8.com
 vcc-ce.8x8.com
+vector.hereapi.com
 vector.prd.iat.it.xvservice.net
 vercel.app
 vercel.com
@@ -9047,7 +9053,6 @@ www.mercadolibre.com.py
 www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
-www.midtrans.com
 www.mini.de
 www.mjrtheatres.com
 www.momondo.com
@@ -9265,6 +9270,7 @@ x.razorpay.com
 xadsacademy.com
 xlence.iciparisxl.nl
 xtramile.grabpay.com
+xyz.api.here.com
 yelptop100.com
 yhteystietoni.posti.fi
 yimg.com
@@ -9273,6 +9279,12 @@ your-assigned-subdomain.files.com
 your-assigned-subdomain.hosted-by-files.com
 your-store.myshopify.com
 yourcompany.udemy.com
+yourdomain.freshcaller.com
+yourdomain.freshchat.com
+yourdomain.freshdesk.com
+yourdomain.freshrelease.com
+yourdomain.freshservice.com
+yourdomain.myfreshworks.com
 yritysmuutto.posti.fi
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
@@ -9348,4 +9360,3 @@ zooplus.net
 ██████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████████████████
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
