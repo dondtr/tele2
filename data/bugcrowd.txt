@@ -2679,7 +2679,6 @@ https://www.vintedgo.com
 https://apps.apple.com/us/app/vinted-pre-loved-marketplace/id632064380
 https://play.google.com/store/apps/details?id=fr.vinted
 https://sandbox.vintedgo.com
-https://sandbox.vinted.com
 https://test-escalations.vintedgo.com
 https://badger.it.vinted.com
 https://careers.vinted.com
