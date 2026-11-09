@@ -104,6 +104,7 @@
 *.app.asana.com
 *.app.personio-dev.com
 *.app.personio.com
+*.appmiral.com
 *.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
 *.arlocloud.com
@@ -123,7 +124,6 @@
 *.auth.bild.de
 *.autobild.de
 *.avecspotify.com
-*.aww.be
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
@@ -212,6 +212,8 @@
 *.cloudways.com
 *.clovesoftware-dev.com
 *.clovesoftware.com
+*.cm.com
+*.cmtelecom.com
 *.coda.io
 *.cognitiveperformer.com
 *.coinbase-corp.com
@@ -601,7 +603,6 @@
 *.miinsurtech.com
 *.miinsurtech.net
 *.mijiayoupin.com
-*.mijnwater-link.be
 *.mioffice.cn
 *.mios.cn
 *.miot-spec.org
@@ -689,6 +690,7 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
+*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -937,6 +939,7 @@
 *.thetradedesk.com
 *.thinkingphones.com
 *.thinkingphones.net
+*.ticketing.cm.com
 *.ticketnew.com
 *.tiktok.com
 *.tiktokcdn.com
@@ -949,6 +952,7 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
+*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
@@ -988,6 +992,7 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
+*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1020,13 +1025,14 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
+*.voi.com
+*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
 *.vtm.be
 *.vtmgo.be
 *.wali.com
-*.water-link.be
 *.watsons.co.id
 *.watsons.co.th
 *.watsons.com.hk
