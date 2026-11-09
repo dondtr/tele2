@@ -15,6 +15,8 @@
 (se|fi|uk).bingo.com
 *-api-*.acronis.com
 *-vpn.8x8.com
+*. advancedcustomfields.com
+*. bettersearchreplace.com
 *. vfsevisa.id
 *.-np.*.lfscnp.com
 *.1debit.com
@@ -134,6 +136,7 @@
 *.auth.bild.de
 *.autobild.de
 *.avecspotify.com
+*.aww.be
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
@@ -248,6 +251,7 @@
 *.dbt.com
 *.dbtlabs.com
 *.dcfgateway.marriott.com
+*.deliciousbrains.com
 *.dell.com/*
 *.delltechnologies.com/* 
 *.demo.bp.mortgagechoice.com.au
@@ -536,6 +540,7 @@
 *.libelle.nl
 *.link.co
 *.linktree-extensions.com
+*.localwp.com
 *.logi.com
 *.logicool.co.jp
 *.logitech-channel-marketing.com
@@ -609,6 +614,7 @@
 *.miinsurtech.com
 *.miinsurtech.net
 *.mijiayoupin.com
+*.mijnwater-link.be
 *.mioffice.cn
 *.mios.cn
 *.miot-spec.org
@@ -666,6 +672,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
+*.nitropack.io
 *.niumba.com
 *.nmfn.com
 *.nml.com
@@ -916,6 +923,7 @@
 *.streamlabscharity.com
 *.stripchat.com
 *.stripe.com
+*.studiopress.com
 *.stylebook.de
 *.super.xyz
 *.superbet.com
@@ -1031,6 +1039,7 @@
 *.vtm.be
 *.vtmgo.be
 *.wali.com
+*.water-link.be
 *.watsons.co.id
 *.watsons.co.th
 *.watsons.com.hk
@@ -1069,6 +1078,8 @@
 *.worldcoin-distributors.com
 *.worldcoin.dev
 *.worldcoin.org
+*.wpengine.io
+*.wpesvc.net
 *.x.ai
 *.x.com
 *.xiangkankeji.cn
@@ -2469,6 +2480,7 @@ WGP Slot Games
 WHOOP 4.0 STRAP
 WHOOP 5.0/MG STRAP
 WP Cloud
+WP Engine-developed WordPress Plugins and Themes
 WP-CLI
 Waiting Room
 Watsons Hong Kong Android
@@ -2589,6 +2601,7 @@ actionnaires.vinci.com
 activate.3cx.com
 adayevrak.watsons.com.tr
 adb.nba.com
+adelta.be
 adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
@@ -2937,6 +2950,8 @@ apps.portofantwerp.com
 apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 aquiris.com.br
 aquiris.studio
 aquiristech.com
@@ -2987,6 +3002,7 @@ authentication.wolt.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
 av.indrive.com
+aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
 backstage.io
@@ -3799,6 +3815,7 @@ deriv.partners
 derivws.com
 design.gitlab.com
 design.ui.com
+desktop.water-link.be
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
@@ -4087,6 +4104,7 @@ github.com/binary-com
 github.com/deriv-com
 github.com/kubernetes-csi
 github.com/kubernetes-retired
+github.com/oasisprotocol/explorer
 github.com/segmentio
 github.com/sendgrid
 github.com/stytchauth/is-agent
@@ -4237,10 +4255,12 @@ http://datapod-1-druid-query.production.forescoutcloud.net/v2/services
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/matrixoverview
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/overlappingzones
 http://datapod-1-druid-query.production.forescoutcloud.net/v3/query/zonetozone
+http://emerald.oasis.dev
 http://falcon-bug-bounty-flag-pgsql-dev-sandbox.e.aivencloud.com/
 http://github.com/circlefin/noble-cctp
 http://github.com/cloudflare
 http://greenchannel.payoneer.com.cn/gcportal
+http://grpc.oasis.dev
 http://ibotta.com
 http://ibt-test.six-group.com
 http://itunes.apple.com/us/app/ibotta/id559887125
@@ -4264,6 +4284,8 @@ http://ourhouse.underarmour.com/
 http://pay.monashcollege.edu.au/
 http://play.google.com/store/apps/details?id=fr.doctolib.www
 http://poe.com
+http://rosetta.oasis.dev/api/mainnet
+http://sapphire.oasis.io
 http://secure-iphone-xml.booking.com/json/
 http://socialdeal.nl/inspirations/bluemonday/
 http://sso-demo.gocardless-staging.io
@@ -4439,6 +4461,7 @@ https://app.datadome.co
 https://app.easy4ipcloud.com
 https://app.ecwid.com/api/v3/
 https://app.fin.ai/
+https://app.getflywheel.com
 https://app.glean.com/login?qe=https://bug-bounty-be.glean.com&skip_to_sso=1
 https://app.ibotta.com/sign-in 
 https://app.intercom.com
@@ -4448,6 +4471,7 @@ https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4658,6 +4682,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5002,6 +5027,7 @@ https://gemvisa.com.au
 https://geocode-beta.bykea.net
 https://gestordepedidos.ifood.com.br
 https://get.geo.opera.com
+https://getflywheel.com
 https://github.com/Aiven
 https://github.com/Aiven-Open
 https://github.com/Chia-Network/chia-blockchain
@@ -5179,6 +5205,12 @@ https://github.com/nextcloud/tables
 https://github.com/nitrojs/nitro
 https://github.com/nodejs/node
 https://github.com/nuxt/nuxt
+https://github.com/oasisprotocol/curve25519-voi
+https://github.com/oasisprotocol/deoxysii
+https://github.com/oasisprotocol/deoxysii-rust
+https://github.com/oasisprotocol/oasis-core
+https://github.com/oasisprotocol/oasis-sdk
+https://github.com/oasisprotocol/oasis-wallet-web
 https://github.com/okx/go-wallet-sdk
 https://github.com/omacom/omarchy
 https://github.com/pinterest/
@@ -5357,6 +5389,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -5383,6 +5416,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
+https://makeshift.film
 https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
@@ -6123,6 +6157,7 @@ https://my.smartposti.lt
 https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
+https://my.wpengine.com
 https://my.wyze.com
 https://myaccount-staging.getmoneytree.com
 https://myapi.arlo.com
@@ -6229,6 +6264,7 @@ https://paymayabiller-prod.paymaya.com/
 https://payment-connectors.vendhq.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
+https://payments.wpengine.com
 https://payoutapi.maya.ph/
 https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
@@ -6433,6 +6469,7 @@ https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -6584,6 +6621,7 @@ https://stp.wien.gv.at
 https://student.classdojo.com
 https://student.monash
 https://studentplacements.monash.edu
+https://studiopress.blog
 https://stytch.com/blog
 https://stytch.com/dashboard
 https://suggestions.opera-api.com
@@ -6626,6 +6664,7 @@ https://ticket.multiplayer.classdojo.com
 https://tms.onecloud.harman.com
 https://tools-api.cryptocompare.com/
 https://toom.de
+https://torquemag.io
 https://tr.ee
 https://tracker.bugcrowd.com
 https://tracker.naspers.com/
@@ -6690,6 +6729,7 @@ https://valuations-sit.uat.proptrack.com
 https://vault-staging.getmoneytree.com
 https://vault.chiatest.net/
 https://vc.tasheer.com/
+https://velocitize.com
 https://vendor.riskrecon.com
 https://vendor.riskrecon.eu
 https://vendors.paddle.com
@@ -6736,6 +6776,7 @@ https://wmaudience.com
 https://world.planethoster.net
 https://worldscan.org/address/0xDe7Ec97CFDeE9F20f9d256F4a0A0d694479fa2E0
 https://wowjobs.ca
+https://wpengine.com
 https://ws.multiplayer.classdojo.com/
 https://ws.usaa.com
 https://wsloja.ifood.com.br
@@ -7215,6 +7256,8 @@ inclusion.nba.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 indrive.com
+induss.eu
+indussiibis.water-link.be
 inference.do-ai.run
 influencers.tw.coupang.com
 infomaniak.events
@@ -7922,6 +7965,7 @@ phone-validation.taxi.booking.com
 photo.kruidvat.be
 picc.posti.fi
 pigeon.swiftfinancial.com
+pit.water-link.be
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -8148,6 +8192,7 @@ rewire.com
 rezagent.triseptsolutions.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
+rio-link.be
 riograndevalley-dev.gleague.nba.com
 riograndevalley-qa.gleague.nba.com
 riograndevalley.gleague.nba.com
@@ -8381,6 +8426,7 @@ stats.vinci.com
 stats.wnba.com
 status.delen.be 
 status.larksuite.com
+status.oasis.io
 steamcommunity.com
 stockton-dev.gleague.nba.com
 stockton-qa.gleague.nba.com
@@ -8664,6 +8710,7 @@ vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
+wallet.oasis.io
 wallet.tg
 wallet.venly.io
 walletbot.me
@@ -8676,6 +8723,12 @@ was-gw-scf.sa.apse1.aws.indriverapp.com
 wasapi.watsons.com.tr
 watch-ng.nba.com
 watch.global.nba.com
+water-kracht-levering.be
+water-kracht-levering.eu
+waterkracht-levering.be
+waterkracht-levering.eu
+waterlink.be
+waterstoringen.be
 wd1-cf.euce1.indriverapp.com
 wd1-gw-cf.euce1.indriverapp.com
 weather.opera-api.com
