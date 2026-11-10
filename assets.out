@@ -530,6 +530,7 @@
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -550,8 +551,6 @@
 *.logstash.net
 *.logstash.wtf
 *.lookatme.com.ph
-*.luckydays.ca
-*.luckydays.com
 *.lucra.live
 *.lukwerks.com
 *.lululemon.com
@@ -698,7 +697,6 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
-*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -895,15 +893,12 @@
 *.soundon.global
 *.soyoustart.com
 *.spiketrap.io
-*.spinaway.com
 *.sportbild.de
 *.sportinglife.com
 *.spotify.com
 *.spotify.net
 *.spring-media.de
 *.springtools.de
-*.sprint.apps.dynatracelabs.com
-*.sprint.dynatracelabs.com
 *.srvcs.tumblr.com
 *.stadtwien.onmicrosoft.com
 *.stag.tomorrowland.com
@@ -959,7 +954,6 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
-*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
@@ -999,7 +993,6 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
-*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1032,8 +1025,6 @@
 *.visamiddleeast.com
 *.vliegwinkel.nl
 *.vod2.infomaniak.com
-*.voi.com
-*.voiscooters.com
 *.volkskrant.nl
 *.volkswagen.de
 *.vpn.hackerone.net
@@ -1857,9 +1848,6 @@ Drogas Lithuania Android
 Drogas Lithuania iOS
 Dropbox Desktop Application
 Dropbox.com
-Dynatrace ActiveGate
-Dynatrace MobileAgent
-Dynatrace OneAgent
 Dyson Connected Products (IoT Hardware)
 EOS C# SDK
 Echo Family Devices
@@ -2455,8 +2443,6 @@ UniFi Wireless Access Points
 UniFi-Play
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
-Uphold: Buy BTC, ETH and 300+
-Uphold: Buy BTC, ETH and 360+
 Upwork - Android Application
 Upwork - Marketplace Portal
 Upwork - Messages
@@ -2476,8 +2462,6 @@ Vercel sandbox
 Video Conferencing Products
 Video Doorbell
 Virtual Office Desktop
-Voi – e-scooter & e-bike hire
-Voi – e-scooters & e-bikes
 Vox Cinemas Android
 Vox Cinemas iOS
 WARP Mobile Apps
@@ -2575,7 +2559,6 @@ academy-outbound-ads.tiktok.com
 access-sandbox.remitly.com
 access.remitly.com
 accommodations.booking.com
-account-sprint.dynatracelabs.com
 account.acronis.com
 account.booking.com
 account.box.com
@@ -2689,8 +2672,6 @@ api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
-api-sandbox.uphold.com
-api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -2774,6 +2755,7 @@ api.instacart.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2802,7 +2784,6 @@ api.paybox.sh
 api.personio-dev.com
 api.personio.com
 api.pns.hk
-api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -2822,7 +2803,6 @@ api.remitly.io
 api.robinhood.com
 api.row.pro
 api.ryadom.kz
-api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.segmentapis.com
@@ -2906,6 +2886,8 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.livenation.com
@@ -2925,7 +2907,6 @@ app.paybox.sh
 app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
-app.sandbox.topperpay.com
 app.savers.co.uk
 app.segment.com
 app.sendgrid.com
@@ -3011,9 +2992,11 @@ authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autoupdateapi.lansweeper.com
 av.indrive.com
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3894,13 +3877,11 @@ doaction.org
 docs.anthropic.com
 docs.gitlab.com
 docs.gocardless.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
-docs.optimuscards.com
 docs.redoxengine.com
 docs.superhuman.com
-docs.topperpay.com
-docs.uphold.com
 docsend.com
 docuflow.stg.inspectorio.com
 doordash.DoorDashConsumer
@@ -3943,6 +3924,7 @@ ecommerce.hostinger.com
 ecosystem-experience.super-id.net
 ecrf.uzleuven.be
 edge.bookbeat.com
+edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4016,6 +3998,7 @@ falcon-sandbox.com
 fareharborsites.com
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.euce1.indriverapp.com
 fch-gw-cf.euce1.indriverapp.com
 fch-gw-scf.euce1.indriverapp.com
@@ -4060,7 +4043,6 @@ flourish-user-preview.com
 flourish-user-templates.com
 flyiin.com
 fm.anchor.android
-fm.voiapp.io
 folder.iciparisxl.nl
 folder.kruidvat.be
 folder.kruidvat.nl
@@ -4148,7 +4130,6 @@ github.com/stytchauth/stytch-rust
 github.com/stytchauth/terraform-provider-stytch
 github.com/twilio
 github.com/twilio-labs
-github.com/uphold/*
 gitlab.com
 gldatacenter.nba.com
 gleague-dev.nba.com
@@ -4175,7 +4156,6 @@ grae.nba.com
 grandrapids-dev.gleague.nba.com
 grandrapids-qa.gleague.nba.com
 grandrapids.gleague.nba.com
-graphql.sandbox.topperpay.com/graphql
 gravatar.com
 green.nba.com
 greensboro-dev.gleague.nba.com
@@ -4410,12 +4390,6 @@ https://api.datadome.co
 https://api.dbs.kape.com
 https://api.dts.kape.com
 https://api.enc.kape.com
-https://api.enterprise.sandbox.uphold.com/core
-https://api.enterprise.sandbox.uphold.com/kyc-connector
-https://api.enterprise.sandbox.uphold.com/market-pulse
-https://api.enterprise.sandbox.uphold.com/topper
-https://api.enterprise.sandbox.uphold.com/trading
-https://api.enterprise.sandbox.uphold.com/widgets
 https://api.expressvpn.com
 https://api.fishbowlapp.com/*
 https://api.fstr.rocks
@@ -4466,7 +4440,6 @@ https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
-https://api.voiapp.io/
 https://api.welcomesoftware.com/
 https://api.wyzecam.com
 https://api.x.immutable.com/
@@ -4500,6 +4473,7 @@ https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4711,6 +4685,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -5021,6 +4996,7 @@ https://fi.harmanaudio.com
 https://fi.harmankardon.com
 https://fi.jbl.com
 https://fileshare.ze.monash.edu
+https://filezilla-project.org/download.php?type=server&show_all=1
 https://fin.ai/
 https://finance.quintoandar.com.br/*
 https://financeiro.hostgator.com.br
@@ -5041,6 +5017,7 @@ https://forum.newrelic.com
 https://fr.jbl.com
 https://fw.ring.com/*
 https://fx-qa.np.bolsasymercados.es/
+https://fzssh.filezilla-project.org/download.php
 https://gateway.optus.com.au/api/ai-search/search/v1
 https://gatewaydsapprd.marriott.com/v1/
 https://gatewaydsapprd.marriott.com/v2/
@@ -5062,7 +5039,6 @@ https://github.com/Chia-Network/chiavdf
 https://github.com/Chia-Network/clvm_rs
 https://github.com/ClickHouse/ClickHouse
 https://github.com/DopplerHQ/cli
-https://github.com/Dynatrace
 https://github.com/ExodusOSS/bytes
 https://github.com/ExodusOSS/crypto
 https://github.com/ExodusOSS/hydra
@@ -5415,6 +5391,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -5431,6 +5408,7 @@ https://liveassist22.usaa.com/
 https://liveassist23.usaa.com
 https://liveassist24.usaa.com
 https://login.aufbaubank.de
+https://login.bitpanda.com
 https://login.medscape.com
 https://login.neogov.com
 https://login.paddle.com
@@ -6491,6 +6469,7 @@ https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -6523,7 +6502,6 @@ https://redash-staging.getmoneytree.com/
 https://refinedsites.refinedwiki.com
 https://regatta.aiven.io/
 https://rentals.tripadvisor.com
-https://repair.voiweb.net
 https://res.cloudinary.com
 https://research.monash.edu/
 https://researchmgt.monash.edu/
@@ -6659,6 +6637,9 @@ https://support.moovitapp.com/hc/en-us/articles/11389054527122-WayFinder-Augment
 https://support.newrelic.com/
 https://support.okta.com
 https://supportportal.thalesgroup.com
+https://svn.filezilla-project.org/svn/FileZilla3/trunk/
+https://svn.filezilla-project.org/svn/libfilezilla/trunk
+https://svn.filezilla-project.org/svn/libfilezilla/trunk/
 https://sycamore.moneyboxapp.org
 https://t-mobile.com
 https://takeaway.com
@@ -6842,7 +6823,6 @@ https://www.blockchain.com/
 https://www.bluehost.com/
 https://www.bookbeat.com
 https://www.bwin.com
-https://www.bybit.com/en/ai-bot/home
 https://www.bybit.com/en/stocks
 https://www.canva.com
 https://www.canva.com/developers/
@@ -7300,6 +7280,7 @@ invisionu.education
 invoices.razorpay.com
 io.coda
 io.coda.codaapp
+io.walt.app
 iowa-dev.gleague.nba.com
 iowa-qa.gleague.nba.com
 iowa.gleague.nba.com
@@ -7444,6 +7425,7 @@ login.exodus.com
 login.infomaniak.com
 login.insightly.com
 login.koho.ca
+login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7552,7 +7534,6 @@ mcp.faraday.ai
 mcp.staging.airtable.com
 mcp.stripe.com
 mds.marriott.com
-mds.voiapp.io
 media.drogas.lt
 media.drogas.lv
 media.iciparisxl.be
@@ -7698,7 +7679,6 @@ my.tw.coupang.com
 my.varonis.com
 my.visa.fr
 myaccount-cn.payoneer.com
-myaccount-hardening.dynatracelabs.com
 myaccount.ad.nl
 myaccount.demorgen.be
 myaccount.hln.be
@@ -8012,7 +7992,6 @@ politico.eu
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
-portal.enterprise.uphold.com
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
 portal.nextcloud.com
@@ -8186,7 +8165,6 @@ reno-dev.gleague.nba.com
 reno.gleague.nba.com
 repo.3cx.com
 report-html-sight.stg.inspectorio.com
-report.voi.com
 res.blueskytours.globalbookingsolutions.com
 res.funjet.com
 res.hyattinclusivecollection.com
@@ -8407,7 +8385,6 @@ splunk-phantom-nlb.marriott.com
 sporza.be
 ssn-lb-cf.africa.afso1.aws.indriverapp.com
 ssn-lb-scf.sa.apse1.aws.indriverapp.com
-sso-sprint.dynatracelabs.com
 sso.8x8.com
 sso.8x8pilot.com
 sso.mangerbouger.fr
@@ -8625,7 +8602,6 @@ txf-cf.cis.euce1.aws.indriverapp.com
 txm-gw-cf.cis.euce1.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
 uat.marriott.com
-uatcms.optimuscards.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
@@ -8711,7 +8687,6 @@ vm-cf.mena.meso1.aws.indriverapp.com
 vm-gw-scf.sa.apse1.aws.indriverapp.com
 voapi.8x8.com
 vod.infomaniak.com
-voi.com
 voices.nba.com
 volans.tech
 vote.nba.com
@@ -8730,7 +8705,6 @@ vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
-wallet-sandbox.uphold.com
 wallet.oasis.io
 wallet.tg
 wallet.venly.io
@@ -8999,6 +8973,7 @@ www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
+www.lansweeper.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
@@ -9047,7 +9022,6 @@ www.nba.com
 www.netflix.com
 www.onsexprime.fr
 www.onthewaterfrontfestival.com
-www.optimuscards.com
 www.ottocasino.se
 www.ottokasino.com
 www.ovh.com
@@ -9111,7 +9085,6 @@ www.tgoyemek.com
 www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
-www.topperpay.com
 www.torfs.be
 www.torfs.nl
 www.tradepmr.com
@@ -9133,7 +9106,6 @@ www.udemy.com
 www.ultimateears.com
 www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 www.universalorlandovacations.com
-www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
