@@ -697,6 +697,7 @@
 *.operationstechnology.io
 *.opr.news
 *.opsgenie.com
+*.optimuscards.com
 *.optus.com.au
 *.origindigital-pac.com.au
 *.osite99.com
@@ -954,6 +955,7 @@
 *.tomorrowland.com
 *.tools.thefork.tech
 *.toolsforhumanity.com
+*.topperpay.com
 *.tospotify.com
 *.trac.wordpress.org, *.svn.wordpress.org, *.git.wordpress.org
 *.trainpal.com,*.mytrainpal.com
@@ -993,6 +995,7 @@
 *.unreal-agents.jitsi.net
 *.unrealengine.com
 *.unrealtournament.com
+*.uphold.com
 *.uscc.com
 *.uscc.net
 *.uscellular.com
@@ -1004,6 +1007,7 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1189,6 +1193,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2443,6 +2448,8 @@ UniFi Wireless Access Points
 UniFi-Play
 University Platform
 UnrealEditorFortnite-Win64-Shipping.exe
+Uphold: Buy BTC, ETH and 300+
+Uphold: Buy BTC, ETH and 360+
 Upwork - Android Application
 Upwork - Marketplace Portal
 Upwork - Messages
@@ -2634,6 +2641,7 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alfred.syfe.com
 allstar-dev.nba.com
@@ -2672,6 +2680,8 @@ api-js.datadome.co
 api-partner.spotify.com
 api-polygon-tokens.polygon.technology/
 api-sandbox.gocardless.com
+api-sandbox.uphold.com
+api-sandbox.uphold.com/graphql
 api-staging.airtable.com
 api-uat-bugbounty.nonprod.syfe.com
 api-wallet-sandbox.venly.io
@@ -2731,6 +2741,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
@@ -2784,6 +2795,7 @@ api.paybox.sh
 api.personio-dev.com
 api.personio.com
 api.pns.hk
+api.portal.enterprise.uphold.com 
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
@@ -2803,6 +2815,7 @@ api.remitly.io
 api.robinhood.com
 api.row.pro
 api.ryadom.kz
+api.sandbox.topperpay.com
 api.savers.co.uk
 api.segment.io
 api.segmentapis.com
@@ -2832,7 +2845,9 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2907,6 +2922,7 @@ app.paybox.sh
 app.pharmacy.superdrug.com
 app.pullrequest.com
 app.rewire.to
+app.sandbox.topperpay.com
 app.savers.co.uk
 app.segment.com
 app.sendgrid.com
@@ -3587,6 +3603,7 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3848,6 +3865,7 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
+developers.veriff.me
 device.marriott.com
 dh-cf.mena.meso1.aws.indriverapp.com
 dh-gw-scf.sa.apse1.aws.indriverapp.com
@@ -3880,8 +3898,11 @@ docs.gocardless.com
 docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
+docs.optimuscards.com
 docs.redoxengine.com
 docs.superhuman.com
+docs.topperpay.com
+docs.uphold.com
 docsend.com
 docuflow.stg.inspectorio.com
 doordash.DoorDashConsumer
@@ -4130,6 +4151,7 @@ github.com/stytchauth/stytch-rust
 github.com/stytchauth/terraform-provider-stytch
 github.com/twilio
 github.com/twilio-labs
+github.com/uphold/*
 gitlab.com
 gldatacenter.nba.com
 gleague-dev.nba.com
@@ -4156,6 +4178,7 @@ grae.nba.com
 grandrapids-dev.gleague.nba.com
 grandrapids-qa.gleague.nba.com
 grandrapids.gleague.nba.com
+graphql.sandbox.topperpay.com/graphql
 gravatar.com
 green.nba.com
 greensboro-dev.gleague.nba.com
@@ -4322,6 +4345,7 @@ https://1win.com/betting
 https://1win.com/casino
 https://28degreescard.com.au
 https://8x8.vc/xmpp-websocket
+https://9b10d44d-1499-4a2f-86bc-fda178acdfdc.striga.com/
 https://Mlife.mo
 https://[it | fr | us | sg | …].louisvuitton.com
 https://a.klaviyo.com/api/*
@@ -4390,6 +4414,12 @@ https://api.datadome.co
 https://api.dbs.kape.com
 https://api.dts.kape.com
 https://api.enc.kape.com
+https://api.enterprise.sandbox.uphold.com/core
+https://api.enterprise.sandbox.uphold.com/kyc-connector
+https://api.enterprise.sandbox.uphold.com/market-pulse
+https://api.enterprise.sandbox.uphold.com/topper
+https://api.enterprise.sandbox.uphold.com/trading
+https://api.enterprise.sandbox.uphold.com/widgets
 https://api.expressvpn.com
 https://api.fishbowlapp.com/*
 https://api.fstr.rocks
@@ -4403,6 +4433,7 @@ https://api.int.ibops.net/customer-loyalty-service
 https://api.intercom.com
 https://api.justeat-int.com
 https://api.jwks.kape.com
+https://api.lightspark.com
 https://api.mafshoppingmalls.com
 https://api.mafshoppingmalls.com/
 https://api.moneyboxapp.com
@@ -4469,6 +4500,7 @@ https://app.ibotta.com/sign-in 
 https://app.intercom.com
 https://app.intercom.io/
 https://app.latitudepayapps.com/
+https://app.lightspark.com
 https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
@@ -4481,6 +4513,7 @@ https://app.ripio.com
 https://app.saltlabs.com/
 https://app.staging.saltlabs.com/
 https://app.thousandeyes.com/
+https://app.uma.money
 https://app.web.com
 https://app.welcomesoftware.com/
 https://app.wisdomtreeconnect.com
@@ -5068,6 +5101,7 @@ https://github.com/basecamp/trix
 https://github.com/basecamp/writebook
 https://github.com/better-auth/better-auth
 https://github.com/brave/*, https://github.com/brave-intl/*
+https://github.com/buildonspark/spark
 https://github.com/circlefin/aptos-cctp
 https://github.com/circlefin/arc-node
 https://github.com/circlefin/arc-remote-signer
@@ -5183,6 +5217,12 @@ https://github.com/kubernetes/steering
 https://github.com/kubernetes/test-infra
 https://github.com/kubernetes/utils
 https://github.com/kubernetes/website
+https://github.com/lightsparkdev/flutter-sdk
+https://github.com/lightsparkdev/go-sdk
+https://github.com/lightsparkdev/js-sdk
+https://github.com/lightsparkdev/kotlin-sdk
+https://github.com/lightsparkdev/lightspark-rs
+https://github.com/lightsparkdev/python-sdk
 https://github.com/matomo-org
 https://github.com/matomo-org/developer-documentation
 https://github.com/matomo-org/docker
@@ -5288,6 +5328,7 @@ https://help.supplier.viator.com/en
 https://hg.easy4ipcloud.com
 https://hipaa.staging.gearset.com/
 https://home.classdojo.com
+https://hooks.striga.com/core/
 https://hq.breadcrumb.com/hq/restaurants/bounty-cafe-2/
 https://hr.neogov.com
 https://hr.prosus.com/
@@ -5397,6 +5438,7 @@ https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
 https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
 https://lifeapi.pulsepoint.com
+https://link.uma.me
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
 https://linktree.com
@@ -6523,6 +6565,9 @@ https://sandbox-buy.paddle.com
 https://sandbox-checkout-service.paddle.com
 https://sandbox-login.paddle.com
 https://sandbox-vendors.paddle.com
+https://sandbox.striga.com/api/v0
+https://sandbox.striga.com/api/v1
+https://sandbox.striga.com/backoffice
 https://sandbox.vintedgo.com
 https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
@@ -6660,6 +6705,7 @@ https://testnet.bybit.com/en/trade/odds/
 https://testnet.bybit.com/en/trade/option/usdt/spcx
 https://testnet.bybit.com/en/trade/usdt/btcusdt
 https://tfb.t-mobile.com
+https://tfr-sandbox.striga.com/
 https://thatconceptstore.com
 https://thueringer-foerderportal.eu
 https://ticket.multiplayer.classdojo.com
@@ -7053,6 +7099,7 @@ https://www.recordedfuture.com
 https://www.remove.bg
 https://www.restaurant-information.com
 https://www.riskrecon.com
+https://www.sandbox.striga.com/api/v1/
 https://www.saturn.de
 https://www.sdx.com/
 https://www.sharerewards.com/
@@ -7094,6 +7141,7 @@ https://www.upwork.com
 https://www.usaa.com
 https://www.usaainsurance.com/
 https://www.user.quintoandar.com.br/admin/*
+https://www.vault.striga.eu/web/sandbox/
 https://www.venturatvos.com
 https://www.verisign.com
 https://www.vfsglobalcustomerexperience.com/CustomerFeedback/GeneralFeedback/Index
@@ -7383,6 +7431,8 @@ liberty-qa.wnba.com
 liberty-qa2.wnba.com
 liberty.wnba.com
 licensemgmt.varonis.com
+lightsparkdev/lightspark-crypto-uniffi
+lightsparkdev/swift-wallet-sdk
 lineemup-dev.wnba.com
 lineemup.wnba.com
 link.tw.coupang.com
@@ -7451,6 +7501,7 @@ longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookup.nextcloud.com
 lookups.twilio.com
+louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7471,6 +7522,7 @@ m.reddit.com
 m.tw.coupang.com
 maestro.8x8.cloud
 magazine.kruidvat.be
+magic.veriff.me
 magisto.com,www.magisto.com
 mail.hostinger.com
 mail.infomaniak.com
@@ -7992,6 +8044,7 @@ politico.eu
 portal-api.coinmarketcap.com
 portal.23andme.com
 portal.arkoselabs.com
+portal.enterprise.uphold.com
 portal.myconnect.com.au
 portal.myconnect.com.au/new-connection
 portal.nextcloud.com
@@ -8233,6 +8286,7 @@ sandbox.braintreegateway.com
 sandbox.developer.plus.authorize.net
 sandbox.secure.checkout.visa.com
 sandbox.securegateway.com
+sandbox.striga.com
 sandiego.gleague.nba.com
 santacruz-dev.gleague.nba.com
 santacruz-qa.gleague.nba.com
@@ -8400,6 +8454,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8602,6 +8658,7 @@ txf-cf.cis.euce1.aws.indriverapp.com
 txm-gw-cf.cis.euce1.aws.indriverapp.com
 uat-bugbounty.nonprod.syfe.com
 uat.marriott.com
+uatcms.optimuscards.com
 uber.com
 uber.marriott.com
 uc.8x8pilot.com
@@ -8705,6 +8762,7 @@ vwcm.visa.com
 vœux.vinci.com
 w1.uzleuven.be
 w1.uzleuven.be/random
+wallet-sandbox.uphold.com
 wallet.oasis.io
 wallet.tg
 wallet.venly.io
@@ -9022,6 +9080,7 @@ www.nba.com
 www.netflix.com
 www.onsexprime.fr
 www.onthewaterfrontfestival.com
+www.optimuscards.com
 www.ottocasino.se
 www.ottokasino.com
 www.ovh.com
@@ -9085,6 +9144,7 @@ www.tgoyemek.com
 www.theperfumeshop.com
 www.tink.com
 www.tomorrowland.com
+www.topperpay.com
 www.torfs.be
 www.torfs.nl
 www.tradepmr.com
@@ -9106,12 +9166,14 @@ www.udemy.com
 www.ultimateears.com
 www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 www.universalorlandovacations.com
+www.uphold.com
 www.upwork.com/api 
 www.urbanclap.com
 www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
