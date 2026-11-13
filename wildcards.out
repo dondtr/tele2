@@ -100,8 +100,6 @@
 *.apigwc.marriott.com
 *.apis.telenor.se
 *.app.asana.com
-*.app.personio-dev.com
-*.app.personio.com
 *.appmiral.com
 *.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
@@ -521,6 +519,7 @@
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -714,10 +713,6 @@
 *.paypalcorp.com
 *.pci.shopifyinc.com
 *.pennmedicine.connect-visit.com
-*.personio-internal.de
-*.personio.de
-*.personio.tools
-*.personiowhistleblowing.com
 *.petbook-magazine.com/
 *.petbook.de
 *.piaservers.com
@@ -997,6 +992,7 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)

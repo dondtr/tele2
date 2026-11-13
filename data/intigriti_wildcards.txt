@@ -96,6 +96,7 @@ sks-*.exo.io
 *.kruidvat.be
 *.trekpleister.nl
 *.prijsmepper.nl
+*.lansweeper.com
 *.libelle.nl
 *.marionnaud.fr
 *.marionnaud.es
@@ -120,12 +121,6 @@ sks-*.exo.io
 *.monzo.com
 *.prod-ffs.io
 *.nexuzhealth.*
-*.app.personio-dev.com
-*.app.personio.com
-*.personio-internal.de
-*.personio.tools
-*.personio.de
-*.personiowhistleblowing.com
 *.portofantwerp.com
 *.portofantwerpbruges.com
 *.ripe.net
@@ -152,6 +147,7 @@ sks-*.exo.io
 *stag*.uzleuven.be
 *.vtm.be
 *.vtmgo.be
+*.veriff.com
 *.aww.be
 *.water-link.be
 *.mijnwater-link.be

@@ -113,8 +113,6 @@
 *.apigwc.marriott.com
 *.apis.telenor.se
 *.app.asana.com
-*.app.personio-dev.com
-*.app.personio.com
 *.appmiral.com
 *.arc.io
 *.arlo.com (subdomains impacting production customer-facing services)
@@ -534,6 +532,7 @@
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -727,10 +726,6 @@
 *.paypalcorp.com
 *.pci.shopifyinc.com
 *.pennmedicine.connect-visit.com
-*.personio-internal.de
-*.personio.de
-*.personio.tools
-*.personiowhistleblowing.com
 *.petbook-magazine.com/
 *.petbook.de
 *.piaservers.com
@@ -1010,6 +1005,7 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1196,6 +1192,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -2221,7 +2218,6 @@ Other Logitech Hardware/IoT
 Other Semrush Related Asset
 Other Spotify websites
 Other assets
-Other assets owned by Personio
 Other github.com/wordpress repos
 Other non-production infrastructure
 Other related e-commerce services
@@ -2644,6 +2640,7 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alfred.syfe.com
 allstar-dev.nba.com
@@ -2741,6 +2738,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
@@ -2766,6 +2764,7 @@ api.instacart.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2791,8 +2790,6 @@ api.neon.opera.com/pub
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
-api.personio-dev.com
-api.personio.com
 api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
@@ -2841,7 +2838,9 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2895,6 +2894,8 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.livenation.com
@@ -3001,10 +3002,12 @@ authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autoupdateapi.lansweeper.com
 av.indrive.com
 aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3595,6 +3598,7 @@ com.urbanclap.urbanclap
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3858,6 +3862,7 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
+developers.veriff.me
 device.marriott.com
 dh-cf.mena.meso1.aws.indriverapp.com
 dh-gw-scf.sa.apse1.aws.indriverapp.com
@@ -3887,6 +3892,7 @@ doaction.org
 docs.anthropic.com
 docs.gitlab.com
 docs.gocardless.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.redoxengine.com
@@ -3932,6 +3938,7 @@ ecom-static.kruidvat.nl
 ecommerce.hostinger.com
 ecrf.uzleuven.be
 edge.bookbeat.com
+edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4005,6 +4012,7 @@ falcon-sandbox.com
 fareharborsites.com
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.euce1.indriverapp.com
 fch-gw-cf.euce1.indriverapp.com
 fch-gw-scf.euce1.indriverapp.com
@@ -4812,7 +4820,6 @@ https://communities.epicgames.com
 https://community.etsy.com
 https://community.exoscale.com/
 https://community.oppo.com/
-https://community.personio.com
 https://communityin.oppo.com/
 https://company.vinted.com
 https://compulsoryunits.monash.edu/
@@ -5318,7 +5325,6 @@ https://hr.neogov.com
 https://hr.prosus.com/
 https://hu.harmanaudio.com
 https://hub.immutable.com/
-https://hug.personio.com
 https://hytale.com/
 https://hytale.dev/
 https://ibconnect.internetbrands.com
@@ -6558,7 +6564,6 @@ https://screenplayer.20min.ch
 https://sdk-h1.unico.io/createprocess
 https://se.harmanaudio.com
 https://search-api.bookbeat.com
-https://sec-test-<intigriti handle>-<nn>.personio.de
 https://secumails.gesundheitsverbund.at
 https://secure-iphone-xml.booking.com/json/
 https://secure-signals-client-side-integ.uidapi.com/
@@ -7054,8 +7059,6 @@ https://www.pacsun.me/
 https://www.paddle.com
 https://www.partycasino.com
 https://www.partypoker.com
-https://www.personio.com/free-trial/
-https://www.personio.de/kostenlos-testen/
 https://www.pexels.com/
 https://www.pinelabs.ae
 https://www.pinelabs.com
@@ -7455,6 +7458,7 @@ login.exodus.com
 login.infomaniak.com
 login.insightly.com
 login.koho.ca
+login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7480,6 +7484,7 @@ longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookup.nextcloud.com
 lookups.twilio.com
+louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7500,6 +7505,7 @@ m.reddit.com
 m.tw.coupang.com
 maestro.8x8.cloud
 magazine.kruidvat.be
+magic.veriff.me
 magisto.com,www.magisto.com
 mail.hostinger.com
 mail.infomaniak.com
@@ -8433,6 +8439,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -9014,6 +9022,7 @@ www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
+www.lansweeper.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
@@ -9152,6 +9161,7 @@ www.urbancompany.com
 www.uzleuven.be
 www.valmo.in
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
