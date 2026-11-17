@@ -1294,7 +1294,6 @@
 198.142.231.45
 198.142.235.18
 198.142.65.253
-199.66.248.0/22
 1console.twilio.com
 1pw-scim.prd.iat.it.xvservice.net
 1w.cash
@@ -1541,6 +1540,9 @@
 9nqwjwnqjj5n
 9wzdncrfj3mb
 <locale>.trip.com
+<your-own-1password-account> → Latest Browser Extension
+<your-own-1password-account> → Latest stable 1Password CLI
+<your-own-1password-account>.1password.com
 @privy-io controlled namespace dependencies
 A16k
 A76
@@ -2593,6 +2595,7 @@ admin.8x8.com
 admin.booking.com
 admin.instacart.com
 admin.meeshosupply.com
+admin.postikuori.posti.fi
 admin.shopify.com
 admin.wickr.com
 admincms.developer.monespacesante.fr
@@ -2787,6 +2790,7 @@ api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
 api.posti.fi
+api.postikuori.posti.fi
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
@@ -3260,6 +3264,7 @@ cmapi.tw.coupang.com
 cmcom.atlassian.net
 cmf-cf.euce1.indriverapp.com
 cms.monespacesante.fr
+cms.postikuori.posti.fi
 co-gw-scf.sa.apse1.aws.indriverapp.com
 co-in-cf.mena.meso1.aws.indriverapp.com
 co-in-gw-scf.sa.apse1.aws.indriverapp.com
@@ -3963,6 +3968,7 @@ eshop.bpost.be
 essentials.vinci.com
 essentiel.vinci.com
 esupplier.marriott.com
+etavarasto.posti.fi
 etickets.infomaniak.com
 eu.cloud.com
 eu.remix.com
@@ -4473,6 +4479,7 @@ https://app.magicestimations.com
 https://app.navan.com
 https://app.opsgenie.com
 https://app.optimizely.com/
+https://app.pdq.com/
 https://app.recordedfuture.com
 https://app.requirementyogi.com
 https://app.ring.com/*
@@ -4684,6 +4691,7 @@ https://auth.riskrecon.eu
 https://auth.seek.com
 https://auth.thetradedesk.com
 https://auth.wyze.com
+https://auth2.pdq.com/
 https://authn.usaa.com/
 https://autoupdate.geo.opera.com
 https://b2bapi-a.usaa.com
@@ -4982,6 +4990,7 @@ https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etoropartners.com
 https://etorox.com
 https://etsypayments.com
+https://events.1password.com/api/
 https://events.onecloud.harman.com
 https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
@@ -5401,6 +5410,7 @@ https://learn.newrelic.com/
 https://legacy-blockexplorer.electroneum.com
 https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
+https://library.pdq.com/
 https://lieferando.de
 https://life.pulsepoint.com/Buyer/#/campaign
 https://life.pulsepoint.com/EngagementAudience/#/dashboard
@@ -6475,6 +6485,7 @@ https://portal.anz.kinergysolutions.com
 https://portal.exoscale.com/
 https://portal.iFoodpago.com.br
 https://portal.originzero.com.au
+https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
@@ -7186,7 +7197,9 @@ iRobot Roomba™ 405
 iRobot Roomba™ 505
 iRobot Roomba™ 705
 iam.atg.se
+iam.postikuori.posti.fi
 iam.twilio.com
+iamapp.postikuori.posti.fi
 iat.it.xvservice.net
 ic3-cf.euce1.indriverapp.com
 ic3-gw-cf.euce1.indriverapp.com
@@ -8112,6 +8125,7 @@ realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
 reastatic.net
+rebl-ai-webchat-postikuori.azurewebsites.net
 reco.tw.coupang.com
 recovery.privy.io
 redditforbusiness.com
