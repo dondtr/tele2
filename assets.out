@@ -3,7 +3,6 @@
  *.test.*.lfscnp.com
  203.13.125.32/27
  Finicity Connect
- Mobile Apps
  UniFi OS Server
  com.citymapper.app.release
  https://api-*exoscale.com/v2
@@ -135,6 +134,7 @@
 *.auth.bild.de
 *.autobild.de
 *.avecspotify.com
+*.aww.be
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
@@ -612,6 +612,7 @@
 *.miinsurtech.com
 *.miinsurtech.net
 *.mijiayoupin.com
+*.mijnwater-link.be
 *.mioffice.cn
 *.mios.cn
 *.miot-spec.org
@@ -824,7 +825,6 @@
 *.savi.xyz
 *.say.rocks
 *.saytechnologies.com
-*.sbb.ch
 *.sbgcdn.com
 *.sbgcore.com
 *.sbgorigin.com
@@ -926,7 +926,6 @@
 *.superhuman.com
 *.support.originenergy.com.au
 *.swaps.xyz
-*.swisspass.ch
 *.teams.cloudflare.com
 *.techbook.de
 *.telenor.se
@@ -1003,6 +1002,7 @@
 *.venmo.com
 *.vercel.com
 *.vercel.live
+*.veriff.com
 *.verily.com/
 *.verilyme.com/
 *.verisign-grs.com (DNS service; DNS related)
@@ -1030,6 +1030,7 @@
 *.vtm.be
 *.vtmgo.be
 *.wali.com
+*.water-link.be
 *.watsons.co.id
 *.watsons.co.th
 *.watsons.com.hk
@@ -1103,7 +1104,6 @@
 *app.simple-reports.com/demo
 *dev*.arlo.com
 *developer.cloud.com
-*elvetino.ch
 *ensemble*.yahoo.com
 *gateway-apc.marriott.com
 *inf.fndlsb.net
@@ -1111,9 +1111,7 @@
 *qa*.arlo.com
 *ripio.com
 *ripiotrade.co
-*sbbcargo.com
 *test*.bykea.net
-*transsicura.ch
 *uat.marriott.com
 *ubereats.com
 *vc.logitech.com
@@ -1185,6 +1183,7 @@
 146.109.68.0/24
 146.109.8.0/21
 146.109.8.0/22
+1467907532
 1474700 (Steam app id)
 1475021574
 1476615877
@@ -1541,8 +1540,6 @@
 993135524
 9nqwjwnqjj5n
 9wzdncrfj3mb
-<Your own 1Password account> —> Latest stable, beta, or nightly Browser Extension (Chrome, Brave, Firefox, Edge, and Safari)
-<Your own 1Password account> —> Latest stable, beta, or nightly Command Line Interface (CLI)
 <locale>.trip.com
 @privy-io controlled namespace dependencies
 A16k
@@ -1605,8 +1602,6 @@ All Other NVIDIA Container Toolkit Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
-All other SBB owned IT assets
-All other Web and mobile APPs owned by SBB 
 All the Blockchain Infrastructure
 Amazon Subsidiaries (Please only actively test explicitly stated scope)
 AmpliFi
@@ -2125,7 +2120,6 @@ Mi TV Box
 Mi/Redmi Phone
 Microsites
 Mobile Applications
-Mobile Apps
 Moneyback Android
 Moneyback iOS
 MongoDB Assistant
@@ -2591,6 +2585,7 @@ actionnaires.vinci.com
 activate.3cx.com
 adayevrak.watsons.com.tr
 adb.nba.com
+adelta.be
 adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
@@ -2636,6 +2631,7 @@ airMAX
 airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
+alchemy.veriff.com
 alert.logitech.com
 alfred.syfe.com
 allstar-dev.nba.com
@@ -2734,6 +2730,7 @@ api.ezvizlife.com
 api.faraday.ai
 api.fi.dyson.com
 api.figma.com
+api.flamingo-eu.veriff.com
 api.fortress.com.hk
 api.geneva-staging.com
 api.github.com
@@ -2833,7 +2830,9 @@ api.tumblr.com
 api.twilio.com
 api.unleashed.be
 api.upwork.com/graphql
+api.us.veriff.me
 api.vault.chiatest.net
+api.veriff.me
 api.vhx.tv
 api.vimeo.com
 api.watsons.co.id
@@ -2942,6 +2941,8 @@ apps.portofantwerp.com
 apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
+aquawardsoperate.water-link.be
+aquawardsspatial.water-link.be
 aquiris.com.br
 aquiris.studio
 aquiristech.com
@@ -2991,6 +2992,7 @@ authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
 av.indrive.com
+aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
 backstage.io
@@ -3584,6 +3586,7 @@ com.valmo.rider
 com.valmo.valmo
 com.valvesoftware.Steam
 com.venmo
+com.veriff.demo
 com.vilcsak.bitcoin2
 com.vimeo.android.videoapp
 com.vimeocreate.videoeditor.moviemaker
@@ -3816,6 +3819,7 @@ deriv.partners
 derivws.com
 design.gitlab.com
 design.ui.com
+desktop.water-link.be
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
@@ -3847,6 +3851,7 @@ developers.pismo.io
 developers.reddit.com
 developers.tiktok.com
 developers.tw.coupangcorp.com
+developers.veriff.me
 device.marriott.com
 dh-cf.mena.meso1.aws.indriverapp.com
 dh-gw-scf.sa.apse1.aws.indriverapp.com
@@ -4217,7 +4222,6 @@ hotornot.com
 hotshoppeservices.com
 hpanel.hostinger.com
 http1mustdie.com
-http://--your-own-1password-account--.1password.com
 http://10.72.218.66/flag.txt
 http://activitylog.io/
 http://analytics.prosus.com
@@ -4978,7 +4982,6 @@ https://etherscan.io/token/0xfe18ae03741a5b84e39c295ac9c856ed7991c38e
 https://etoropartners.com
 https://etorox.com
 https://etsypayments.com
-https://events.1password.com/api/
 https://events.onecloud.harman.com
 https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
@@ -7259,6 +7262,8 @@ inclusion.nba.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 indrive.com
+induss.eu
+indussiibis.water-link.be
 inference.do-ai.run
 influencers.tw.coupang.com
 infomaniak.events
@@ -7453,6 +7458,7 @@ longisland-qa.gleague.nba.com
 longisland.gleague.nba.com
 lookup.nextcloud.com
 lookups.twilio.com
+louvre.veriff.me
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
@@ -7473,6 +7479,7 @@ m.reddit.com
 m.tw.coupang.com
 maestro.8x8.cloud
 magazine.kruidvat.be
+magic.veriff.me
 magisto.com,www.magisto.com
 mail.hostinger.com
 mail.infomaniak.com
@@ -7959,6 +7966,7 @@ phone-validation.taxi.booking.com
 photo.kruidvat.be
 picc.posti.fi
 pigeon.swiftfinancial.com
+pit.water-link.be
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -8182,6 +8190,7 @@ rewire.com
 rezagent.triseptsolutions.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
+rio-link.be
 riograndevalley-dev.gleague.nba.com
 riograndevalley-qa.gleague.nba.com
 riograndevalley.gleague.nba.com
@@ -8395,6 +8404,8 @@ staking-api.polygon.technology
 staking.polygon.technology
 static*.twilio.com
 static.apps.nextcloud.com
+station.veriff.com
+stationapi.veriff.com
 stats-dev.gleague.nba.com
 stats-dev.nba.com
 stats-qa.gleague.nba.com
@@ -8710,6 +8721,13 @@ was-gw-scf.sa.apse1.aws.indriverapp.com
 wasapi.watsons.com.tr
 watch-ng.nba.com
 watch.global.nba.com
+water-kracht-levering.be
+water-kracht-levering.eu
+water-link-jaarverslag.be
+waterkracht-levering.be
+waterkracht-levering.eu
+waterlink.be
+waterstoringen.be
 wd1-cf.euce1.indriverapp.com
 wd1-gw-cf.euce1.indriverapp.com
 weather.opera-api.com
@@ -8904,7 +8922,6 @@ www.dyson.vn
 www.dysoncanada.ca
 www.editeur.am.monespacesante.fr
 www.editeur.api.monespacesante.fr
-www.elvetino.ch
 www.evernote.com
 www.ezviz.com
 www.fareharbor.com
@@ -9045,8 +9062,6 @@ www.s-pankki.fi
 www.sa.dyson.com
 www.samenfittorfs.be
 www.savers.co.uk
-www.sbb.ch
-www.sbbcargo.com
 www.schoenentorfs.be
 www.schoenentorfs.nl 
 www.semrush.com
@@ -9080,7 +9095,6 @@ www.torfs.be
 www.torfs.nl
 www.tradepmr.com
 www.trajeoh.com
-www.transsicura.ch
 www.travel-brilliantly.marriott.com
 www.trekpleister.nl
 www.trendyol-milla.com
@@ -9102,6 +9116,7 @@ www.urbanclap.com
 www.urbancompany.com
 www.valmo.in
 www.valvesoftware.com
+www.veriff.com
 www.vfsvisaonline.com
 www.vimeo.com
 www.vinci-vie.fr
