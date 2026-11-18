@@ -3767,6 +3767,8 @@ smarttrader.deriv.com
 com.tinder
 fetlife.com
 fetlifemail.com
+dashboard.algolia.com
+www.algolia.com
 1142114207
 1257641454
 1343620481
@@ -3807,10 +3809,6 @@ verified.clearme.com
 verified.clearme.com/v1/verification_sessions
 web-edge.clearme.com
 www.clearme.com
-com.moneybird.Moneybird
-com.moneybird.android
-moneybird.com
-moneybirdstorage.com
 www.udemy.com
 yourcompany.udemy.com
 business.kayak.com
