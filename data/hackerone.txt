@@ -986,7 +986,6 @@ idcash-uat.unico.io
 identityhomolog.acesso.io
 idpay-uat.unico.io
 issuer.idpay-uat.unico.io
-openfinance.unico.io
 secure.unico.io
 unico.io
 Crypto infrastructure for cold and hot wallets
@@ -1149,12 +1148,14 @@ http://myvisainfinite.com/suntrust/en_us/home.html
 http://test.payworks.io/uis/mngr/
 https://ebc2test.cybersource.com/settings
 https://ebctest.cybersource.com/CGK2
+https://ebctest.cybersource.com/apm
 https://ebctest.cybersource.com/bin
 https://ebctest.cybersource.com/boarding/v1/registrations
 https://ebctest.cybersource.com/boarding/v1/templates
 https://ebctest.cybersource.com/bos
 https://ebctest.cybersource.com/casemanagement
 https://ebctest.cybersource.com/cds/
+https://ebctest.cybersource.com/devicemanagement
 https://ebctest.cybersource.com/dmconfigapi
 https://ebctest.cybersource.com/epcapi
 https://ebctest.cybersource.com/identity
@@ -1685,14 +1686,6 @@ verify.arkoselabs.com
 www.arkoselabs.com
 sandbox-royal.securegateway.com
 sandbox.securegateway.com
-339041767
-383915209
-abercrombie.com
-anfcorp.com
-com.abercrombie.abercrombie
-com.abercrombie.hollister
-corporate.abercrombie.com
-hollisterco.com
 831287358355275877
 961114489414094898
 app.moderntreasury.com
