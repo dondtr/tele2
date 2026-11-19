@@ -216,6 +216,7 @@
 *.chimecard.com
 *.chimepayments.com
 *.chmfin.com
+*.cic-bug-bounty.auth0app.com
 *.citrixworkspacesapi.net
 *.claritymoney.com
 *.classdojo.co.uk
@@ -535,6 +536,7 @@
 *.labs.8x8.com
 *.landmarkcinemas.com
 *.landmarkglobal-group.com
+*.lansweeper.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
 *.latitudefinancial.com.au
@@ -2110,6 +2112,7 @@ Low Cost Access
 Low Level Properties and Test environment
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
+MFA Integrations	
 MIUI OS for Xiaomi Phone
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
@@ -2789,6 +2792,7 @@ api.instacart.com
 api.krisp.ai
 api.kruidvat.be
 api.kruidvat.nl
+api.lansweeper.com
 api.larksuite.com
 api.linkedin.com
 api.loanbuilder.com
@@ -2917,6 +2921,8 @@ app.koho.ca
 app.krisp.ai
 app.kruidvat.be
 app.kruidvat.nl
+app.lansweeper.com
+app.lansweeper.com/trial
 app.larksuite.com
 app.launchdarkly.com
 app.livenation.com
@@ -3016,15 +3022,19 @@ auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
 auth.skypicker.com
+auth0.com	
 auth0.gocardless.com
+auth0.net
 authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
+autoupdateapi.lansweeper.com
 av.indrive.com
 aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.uat.private.unico.run
+backoffice.lansweeper.com
 backstage.io
 badoo.com
 badoocdn.com
@@ -3683,6 +3693,7 @@ components.stag.tomorrowland.com
 components.tomorrowland.com
 coms.ryadom.kz
 concierge.clearme.com
+config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
@@ -3920,6 +3931,7 @@ doaction.org
 docs.anthropic.com
 docs.gitlab.com
 docs.gocardless.com
+docs.lansweeper.com
 docs.launchdarkly.com
 docs.nextcloud.com
 docs.redoxengine.com
@@ -3966,6 +3978,7 @@ ecom-static.kruidvat.nl
 ecommerce.hostinger.com
 ecrf.uzleuven.be
 edge.bookbeat.com
+edge.lansweeper.com
 edgeapi.slack.com
 editeur.am.monespacesante.fr
 editeur.api.monespacesante.fr
@@ -4039,6 +4052,7 @@ falcon-sandbox.com
 fareharborsites.com
 faucet-api.polygon.technology/
 faucet.polygon.technology
+fb.lansweeper.com
 fch-cf.euce1.indriverapp.com
 fch-gw-cf.euce1.indriverapp.com
 fch-gw-scf.euce1.indriverapp.com
@@ -4480,6 +4494,7 @@ https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
 https://api.unity.com
+https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
@@ -4621,6 +4636,7 @@ https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/asana-mobile/id489969512
+https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/belong-by-maf/id6443736108
 https://apps.apple.com/us/app/bitgo-verify/id1608937235
@@ -4888,10 +4904,12 @@ https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
 https://customerportal.winconnect.com.au/login
+https://customers.us1.fga.dev/
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://dash.zoop.com.br/
 https://dashboard-101.moengage.com
+https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://data.limeinternal.com
@@ -5104,6 +5122,14 @@ https://github.com/RIPE-NCC/rpki-monitoring
 https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
+https://github.com/auth0/Auth0.Net
+https://github.com/auth0/auth0-java
+https://github.com/auth0/auth0-php
+https://github.com/auth0/auth0-spa-js
+https://github.com/auth0/auth0.js
+https://github.com/auth0/lock
+https://github.com/auth0/nextjs-auth0
+https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/base/*
 https://github.com/basecamp/once-campfire
@@ -5463,6 +5489,7 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
+https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
 https://manager.trial.lsk.lightspeed.app/
@@ -6148,6 +6175,7 @@ https://marketplace.atlassian.com/apps/89496753/pivot-worklog-reports-timesheets
 https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanban-safe-gadgets-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/974024200/radar-assets-inventory-for-jsm?hosting=cloud&tab=overview
+https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
@@ -6362,6 +6390,7 @@ https://platform.nexo.com/api/trading/advanced/facade/api/v1/order/futures
 https://platform.nexo.com/api/trading/advanced/facade/api/v1/withdraw
 https://platform.openai.com/playground
 https://platform.rc.blis.com
+https://play.fga.dev/
 https://play.google.com/store/apps/details?id=at.com.media.markt
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
@@ -6377,6 +6406,7 @@ https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.c
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
+https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.citycenter&hl=en_IN
 https://play.google.com/store/apps/details?id=com.belongi.moe
@@ -7365,6 +7395,7 @@ jss.greenhouse.io
 judge.me
 juicer.lime.bike
 juntasllegamos.indrive.com
+jwt.io
 k8s.gcr.io
 k8s.io
 kartaview.org
@@ -7471,6 +7502,7 @@ login.exodus.com
 login.infomaniak.com
 login.insightly.com
 login.koho.ca
+login.lansweeper.com
 login.nba.com
 login.oyens.com
 login.playcanvas.com
@@ -7915,6 +7947,7 @@ open.airbnb.com
 open.larksuite.com
 open.ys7.com
 openapi.starbucks.com
+openidconnect.net	
 opposhop.cn
 oprc.portofantwerpbruges.com
 ops.lime.bike
@@ -8275,6 +8308,7 @@ salesportal.hyatt.com
 saltlakecity-dev.gleague.nba.com
 saltlakecity-qa.gleague.nba.com
 saltlakecity.gleague.nba.com
+samltool.io	
 sandbox-b2b.ripio.com
 sandbox-royal.securegateway.com
 sandbox.affirm.com
@@ -8315,7 +8349,6 @@ select.logitech.com
 sell.moonpay.com
 seller-id.tokopedia.com
 seller.temu.com
-sellerportal.newegg.com
 sems.nba.com
 sendgrid.com
 sensei.pixiv.net
@@ -8804,8 +8837,10 @@ webapps-accpt.portofantwerpbruges.com
 webapps-test.portofantwerpbruges.com/xui
 webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
+webauthn.me	
 webhooks.booking.com
 weblog.coupang.com
+webtask.run
 webtoolbox.notebleue.pro
 webwinkel.parool.nl
 webwinkel.trouw.nl
@@ -9044,6 +9079,7 @@ www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
 www.landmarkcinemas.com
+www.lansweeper.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com

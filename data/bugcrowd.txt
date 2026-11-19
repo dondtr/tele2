@@ -325,6 +325,31 @@ Third Party Marketplace Apps
 https://app.aurory.io
 https://store.epicgames.com/p/amiko-arena-a5986d
 https://store.steampowered.com/app/4245930/Amiko_Legends/
+config.cic-bug-bounty.auth0app.com
+https://manage.cic-bug-bounty.auth0app.com/
+https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
+https://apps.apple.com/us/app/auth0-guardian/id1093447833
+https://marketplace.auth0.com
+MFA Integrations	
+https://dashboard.fga.dev/
+https://api.us1.fga.dev/
+https://customers.us1.fga.dev/
+https://play.fga.dev/
+webtask.run
+https://github.com/auth0/auth0.js
+https://github.com/auth0/lock
+https://github.com/auth0/auth0-spa-js
+https://github.com/auth0/Auth0.Net
+https://github.com/auth0/nextjs-auth0
+https://github.com/auth0/auth0-java
+https://github.com/auth0/react-native-auth0
+https://github.com/auth0/auth0-php
+auth0.com	
+samltool.io	
+webauthn.me	
+openidconnect.net	
+jwt.io
+auth0.net
 https://marketplace.atlassian.com/apps/1216387/approvals-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/1237517/captionizer-ai-image-analyzer
 https://marketplace.atlassian.com/apps/1218474/compliance-for-confluence?hosting=cloud
@@ -800,8 +825,6 @@ https://sb-console-api.fireblocks.io
 https://sb-mobile-api.fireblocks.io
 https://sandbox-api.fireblocks.io
 https://github.com/fireblocks/mpc-lib
-Any FIS asset is in scope
-https://www.tdfitloan.com/#!/
 Any FIS asset is in scope
 https://www.tdfitloan.com/#!/
 https://fivetran.com/login
