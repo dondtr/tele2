@@ -216,7 +216,6 @@
 *.chimecard.com
 *.chimepayments.com
 *.chmfin.com
-*.cic-bug-bounty.auth0app.com
 *.citrixworkspacesapi.net
 *.claritymoney.com
 *.classdojo.co.uk
@@ -1456,7 +1455,6 @@
 403684733
 406056744
 407558537
-410789057
 425194759
 434613896
 447553564
@@ -2112,7 +2110,6 @@ Low Cost Access
 Low Level Properties and Test environment
 Low impact, individually exposed Google Docs with no common root cause (see “Publicly accessible Google Document or Drive Links” in the “Corporate Targets” section)
 Luna
-MFA Integrations	
 MIUI OS for Xiaomi Phone
 Mac OS Executable
 Mac OS Executable: Download here https://www.larksuite.com/download
@@ -2628,7 +2625,6 @@ admin.8x8.com
 admin.booking.com
 admin.instacart.com
 admin.meeshosupply.com
-admin.postikuori.posti.fi
 admin.shopify.com
 admin.wickr.com
 admincms.developer.monespacesante.fr
@@ -2824,8 +2820,6 @@ api.personio.com
 api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
-api.posti.fi
-api.postikuori.posti.fi
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
@@ -3010,7 +3004,6 @@ auth-identity-qa.nba.com
 auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
-auth-service.posti.fi
 auth.23andme.com
 auth.digital.delen.be 
 auth.digital.delen.lu 
@@ -3023,9 +3016,7 @@ auth.preprod.monespacesante.fr
 auth.privy.io
 auth.remitly.com
 auth.skypicker.com
-auth0.com	
 auth0.gocardless.com
-auth0.net
 authentication.clearme.com
 authentication.wolt.com
 autocomplete.booking.com
@@ -3251,7 +3242,6 @@ cdn.gleague.nba.com
 cdn.moderntreasury.com
 cdn.nba.com
 cdn.plaid.com
-cdn.posti.fi
 cdna.lystit.com
 centaurs-rest.coupang.com
 centaurs.coupang.com
@@ -3311,7 +3301,6 @@ cmapi.tw.coupang.com
 cmcom.atlassian.net
 cmf-cf.euce1.indriverapp.com
 cms.monespacesante.fr
-cms.postikuori.posti.fi
 co-gw-scf.sa.apse1.aws.indriverapp.com
 co-in-cf.mena.meso1.aws.indriverapp.com
 co-in-gw-scf.sa.apse1.aws.indriverapp.com
@@ -3694,21 +3683,18 @@ components.stag.tomorrowland.com
 components.tomorrowland.com
 coms.ryadom.kz
 concierge.clearme.com
-config.cic-bug-bounty.auth0app.com
 configure.bmw.de
 configure.mini.de
 confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
-connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
 connectedapps.dev
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
-console.posti.com
 console.tink.com
 console.twilio.com
 console.valmo.in
@@ -3893,7 +3879,6 @@ developer.cybersource.com
 developer.gs.com
 developer.playcanvas.com
 developer.plus.authorize.net
-developer.posti.com
 developer.swapcard.com/event-admin/graphql
 developer.unico.io
 developer.valvesoftware.com
@@ -3997,7 +3982,6 @@ egaming.kinepolis.es
 egift.coupang.com
 eidhelp.marriott.com
 elm.nba.com
-elma.elma.fi
 emag.vinci.com
 emails.judge.me
 embed.tumblr.com
@@ -4020,7 +4004,6 @@ eshop.bpost.be
 essentials.vinci.com
 essentiel.vinci.com
 esupplier.marriott.com
-etavarasto.posti.fi
 etickets.infomaniak.com
 eu.cloud.com
 eu.remix.com
@@ -4074,7 +4057,6 @@ fhdn.fareharbor.com
 fhir.developer.monespacesante.fr
 fhir.monespacesante.fr
 fhir.redoxengine.com
-fi.itella.posti.android
 fi.mariacasino.com
 fi.reworks.redecor
 fi.spankki
@@ -4146,7 +4128,6 @@ gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
 gateway.geneva-staging.chat
 gateway.geneva-staging.com
-gateway.posti.fi
 gateway.reddit.com
 gateway.skyscanner.net/*
 gateway.superhuman.com
@@ -4400,7 +4381,6 @@ https://accounts.cmp.optimizely.com/
 https://accounts.hytale.com/login
 https://accounts.lastpass.com
 https://accounts.opera.com
-https://accounts.webmd.com
 https://accounts.welcomesoftware.com/
 https://acorns.com/
 https://addons.mozilla.org/en-US/firefox/addon/pinterest/
@@ -4500,7 +4480,6 @@ https://api.thousandeyes.com/
 https://api.toom.de
 https://api.tripadvisor.com
 https://api.unity.com
-https://api.us1.fga.dev/
 https://api.usaa.com/
 https://api.vistarmedia.com
 https://api.vistarmedia.eu
@@ -4642,7 +4621,6 @@ https://apps.apple.com/us/app/%E5%B1%A5%E6%AD%B4%E6%9B%B8%E4%BD%9C%E6%88%90-%E3%
 https://apps.apple.com/us/app/3cx/id992045982
 https://apps.apple.com/us/app/acorns-invest-spare-change/id883324671
 https://apps.apple.com/us/app/asana-mobile/id489969512
-https://apps.apple.com/us/app/auth0-guardian/id1093447833
 https://apps.apple.com/us/app/backblaze/id628638330
 https://apps.apple.com/us/app/belong-by-maf/id6443736108
 https://apps.apple.com/us/app/bitgo-verify/id1608937235
@@ -4910,12 +4888,10 @@ https://cstg-integ.uidapi.com
 https://customer-api.datadome.co
 https://customer-portal.paddle.com
 https://customerportal.winconnect.com.au/login
-https://customers.us1.fga.dev/
 https://d1.utv.usaa.com
 https://d2.utv.usaa.com
 https://dash.zoop.com.br/
 https://dashboard-101.moengage.com
-https://dashboard.fga.dev/
 https://dashboard.pantheon.io
 https://dashboard.rapyd.net/
 https://data.limeinternal.com
@@ -5060,8 +5036,6 @@ https://events.onecloud.harman.com
 https://evigilation.monash.edu
 https://example-jssdk-integ.uidapi.com
 https://example-srvonly-integ.uidapi.com
-https://exchange.pulsepoint.com
-https://exchange.pulsepoint.com/AdminPortal/AdminDashBoard.aspx
 https://explore-sit.uat.proptrack.com
 https://explorer.cronos.org/token/0x2e53c5586e12a99d4CAE366E9Fc5C14fE9c6495d
 https://externalconnect.usaa.com/
@@ -5130,14 +5104,6 @@ https://github.com/RIPE-NCC/rpki-monitoring
 https://github.com/RIPE-NCC/rpki-ta-0
 https://github.com/RIPE-NCC/whois
 https://github.com/Shopify/*
-https://github.com/auth0/Auth0.Net
-https://github.com/auth0/auth0-java
-https://github.com/auth0/auth0-php
-https://github.com/auth0/auth0-spa-js
-https://github.com/auth0/auth0.js
-https://github.com/auth0/lock
-https://github.com/auth0/nextjs-auth0
-https://github.com/auth0/react-native-auth0
 https://github.com/backstage/backstage
 https://github.com/base/*
 https://github.com/basecamp/once-campfire
@@ -5380,7 +5346,6 @@ https://hub.immutable.com/
 https://hug.personio.com
 https://hytale.com/
 https://hytale.dev/
-https://ibconnect.internetbrands.com
 https://id.atlassian.com/login
 https://id.recordedfuture.com
 https://id.unity.com
@@ -5440,7 +5405,6 @@ https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
 https://klaviyo.com/*
 https://knowledge.newrelic.com/
-https://kontakti.posti.fi
 https://kucoin.com
 https://kyc.ripio.com/
 https://l.usaa.com/
@@ -5477,10 +5441,6 @@ https://lensstudio.snapchat.com/api/
 https://library.elementor.com/
 https://library.pdq.com/
 https://lieferando.de
-https://life.pulsepoint.com/Buyer/#/campaign
-https://life.pulsepoint.com/EngagementAudience/#/dashboard
-https://life.pulsepoint.com/MediaPlanner/#/dashboard/targetview
-https://lifeapi.pulsepoint.com
 https://link.uma.me
 https://linktr.ee
 https://linktree.app.link/LinktreeWebsite?utm_medium=Linktree_Footer
@@ -5494,7 +5454,6 @@ https://liveassist23.usaa.com
 https://liveassist24.usaa.com
 https://login.aufbaubank.de
 https://login.bitpanda.com
-https://login.medscape.com
 https://login.neogov.com
 https://login.paddle.com
 https://login.teamviewer.com
@@ -5504,7 +5463,6 @@ https://m.blablacar.(fr|de|co.uk|in|es|mx|be|hr|hu|it|nl|pl|com.br|pt|ro|ru|com|
 https://m.thefork.com
 https://maf-holding-prod.apigee.net
 https://maf-properties-prod.apigee.net
-https://manage.cic-bug-bounty.auth0app.com/
 https://manage.statuspage.io
 https://manager.thefork.com
 https://manager.trial.lsk.lightspeed.app/
@@ -6190,7 +6148,6 @@ https://marketplace.atlassian.com/apps/89496753/pivot-worklog-reports-timesheets
 https://marketplace.atlassian.com/apps/924938813/agile-wip-charts-for-scrum-kanban-safe-gadgets-reports?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/9475/switch-user-su-for-confluence?hosting=datacenter&tab=overview
 https://marketplace.atlassian.com/apps/974024200/radar-assets-inventory-for-jsm?hosting=cloud&tab=overview
-https://marketplace.auth0.com
 https://marketplace.ifood.com.br
 https://master.servicecentre-nz.digitalservicing-np.lfscnp.com/	
 https://master.servicecentre.digitalservicing-np.lfscnp.com/
@@ -6205,7 +6162,6 @@ https://mcs.arlo.com
 https://mediaflows.cloudinary.com/
 https://mein.wien.gv.at/
 https://mein.wien.gv.at/broker/api/*
-https://member.webmd.com
 https://metabase.pwn.intigriti.rocks/
 https://metrobyt-mobile.com
 https://metroconnect.app.ridewithvia.com
@@ -6230,16 +6186,12 @@ https://move.monash.edu/
 https://movieclub-int.kinepolis.com
 https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
-https://my.account.posti.fi
 https://my.arlo.com
 https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/webtrading/
 https://my.mintmobile.com
 https://my.planethoster.com
-https://my.smartposti.ee/
-https://my.smartposti.lt
-https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
 https://my.wyze.com
@@ -6322,7 +6274,6 @@ https://oes.optusnet.com.au/
 https://ofa.adx.opera.com
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
-https://oma.posti.fi/
 https://onboard.neogov.com
 https://onchain.cc/
 https://one-sit.uat.proptrack.com/
@@ -6334,8 +6285,6 @@ https://op.paymaya.com/
 https://open.sincera.io
 https://openai.com/
 https://openam-bug-bounty-stag.forgeblocks.com/*
-https://openapi.pulsepoint.com
-https://openapitest.pulsepoint.com
 https://opendata-demo.test-socrata.com
 https://opendata.test-socrata.com
 https://opensea.io/
@@ -6383,7 +6332,6 @@ https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
 https://performancemarketing.mastercard.com/portal/
-https://pets.webmd.com
 https://pg.paymaya.com
 https://pinepg.in
 https://pinepgconsole.in:9099
@@ -6414,7 +6362,6 @@ https://platform.nexo.com/api/trading/advanced/facade/api/v1/order/futures
 https://platform.nexo.com/api/trading/advanced/facade/api/v1/withdraw
 https://platform.openai.com/playground
 https://platform.rc.blis.com
-https://play.fga.dev/
 https://play.google.com/store/apps/details?id=at.com.media.markt
 https://play.google.com/store/apps/details?id=au.com.optus.selfservice&hl=en_AU&gl=US
 https://play.google.com/store/apps/details?id=au.com.realestate.app
@@ -6430,7 +6377,6 @@ https://play.google.com/store/apps/details?id=com.atlassian.android.confluence.c
 https://play.google.com/store/apps/details?id=com.atlassian.android.jira.core&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.atlassian.confluence.server
 https://play.google.com/store/apps/details?id=com.atlassian.jira.server&hl=en_US&gl=US
-https://play.google.com/store/apps/details?id=com.auth0.guardian&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.backblaze.android&hl=en_US&gl=US
 https://play.google.com/store/apps/details?id=com.belongi.citycenter&hl=en_IN
 https://play.google.com/store/apps/details?id=com.belongi.moe
@@ -6583,30 +6529,24 @@ https://portal.pdq.com/
 https://portal.riskrecon.com
 https://portal.riskrecon.eu
 https://portal.unifiedid.com
-https://portalv2.lh360.com
 https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
-https://powerpak.com
 https://priceless.com/golf/
-https://printerdriver.posti.com/
 https://privacy.blismedia.com
 https://privateinternetaccess.com/api/client/v5
 https://pro.onedoc.ch
-https://pro.posti.fi
 https://prod.euid.eu
 https://prod.uidapi.com
 https://production-delivery-metrics-svc.vistarmedia.com
 https://production-dynam-creative.vistarmedia.com
 https://production.maf.auth0.com
 https://production.maf.auth0.com/api/v2/
-https://profreg.medscape.com
 https://projects.epam.com
 https://property.com.au
 https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://qnrs.vintedgo.com
 https://quantum-events.onecloud.harman.com
-https://quicksight.aws.amazon.com
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6679,10 +6619,7 @@ https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
-https://shop.posti.fi
 https://sign.originzero.com.au
-https://signal.pulsepoint.com/hcp365/#/dashboard/advertiser/6603/overview
-https://signal.pulsepoint.com/hcpexplorer/#/dashboard/eventsExplorer
 https://signature.blis.com
 https://signup.ticketmaster.com/bugbountytest
 https://simnext.bullish-test.com
@@ -6808,7 +6745,6 @@ https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://tria.ge
 https://trm.pinelabs.ae
-https://tuleasiakkaaksi.posti.fi
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -6939,7 +6875,6 @@ https://www.canva.com/developers/
 https://www.canva.com/en_au/help/chatgpt-templates/
 https://www.canva.com/integrations/slack/
 https://www.carrefouruae.com/
-https://www.carsdirect.com
 https://www.cb2.ae/en
 https://www.chime.com
 https://www.chipotle.co.uk
@@ -6961,7 +6896,6 @@ https://www.cyberghostvpn.com/en_US/apps/macos-vpn
 https://www.cyberghostvpn.com/en_US/apps/windows-vpn
 https://www.decathlon.(fr|ch|co.uk|it|nl|de|pt|es|be|pl|cz|ca)/
 https://www.decathlon.(hu|ro|com.tr)/
-https://www.demandforced3.com/
 https://www.designify.com
 https://www.developersites.com.au/testing-2505-houston/
 https://www.developersites.com.au/testing-2505-lms/
@@ -6990,7 +6924,6 @@ https://www.glassdoor.com/Salaries/*
 https://www.glassdoor.com/employers/ec/*
 https://www.glassdoor.com/member/*
 https://www.glassdoor.com/mz-survey/*
-https://www.globalacademycme.com
 https://www.governmentjobs.com
 https://www.harmanaudio.at
 https://www.harmanaudio.com
@@ -7020,7 +6953,6 @@ https://www.ifood.com.br
 https://www.imou.com
 https://www.imperva.com
 https://www.intercom.com/
-https://www.internetbrands.com
 https://www.jbl.at
 https://www.jbl.cl
 https://www.jbl.co.nz
@@ -7074,7 +7006,6 @@ https://www.mastercard.com.au/en-au.html
 https://www.mastercard.nl/nl-nl.html
 https://www.mastercard.us/en-us.html
 https://www.matalan.co.uk
-https://www.mdedge.com
 https://www.mediamarkt.at
 https://www.mediamarkt.be
 https://www.mediamarkt.ch
@@ -7149,7 +7080,6 @@ https://www.pinelabs.my
 https://www.pinelabs.us
 https://www.pixpay.fr/
 https://www.planethoster.com
-https://www.posti.fi
 https://www.premogiftcards.com/
 https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
@@ -7171,9 +7101,6 @@ https://www.shffls.com
 https://www.shiseido.me/
 https://www.skidxb.com/
 https://www.skroutz.gr
-https://www.smartposti.ee
-https://www.smartposti.lt
-https://www.smartposti.lv
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/
 https://www.sophos.com/en-us/products
@@ -7239,8 +7166,6 @@ https://www.vwfs.nl
 https://www.vwfs.pl
 https://www.vwfs.pt
 https://www.vwfs.sk
-https://www.webmd.com
-https://www.webproteus.com/lpro-web/login
 https://www.whosampled.com/
 https://www.wien.gv.at
 https://www.winconnect.com.au/get-connected/
@@ -7259,7 +7184,6 @@ https://xyzbmojn.net/
 https://yeswehack.com
 https://youcouldbe.com
 https://yourdelivery.de
-https://yrityksennoutopiste.posti.fi
 https://zhongbao-ear.heytap.com/
 https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
@@ -7291,9 +7215,7 @@ iRobot Roomba™ 405
 iRobot Roomba™ 505
 iRobot Roomba™ 705
 iam.atg.se
-iam.postikuori.posti.fi
 iam.twilio.com
-iamapp.postikuori.posti.fi
 iat.it.xvservice.net
 ic3-cf.euce1.indriverapp.com
 ic3-gw-cf.euce1.indriverapp.com
@@ -7310,7 +7232,6 @@ id.logi.com
 id.nba.com
 id.oppo.com
 id.portswigger.net
-id.posti.fi
 id.stg.inspectorio.com
 id.superhuman.com
 id.tw.coupang.com
@@ -7422,7 +7343,6 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 ix2smbdyjt.infomaniak.site
 j.root-servers.net (DNS service; DNS related)
-jakelu.posti.fi
 jeux-concours.marionnaud.fr
 jimmobile.be
 jira.logitech.com
@@ -7445,7 +7365,6 @@ jss.greenhouse.io
 judge.me
 juicer.lime.bike
 juntasllegamos.indrive.com
-jwt.io
 k8s.gcr.io
 k8s.io
 kartaview.org
@@ -7567,7 +7486,6 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
-logout.id.posti.fi
 logs-partners.tw.coupang.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
@@ -7743,7 +7661,6 @@ metrics.int.remitly.com
 metrocompetitions.com
 meu1.badoo.com
 mexicogames.nba.com
-mfa.posti.fi
 mfa.simplisafe.com
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
@@ -7858,7 +7775,6 @@ net.supertreat.solitaire
 net.wooga.junes_journey_hidden_object_mystery_game
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
-netposti.fi
 networkguard.com
 new.reddit.com
 new.www.vaxvacationaccess.com
@@ -7931,7 +7847,6 @@ nextcloud/user_oidc
 nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
-nextshipping.posti.fi
 nf-cf.latam-mx.usea1.aws.indriverapp.com
 nf-of-cf.euce1.indriverapp.com
 nft.io
@@ -8000,7 +7915,6 @@ open.airbnb.com
 open.larksuite.com
 open.ys7.com
 openapi.starbucks.com
-openidconnect.net	
 opposhop.cn
 oprc.portofantwerpbruges.com
 ops.lime.bike
@@ -8010,7 +7924,6 @@ org.piwik.mobile2
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
-orgadmin-ext.prd.account.posticloud.fi
 origenapp.com
 origenbanking.com
 origencard.com
@@ -8045,7 +7958,6 @@ partnerportal.skyscanner.net/*
 partners.deriv.com
 partners.shopify.com
 partners.tw.coupang.com
-partnerselfservice.posti.fi
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
@@ -8099,7 +8011,6 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
-picc.posti.fi
 pigeon.swiftfinancial.com
 pit.water-link.be
 plaid.com
@@ -8142,8 +8053,6 @@ portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
 portswigger.net
-posti.com
-postikuori.posti.fi
 pot-cf.euce1.indriverapp.com
 pp-cf.euce1.indriverapp.com
 pp-gw-cf.euce1.indriverapp.com
@@ -8250,7 +8159,6 @@ realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
 reastatic.net
-rebl-ai-webchat-postikuori.azurewebsites.net
 reco.coupang.com
 reco.tw.coupang.com
 recovery.privy.io
@@ -8367,7 +8275,6 @@ salesportal.hyatt.com
 saltlakecity-dev.gleague.nba.com
 saltlakecity-qa.gleague.nba.com
 saltlakecity.gleague.nba.com
-samltool.io	
 sandbox-b2b.ripio.com
 sandbox-royal.securegateway.com
 sandbox.affirm.com
@@ -8708,8 +8615,6 @@ tiktok.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
-tnt.posti.com
-todentaminen.posti.fi
 todo.notebleue.pro
 tomoe.bykea.net
 toolsforhumanity.com
@@ -8899,10 +8804,8 @@ webapps-accpt.portofantwerpbruges.com
 webapps-test.portofantwerpbruges.com/xui
 webapps.portofantwerp.com
 webapps.portofantwerpbruges.com
-webauthn.me	
 webhooks.booking.com
 weblog.coupang.com
-webtask.run
 webtoolbox.notebleue.pro
 webwinkel.parool.nl
 webwinkel.trouw.nl
@@ -9202,7 +9105,6 @@ www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
-www.posti.se
 www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
@@ -9395,7 +9297,6 @@ xadsacademy.com
 xlence.iciparisxl.nl
 xtramile.grabpay.com
 yelptop100.com
-yhteystietoni.posti.fi
 yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
@@ -9408,7 +9309,6 @@ yourdomain.freshdesk.com
 yourdomain.freshrelease.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
-yritysmuutto.posti.fi
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
 ywh.comptage.zecible.fr
@@ -9477,7 +9377,9 @@ zooplus.net
 ███████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████
+████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████
+█████████████████████████████████████████████████████████████████████████
 ███████████████████████████████████████████████████████████████████████████████████████████████████
 ████████████████████████████████████████████████████████████████████████████████████████████████████
 ██████████████████████████████████████████████████████████████████████████████████████████████████████
