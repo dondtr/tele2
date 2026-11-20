@@ -137,7 +137,6 @@
 *.auth.bild.de
 *.autobild.de
 *.avecspotify.com
-*.aww.be
 *.ayco.com
 *.backblazeb2.com
 *.backend-capital.com
@@ -513,12 +512,19 @@
 *.khealth.com
 *.kibana.wtf
 *.kiln.it
+*.kinepolis.be
+*.kinepolis.ch
+*.kinepolis.com
+*.kinepolis.fr
+*.kinepolis.lu
+*.kinepolis.nl
 *.kiwi.com
 *.klarna.com
 *.klarna.net
 *.klarnacdn.net
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
+*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -527,6 +533,7 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.labs.8x8.com
+*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.latitudefinancial.co.nz
 *.latitudefinancial.com
@@ -576,6 +583,7 @@
 *.maxbet.ro
 *.mclead.com.au
 *.mediatonic.co.uk
+*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -608,7 +616,6 @@
 *.miinsurtech.com
 *.miinsurtech.net
 *.mijiayoupin.com
-*.mijnwater-link.be
 *.mioffice.cn
 *.mios.cn
 *.miot-spec.org
@@ -620,6 +627,7 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
+*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -1035,7 +1043,6 @@
 *.vtm.be
 *.vtmgo.be
 *.wali.com
-*.water-link.be
 *.watsons.co.id
 *.watsons.co.th
 *.watsons.com.hk
@@ -1444,6 +1451,7 @@
 403684733
 406056744
 407558537
+410789057
 425194759
 434613896
 447553564
@@ -1461,6 +1469,7 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
+522089287
 524362642
 529996768
 54.175.255.192/27
@@ -2606,7 +2615,6 @@ actionnaires.vinci.com
 activate.3cx.com
 adayevrak.watsons.com.tr
 adb.nba.com
-adelta.be
 adm.cloud.com
 admin-portal.api-xperience.com
 admin-resolve.8x8.com
@@ -2614,6 +2622,7 @@ admin.8x8.com
 admin.booking.com
 admin.instacart.com
 admin.meeshosupply.com
+admin.postikuori.posti.fi
 admin.shopify.com
 admin.wickr.com
 admincms.developer.monespacesante.fr
@@ -2809,6 +2818,8 @@ api.personio.com
 api.pns.hk
 api.portofantwerp.com
 api.portofantwerpbruges.com
+api.posti.fi
+api.postikuori.posti.fi
 api.preprod.monespacesante.fr
 api.privateinternetaccess.com
 api.privy.io
@@ -2961,8 +2972,6 @@ apps.portofantwerp.com
 apps.portofantwerpbruges.com
 appt.healthclinics.superdrug.com
 aqtooling.com
-aquawardsoperate.water-link.be
-aquawardsspatial.water-link.be
 aquiris.com.br
 aquiris.studio
 aquiristech.com
@@ -2993,6 +3002,7 @@ auth-identity-qa.nba.com
 auth-identity-uat-ping.nba.com
 auth-identity-uat.nba.com
 auth-identity.nba.com
+auth-service.posti.fi
 auth.23andme.com
 auth.digital.delen.be 
 auth.digital.delen.lu 
@@ -3013,7 +3023,6 @@ authentication.wolt.com
 autocomplete.booking.com
 autodiscover.uzleuven.be
 av.indrive.com
-aww.eu
 b5s.hackerone-ext-content.com
 backend-sdk.prod.private.unico.run
 backend-sdk.uat.private.unico.run
@@ -3102,6 +3111,7 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
+booking.mjrtheatres.com
 bookingholdings-coe.com
 boomer2.ninjakiwi.com
 boost.vinci.com
@@ -3123,6 +3133,9 @@ building-blocks.com
 bulkexports.twilio.com
 bulten.watsons.com.tr
 business.kayak.com
+business.kinepolis.be
+business.kinepolis.lu
+business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3230,6 +3243,7 @@ cdn.gleague.nba.com
 cdn.moderntreasury.com
 cdn.nba.com
 cdn.plaid.com
+cdn.posti.fi
 cdna.lystit.com
 centaurs-rest.coupang.com
 centaurs.coupang.com
@@ -3289,6 +3303,7 @@ cmapi.tw.coupang.com
 cmcom.atlassian.net
 cmf-cf.euce1.indriverapp.com
 cms.monespacesante.fr
+cms.postikuori.posti.fi
 co-gw-scf.sa.apse1.aws.indriverapp.com
 co-in-cf.mena.meso1.aws.indriverapp.com
 co-in-gw-scf.sa.apse1.aws.indriverapp.com
@@ -3480,6 +3495,7 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
+com.inthepocket.kinepolis
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
 com.katanlabs.bubblepop
@@ -3679,12 +3695,14 @@ confluence.hyattdev.com
 connect-sandbox.gocardless.com
 connect.8x8.com
 connect.arkane.network 
+connect.posti.fi
 connect.secure.wellsfargo.com
 connect.venly.io
 connectedapps.dev
 console.anthropic.com
 console.circle.com
 console.ort-one-pingone.com
+console.posti.com
 console.tink.com
 console.twilio.com
 console.valmo.in
@@ -3847,7 +3865,6 @@ deriv.partners
 derivws.com
 design.gitlab.com
 design.ui.com
-desktop.water-link.be
 detroit-dev.gleague.nba.com
 detroit-qa.gleague.nba.com
 detroit.gleague.nba.com
@@ -3868,6 +3885,7 @@ developer.cybersource.com
 developer.gs.com
 developer.playcanvas.com
 developer.plus.authorize.net
+developer.posti.com
 developer.swapcard.com/event-admin/graphql
 developer.unico.io
 developer.valvesoftware.com
@@ -3967,9 +3985,11 @@ education.github.com
 eero Devices
 effecthouse.tiktok.com
 eg.ht
+egaming.kinepolis.es
 egift.coupang.com
 eidhelp.marriott.com
 elm.nba.com
+elma.elma.fi
 emag.vinci.com
 emails.judge.me
 embed.tumblr.com
@@ -3992,6 +4012,7 @@ eshop.bpost.be
 essentials.vinci.com
 essentiel.vinci.com
 esupplier.marriott.com
+etavarasto.posti.fi
 etickets.infomaniak.com
 eu.cloud.com
 eu.remix.com
@@ -4020,6 +4041,8 @@ extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
 extranet.uzleuven.be
+extras-acc.landmarkcinemas.com
+extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -4043,6 +4066,7 @@ fhdn.fareharbor.com
 fhir.developer.monespacesante.fr
 fhir.monespacesante.fr
 fhir.redoxengine.com
+fi.itella.posti.android
 fi.mariacasino.com
 fi.reworks.redecor
 fi.spankki
@@ -4114,6 +4138,7 @@ gatekeeper.prd.iat.it.xvservice.net
 gateway*.marriott.com
 gateway.geneva-staging.chat
 gateway.geneva-staging.com
+gateway.posti.fi
 gateway.reddit.com
 gateway.skyscanner.net/*
 gateway.superhuman.com
@@ -4941,6 +4966,7 @@ https://drp.myoppo.com/
 https://dxc.episerver.net/ 
 https://e-global.heytap.com/marketing/login
 https://e.oppo.com/
+https://ebc2test.cybersource.com/currencyconversion
 https://ebc2test.cybersource.com/settings
 https://ebctest.cybersource.com/CGK2
 https://ebctest.cybersource.com/apm
@@ -5400,6 +5426,7 @@ https://keepersecurity.com/vault
 https://kiwi.partner.viator.com
 https://klaviyo.com/*
 https://knowledge.newrelic.com/
+https://kontakti.posti.fi
 https://kucoin.com
 https://kyc.ripio.com/
 https://l.usaa.com/
@@ -6089,6 +6116,7 @@ https://marketplace.atlassian.com/apps/22817756/procuro-complete-procurement-man
 https://marketplace.atlassian.com/apps/2333382001/spotlight-ai-charts-reports-for-jira?hosting=cloud
 https://marketplace.atlassian.com/apps/23337/elements-connect-external-data-fields?hosting=cloud
 https://marketplace.atlassian.com/apps/23915/atlassian-universal-plugin-manager?hosting=datacenter
+https://marketplace.atlassian.com/apps/2394034939/email-attach-automation-exporter-pdf-word-claude-mcp?hosting=cloud&tab=overview
 https://marketplace.atlassian.com/apps/2446184211/pulse-content-health-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence?hosting=cloud
 https://marketplace.atlassian.com/apps/24982/scroll-word-exporter-for-confluence?hosting=datacenter
@@ -6180,13 +6208,19 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
+https://movieclub-int.kinepolis.com
+https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
+https://my.account.posti.fi
 https://my.arlo.com
 https://my.elementor.com/
 https://my.exness.com/pa/pim/manager
 https://my.exness.com/webtrading/
 https://my.mintmobile.com
 https://my.planethoster.com
+https://my.smartposti.ee/
+https://my.smartposti.lt
+https://my.smartposti.lv
 https://my.sogexia.com
 https://my.ultramobile.com
 https://my.wyze.com
@@ -6269,6 +6303,7 @@ https://oes.optusnet.com.au/
 https://ofa.adx.opera.com
 https://ofp.adx.opera.com
 https://ogws.optusnet.com.au/
+https://oma.posti.fi/
 https://onboard.neogov.com
 https://onchain.cc/
 https://one-sit.uat.proptrack.com/
@@ -6529,9 +6564,11 @@ https://portal.unifiedid.com
 https://portfolio-manager-sit.uat.proptrack.com/
 https://powerdms.com/
 https://priceless.com/golf/
+https://printerdriver.posti.com/
 https://privacy.blismedia.com
 https://privateinternetaccess.com/api/client/v5
 https://pro.onedoc.ch
+https://pro.posti.fi
 https://prod.euid.eu
 https://prod.uidapi.com
 https://production-delivery-metrics-svc.vistarmedia.com
@@ -6544,6 +6581,7 @@ https://pt-runner.app.ridewithvia.com
 https://pyszne.pl
 https://qnrs.vintedgo.com
 https://quantum-events.onecloud.harman.com
+https://quicksight.aws.amazon.com
 https://rc.fstr.rocks
 https://rc.wmaudience.com
 https://redash-staging.getmoneytree.com/
@@ -6611,10 +6649,12 @@ https://services.chipotle.com
 https://services.unity.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
+https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
 https://shop.post.ch/shop
+https://shop.posti.fi
 https://sign.originzero.com.au
 https://signature.blis.com
 https://signup.ticketmaster.com/bugbountytest
@@ -6741,6 +6781,7 @@ https://trello.com/power-ups/6048e897c73d032a983e2a7c/dashcards
 https://trello.com/power-ups/6052d130068a8c0de7b022b4
 https://tria.ge
 https://trm.pinelabs.ae
+https://tuleasiakkaaksi.posti.fi
 https://u.oppomobile.com/
 https://uae.voxcinemas.com/
 https://ui.com/distributors/
@@ -7085,6 +7126,7 @@ https://www.pinelabs.my
 https://www.pinelabs.us
 https://www.pixpay.fr/
 https://www.planethoster.com
+https://www.posti.fi
 https://www.premogiftcards.com/
 https://www.priceline.com/pwd/v0/pcln-graphql/
 https://www.privateinternetaccess.com/download/linux-vpn
@@ -7106,6 +7148,9 @@ https://www.shffls.com
 https://www.shiseido.me/
 https://www.skidxb.com/
 https://www.skroutz.gr
+https://www.smartposti.ee
+https://www.smartposti.lt
+https://www.smartposti.lv
 https://www.socialdeal.nl/orderlist/5e834ae0bed5c/63d772e2ed277/
 https://www.sophos.com/
 https://www.sophos.com/en-us/products
@@ -7170,6 +7215,7 @@ https://www.vwfs.nl
 https://www.vwfs.pl
 https://www.vwfs.pt
 https://www.vwfs.sk
+https://www.webproteus.com/lpro-web/login
 https://www.whosampled.com/
 https://www.wien.gv.at
 https://www.winconnect.com.au/get-connected/
@@ -7188,6 +7234,7 @@ https://xyzbmojn.net/
 https://yeswehack.com
 https://youcouldbe.com
 https://yourdelivery.de
+https://yrityksennoutopiste.posti.fi
 https://zhongbao-ear.heytap.com/
 https://zhongbao.heytap.com/
 https://zuora-ecommerce-prod.iot.irobotapi.com/dev/v1/ecommerce/notifications/raas
@@ -7219,7 +7266,9 @@ iRobot Roomba™ 405
 iRobot Roomba™ 505
 iRobot Roomba™ 705
 iam.atg.se
+iam.postikuori.posti.fi
 iam.twilio.com
+iamapp.postikuori.posti.fi
 iat.it.xvservice.net
 ic3-cf.euce1.indriverapp.com
 ic3-gw-cf.euce1.indriverapp.com
@@ -7236,6 +7285,7 @@ id.logi.com
 id.nba.com
 id.oppo.com
 id.portswigger.net
+id.posti.fi
 id.stg.inspectorio.com
 id.superhuman.com
 id.tw.coupang.com
@@ -7270,6 +7320,8 @@ identity.nba.com
 identity.wnba.com
 identity.yoti.com
 identityhomolog.acesso.io
+identityserver-acc.landmarkcinemas.com
+identityserver.landmarkcinemas.com
 idp-cf.euce1.indriverapp.com
 idp-gw-cf.latam-mx.usea1.aws.indriverapp.com
 idp-scf.euce1.indriverapp.com
@@ -7294,8 +7346,6 @@ inclusion.nba.com
 indiaontrack.nba.com
 indicative-pricing.taxi.booking.com
 indrive.com
-induss.eu
-indussiibis.water-link.be
 inference.do-ai.run
 influencers.tw.coupang.com
 infomaniak.events
@@ -7345,6 +7395,7 @@ itmss://apps.apple.com/us/app/id1510360750?ign-mscache=1
 itv7.itv.com
 ix2smbdyjt.infomaniak.site
 j.root-servers.net (DNS service; DNS related)
+jakelu.posti.fi
 jeux-concours.marionnaud.fr
 jimmobile.be
 jira.logitech.com
@@ -7380,6 +7431,9 @@ kayak.ai
 kdrive.infomaniak.com/app/*/preview/*
 kdrive.infomaniak.com/app/office*/*
 kidswebservices.com
+kinepolis-studio.be
+kinepolis.megatix.be
+kinepolis/id368204284
 kit.snapchat.com
 kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
@@ -7486,6 +7540,7 @@ logistica.redelcom.cl
 logitech.zendesk.com
 logitechg.com.cn
 logitechgchallenge.com
+logout.id.posti.fi
 logs-partners.tw.coupang.com
 logs.nextcloud.com
 logstash-props.devicecloud.acceptance.forescoutcloud.net
@@ -7499,6 +7554,9 @@ loyalty.coupang.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
+luxfilmfestfilms.megatix.be
+luxfilmfestproducts.megatix.be
+luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx-qa2.wnba.com
@@ -7658,6 +7716,7 @@ metrics.int.remitly.com
 metrocompetitions.com
 meu1.badoo.com
 mexicogames.nba.com
+mfa.posti.fi
 mfa.simplisafe.com
 mgm.mobilevikings.be
 mgmt-sensors.iris.acceptance.forescoutcloud.net
@@ -7692,6 +7751,7 @@ monzo.com
 moonpay.com
 motorcity.gleague.nba.com
 movie.indrive.com
+movieapi.kinepolis.megatix.be
 mpago.la
 mpago.li
 msg-cf.euce1.indriverapp.com
@@ -7773,6 +7833,7 @@ net.supertreat.solitaire
 net.wooga.junes_journey_hidden_object_mystery_game
 net.wooga.switchcraft.googleplay
 net.wooga.tropicats_tropical_cats_puzzle_paradise
+netposti.fi
 networkguard.com
 new.reddit.com
 new.www.vaxvacationaccess.com
@@ -7845,6 +7906,7 @@ nextcloud/user_oidc
 nextcloud/user_saml
 nextcloud/viewer
 nextcloud/workflow_script
+nextshipping.posti.fi
 nf-cf.latam-mx.usea1.aws.indriverapp.com
 nf-of-cf.euce1.indriverapp.com
 nft.io
@@ -7878,6 +7940,7 @@ numbers.twilio.com
 nummus.robinhood.com
 nvJitLink APIs
 nycbasketball.nba.com
+nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.twilio.com
@@ -7922,6 +7985,7 @@ org.piwik.mobile2
 org.toshi
 org.toshi.distribution
 org.vom8x8.sipua
+orgadmin-ext.prd.account.posticloud.fi
 origenapp.com
 origenbanking.com
 origencard.com
@@ -7956,6 +8020,7 @@ partnerportal.skyscanner.net/*
 partners.deriv.com
 partners.shopify.com
 partners.tw.coupang.com
+partnerselfservice.posti.fi
 passport.larksuite.com
 passwordchallenge.marriott.com
 pastela.app
@@ -8009,8 +8074,8 @@ phlonline.vfsevisa.cn
 phlportal.vfsevisa.cn
 phone-validation.taxi.booking.com
 photo.kruidvat.be
+picc.posti.fi
 pigeon.swiftfinancial.com
-pit.water-link.be
 plaid.com
 planet.wordpress.org
 plannerrequest.hyatt.com
@@ -8051,6 +8116,8 @@ portland-dev.wnba.com
 portland-qa.wnba.com
 portland.wnba.com
 portswigger.net
+posti.com
+postikuori.posti.fi
 pot-cf.euce1.indriverapp.com
 pp-cf.euce1.indriverapp.com
 pp-gw-cf.euce1.indriverapp.com
@@ -8157,6 +8224,7 @@ realme P3 Lite 5G
 realme P4 5G
 realme P4 Pro 5G
 reastatic.net
+rebl-ai-webchat-postikuori.azurewebsites.net
 reco.coupang.com
 reco.tw.coupang.com
 recovery.privy.io
@@ -8236,7 +8304,6 @@ rewire.com
 rezagent.triseptsolutions.com
 ridewithvia.neoridelittlerock
 ridewithvia.par.piercetransit
-rio-link.be
 riograndevalley-dev.gleague.nba.com
 riograndevalley-qa.gleague.nba.com
 riograndevalley.gleague.nba.com
@@ -8443,6 +8510,7 @@ sso.mangerbouger.fr
 sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
+stage.landmarkcinemas.com
 staging-app.bany.dev
 staging.airtable.com
 staging.kidswebservices.com
@@ -8602,10 +8670,18 @@ ticketmaster.com.br
 ticketmaster.com.mx
 ticketmaster.de
 tickets.crypto.com
+tickets.kinepolis.be
+tickets.kinepolis.ch
+tickets.kinepolis.es
+tickets.kinepolis.fr
+tickets.kinepolis.lu
+tickets.kinepolis.nl
 tiktok.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
 tlfr.prod.tomorrowland.com
+tnt.posti.com
+todentaminen.posti.fi
 todo.notebleue.pro
 tomoe.bykea.net
 toolsforhumanity.com
@@ -8674,6 +8750,8 @@ user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
+userprofile-acc.landmarkcinemas.com
+userprofile-ui.landmarkcinemas.com
 uwa.mobilevikings.be
 v0.app
 v0.dev
@@ -8702,6 +8780,7 @@ verified.clearme.com
 verified.clearme.com/v1/verification_sessions
 verify.arkoselabs.com
 verify.rapyd.net
+verify.twilio.com
 vfo01.vodafone.om
 vfo02.vodafone.om
 vfo03.vodafone.om
@@ -8763,13 +8842,6 @@ was-gw-scf.sa.apse1.aws.indriverapp.com
 wasapi.watsons.com.tr
 watch-ng.nba.com
 watch.global.nba.com
-water-kracht-levering.be
-water-kracht-levering.eu
-water-link-jaarverslag.be
-waterkracht-levering.be
-waterkracht-levering.eu
-waterlink.be
-waterstoringen.be
 wd1-cf.euce1.indriverapp.com
 wd1-gw-cf.euce1.indriverapp.com
 weather.opera-api.com
@@ -9019,6 +9091,14 @@ www.jaybirdsport.com
 www.juntasllegamos.indrive.com
 www.karwei.nl/*
 www.kayak.com
+www.kinepolis.be 
+www.kinepolis.biz
+www.kinepolis.ch 
+www.kinepolis.com 
+www.kinepolis.es 
+www.kinepolis.fr 
+www.kinepolis.lu 
+www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
 www.kolikkopelit.com
@@ -9026,6 +9106,7 @@ www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
+www.landmarkcinemas.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
@@ -9064,6 +9145,7 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.mini.de
+www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
@@ -9086,6 +9168,7 @@ www.pns.hk
 www.pornbox.com
 www.pornworld.com
 www.portofantwerpbruges.com
+www.posti.se
 www.pourvous.nl
 www.practicalbusinessskills.org
 www.practicalmoneyskills.com
@@ -9280,6 +9363,7 @@ xadsacademy.com
 xlence.iciparisxl.nl
 xtramile.grabpay.com
 yelptop100.com
+yhteystietoni.posti.fi
 yimg.com
 you.23andme.com
 your-assigned-subdomain.files.com
@@ -9292,6 +9376,7 @@ yourdomain.freshdesk.com
 yourdomain.freshrelease.com
 yourdomain.freshservice.com
 yourdomain.myfreshworks.com
+yritysmuutto.posti.fi
 ywh.admin.zecible.fr
 ywh.api.zecible.fr
 ywh.comptage.zecible.fr
