@@ -1593,7 +1593,6 @@ https://octopus.com/downloads
 https://octopus.com/downloads
 https://github.com/OctopusDeploy
 https://octopus.com
-███████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████████
 bugcrowd-pam-###.oktapreview.com
 bugcrowd-pam-###.pam.oktapreview.com
 https://bugcrowd-pam-###.workflows.oktapreview.com
