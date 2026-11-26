@@ -12,7 +12,6 @@
  mix.monash.edu 
  new CDI-based architecture
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
-(se|fi|uk).bingo.com
 *-api-*.acronis.com
 *-vpn.8x8.com
 *. vfsevisa.id
@@ -507,16 +506,9 @@
 *.khealth.com
 *.kibana.wtf
 *.kiln.it
-*.kinepolis.be
-*.kinepolis.ch
-*.kinepolis.com
-*.kinepolis.fr
-*.kinepolis.lu
-*.kinepolis.nl
 *.kiwi.com
 *.klaviyo-dev.com/*
 *.klaviyomsv.com/*
-*.klubcinema.fr
 *.korta.is
 *.kortathjonustan.is
 *.krisp.ai
@@ -525,7 +517,6 @@
 *.kruidvatkids.nl
 *.kwsdose.be
 *.labs.8x8.com
-*.landmarkcinemas.com
 *.landmarkglobal-group.com
 *.lemonsqueezy.com
 *.libelle.nl
@@ -570,7 +561,6 @@
 *.maxbet.ro
 *.mclead.com.au
 *.mediatonic.co.uk
-*.megatix.be  
 *.melonapp.com
 *.meraki.com
 *.mercadolibre.cl
@@ -615,7 +605,6 @@
 *.miui.cn
 *.miui.com
 *.miwifi.com
-*.mjrtheatres.com
 *.mlstatic.com
 *.mmcdn.com
 *.mmwebc.dev
@@ -661,9 +650,7 @@
 *.nflxso.net
 *.nflxvideo.net
 *.nic.eu
-*.ninjakiwi.me
 *.niumba.com
-*.nkstatic.com
 *.nmfn.com
 *.nml.com
 *.nnip.com
@@ -893,7 +880,6 @@
 *.sonyentertainmentnetwork.com
 *.soundcloud.org
 *.soundon.global
-*.souparea.com
 *.soyoustart.com
 *.spiketrap.io
 *.sportbild.de
@@ -1128,7 +1114,6 @@
 *ubereats.com
 *vc.logitech.com
 *werkenbij.intergamma.nl
-/blog/ (or translated equivalent) endpoints on our sites
 1.1.1.1 Resolver
 1013961111
 1018340690
@@ -1463,7 +1448,6 @@
 52.67.69.35
 52.76.174.107
 52.86.17.52
-522089287
 524362642
 529996768
 54.175.255.192/27
@@ -2655,7 +2639,6 @@ airtable.js SDK (https://www.npmjs.com/package/airtable)
 ak-static-dev.nba.com
 akismet.com
 alert.logitech.com
-alerts.ninjakiwi.com
 alfred.syfe.com
 allstar-dev.nba.com
 alternativa.film
@@ -2672,7 +2655,6 @@ amp-nba.nba.com
 amp.reddit.com
 analytics-*.8x8.com
 analytics.krisp.ai
-analytics.ninjakiwi.com
 analytics.pinelabs.com
 anduril.com
 anker-nebula/id1319092174
@@ -2805,7 +2787,6 @@ api.nba.com
 api.neon.opera.com/neon/pub
 api.neon.opera.com/neon/store
 api.neon.opera.com/pub
-api.ninjakiwi.com
 api.ort-one-pingone.com
 api.ovh.com
 api.paybox.sh
@@ -3042,7 +3023,6 @@ ballistic.com.br
 bankaccountdata.gocardless.com
 basecamp-setup.exe
 basecamp.rivian.com
-battles.tv
 bbPress Core
 bc-cf.latam-co.saea1.aws.indriverapp.com
 bc-gw-cf.latam-pe.saea1.aws.indriverapp.com
@@ -3109,9 +3089,7 @@ booking.applevacations.com
 booking.beachbound.com
 booking.cheapcaribbean.com
 booking.com
-booking.mjrtheatres.com
 bookingholdings-coe.com
-boomer2.ninjakiwi.com
 boost.vinci.com
 booth.pm
 bpa2.marriott.com
@@ -3131,9 +3109,6 @@ building-blocks.com
 bulkexports.twilio.com
 bulten.watsons.com.tr
 business.kayak.com
-business.kinepolis.be
-business.kinepolis.lu
-business.kinepolis.nl
 business.linkedin.com
 business.reddithelp.com
 business.snapchat.com
@@ -3491,7 +3466,6 @@ com.hypr.one
 com.imdbtv.livingroom
 com.immediasemi.android.blink
 com.instacart.client
-com.inthepocket.kinepolis
 com.jellybtn.boardkings
 com.jellybtn.cashkingmobile
 com.katanlabs.bubblepop
@@ -3768,7 +3742,6 @@ cs.money
 csmessenger.coupang.com
 css-tricks.com
 ct.deriv.com
-ct.ninjakiwi.com
 ctf.hacker101.com
 ctr.a.exodus.io
 customer-sessions.arkoselabs.com
@@ -3822,7 +3795,6 @@ dashboard.razorpay.com
 dashboard.unico.app
 data-test.nba.com
 data.mail.yahoo.com
-data.ninjakiwi.com
 databricks.com
 datapod-1-100-druid-ingest.development.forescoutcloud.net
 datapod-1-100-druid-ingest.testing.forescoutcloud.net
@@ -3984,7 +3956,6 @@ education.github.com
 eero Devices
 effecthouse.tiktok.com
 eg.ht
-egaming.kinepolis.es
 egift.coupang.com
 eidhelp.marriott.com
 elm.nba.com
@@ -3993,9 +3964,6 @@ emag.vinci.com
 emails.judge.me
 embed.tumblr.com
 embed.vhx.tv
-en.casinohuone.com
-en.kolikkopelit.com
-en.ottokasino.com
 enroll.clearme.com
 epaper.welt.de
 epptool-ctld.verisign-grs.com (EPP service; DNS related)
@@ -4040,8 +4008,6 @@ extranet-asa.uzleuven.be
 extranet.marionnaud.ch
 extranet.s-pankki.fi
 extranet.uzleuven.be
-extras-acc.landmarkcinemas.com
-extras.landmarkcinemas.com
 fab.com
 falcon-sandbox.com
 fareharborsites.com
@@ -4066,10 +4032,8 @@ fhir.developer.monespacesante.fr
 fhir.monespacesante.fr
 fhir.redoxengine.com
 fi.itella.posti.android
-fi.mariacasino.com
 fi.reworks.redecor
 fi.spankki
-fi.unibet.com
 fiat-p.a.exodus.io
 fiat-prod-fallback.a.exodus.io
 fiat.a.exodus.io
@@ -4219,7 +4183,6 @@ gs://faraday-secret
 gs://fdy-production-sdk-uploads
 gt-gw-cf-0.cis.euce1.aws.indriverapp.com
 gt-gw-scf.sa.apse1.aws.indriverapp.com
-guts.ninjakiwi.com
 gvt-cf.euce1.indriverapp.com
 gvt-scf.euce1.indriverapp.com
 hackathon-photos-us-east-2.hackerone-user-content.com
@@ -4815,7 +4778,6 @@ https://cdn-store.opera-api.com
 https://cdn.myopenpass.com
 https://cdn.neogov.com
 https://cdn.optimizely.com/
-https://cdn.unicdn.net/apk/UnibetCasino.apk
 https://central.sophos.com
 https://central.sophos.com/
 https://cfc.naspers.com/
@@ -5376,8 +5338,6 @@ https://investor.bullish.com/
 https://iphone-xml.booking.com/json/
 https://itunes.apple.com/app/carrefour-uae/id626805470
 https://itunes.apple.com/fr/app/blablacar-trusted-carpooling/id341329033?l=en&mt=8
-https://itunes.apple.com/gb/app/unibet-casino-slots-games/id905382680
-https://itunes.apple.com/gb/app/unibet-live-sports-betting/id463335337
 https://itunes.apple.com/us/app/quizlet-flashcards/id546473125
 https://itunes.apple.com/us/app/vacation-rentals-owner-app-by-tripadvisor/id1045663228?mt=8
 https://jenkins-github.gcp.blis.com
@@ -6181,8 +6141,6 @@ https://monash.app.nutrip.com
 https://monashcollege.edu.au
 https://monster-customizer.classdojo.com/cf6dfa68-1a81-4c6d-bc0b-38f3666b37d6/index.html
 https://move.monash.edu/
-https://movieclub-int.kinepolis.com
-https://movienow-int.kinepolis.be/admin
 https://mstatic.usaa.com
 https://my.account.posti.fi
 https://my.arlo.com
@@ -6328,7 +6286,6 @@ https://paymayabiller-prod.paymaya.com/
 https://payment.lafourchette.com
 https://payments.myntra.com
 https://payoutapi.maya.ph/
-https://pci.kindredgroup.com
 https://pentest-app.onetrust.com/
 https://peopleview.naspers.com
 https://performance.neogov.com
@@ -6619,7 +6576,6 @@ https://services.chipotle.com
 https://services.unity.com
 https://sfleet.cortexpowered.com
 https://sflower.cortexpowered.com
-https://shop-acc.kinepolis.be/
 https://shop.ifood.com.br
 https://shop.lululemon.com
 https://shop.monash.edu/
@@ -6834,7 +6790,6 @@ https://wsmbr.usaa.com/
 https://ww1.requirementyogi.cloud
 https://ww2.requirementyogi.cloud
 https://www.20min.ch
-https://www.32red.com/
 https://www.adsrvr.org
 https://www.agoda.com/account/agodacash
 https://www.agoda.com/account/cashback
@@ -7286,8 +7241,6 @@ identity.clearme.com
 identity.nba.com
 identity.wnba.com
 identity.yoti.com
-identityserver-acc.landmarkcinemas.com
-identityserver.landmarkcinemas.com
 idp-cf.euce1.indriverapp.com
 idp-gw-cf.latam-mx.usea1.aws.indriverapp.com
 idp-scf.euce1.indriverapp.com
@@ -7323,7 +7276,6 @@ insights.deribit.com
 insights.judgeme.dev
 insights.twilio.com
 insuritly.com
-int.32red.com
 intelligence.twilio.com
 intensedebate.com
 interactive.data.api.platform.here.com
@@ -7396,9 +7348,6 @@ kayak.ai
 kdrive.infomaniak.com/app/*/preview/*
 kdrive.infomaniak.com/app/office*/*
 kidswebservices.com
-kinepolis-studio.be
-kinepolis.megatix.be
-kinepolis/id368204284
 kit.snapchat.com
 kmeet.infomaniak.com
 knowage.developer.monespacesante.fr
@@ -7521,9 +7470,6 @@ loyalty.coupang.com
 loyalty.tw.coupang.com
 lps.dmp.gouv.fr
 lps2.dmp.gouv.fr
-luxfilmfestfilms.megatix.be
-luxfilmfestproducts.megatix.be
-luxfilmfesttickets.megatix.be
 lynx-dev.wnba.com
 lynx-qa.wnba.com
 lynx-qa2.wnba.com
@@ -7720,7 +7666,6 @@ monzo.com
 moonpay.com
 motorcity.gleague.nba.com
 movie.indrive.com
-movieapi.kinepolis.megatix.be
 mpago.la
 mpago.li
 msg-cf.euce1.indriverapp.com
@@ -7765,8 +7710,6 @@ myanmar.visa.com
 myconnect.com.au
 mynexuz.be
 mynexuzhealth/id1459856321
-mynk-dash.ninjakiwi.com
-mynk.ninjakiwi.com
 myself.coupang.com
 myself.tw.coupang.com
 mystics-dev.wnba.com
@@ -7883,8 +7826,6 @@ nha-cf.euce1.indriverapp.com
 nha-gw-cf.euce1.indriverapp.com
 nha-gw-scf.euce1.indriverapp.com
 niantic.kidswebservices.com
-ninja.kiwi
-ninjakiwi.com
 nl.gamma.app.android
 nl.gamma.verf
 nl.karwei.app.android
@@ -7909,7 +7850,6 @@ numbers.twilio.com
 nummus.robinhood.com
 nvJitLink APIs
 nycbasketball.nba.com
-nz.co.vista.android.movie.mjrtheatres
 oauth-sandbox.gocardless.com
 oauth.deriv.com
 oauth.twilio.com
@@ -8007,20 +7947,10 @@ pay.wallet.tg
 paybridge.booking.com
 payer-details-sandbox.gocardless.com
 payment.backend-capital.com
-payment.bingo.com
-payment.casinohuone.com
 payment.coupang.com
 payment.coupangpay.com
-payment.kolikkopelit.com
-payment.mariacasino.(com|se|ee|dk)
-payment.ottocasino.se
-payment.ottokasino.com
 payment.pixiv.net
-payment.storspelare.se
-payment.storspiller.com
 payment.tw.coupang.com
-payment.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
-payment.vladcazino.ro
 paymentcomponent.booking.com
 payments.geneva-staging.chat
 payments.geneva-staging.com
@@ -8483,7 +8413,6 @@ sso.mangerbouger.fr
 sso.marriott.com
 sso.oft.hyatt.com
 sso.ryadom.kz
-stage.landmarkcinemas.com
 staging-app.bany.dev
 staging.airtable.com
 staging.hosted.mender.io
@@ -8643,12 +8572,6 @@ ticketmaster.com.br
 ticketmaster.com.mx
 ticketmaster.de
 tickets.crypto.com
-tickets.kinepolis.be
-tickets.kinepolis.ch
-tickets.kinepolis.es
-tickets.kinepolis.fr
-tickets.kinepolis.lu
-tickets.kinepolis.nl
 tiktok.com
 tlbe.prod.tomorrowland.com
 tlbr.prod.tomorrowland.com
@@ -8724,8 +8647,6 @@ user-profile-staging.8x8.com
 user-profile.8x8.com
 usercontent.apps.nextcloud.com
 usercontent.koho.ca
-userprofile-acc.landmarkcinemas.com
-userprofile-ui.landmarkcinemas.com
 uwa.mobilevikings.be
 v0.app
 v0.dev
@@ -8930,7 +8851,6 @@ www.astrogaming.com
 www.atg.se
 www.authorize.net
 www.beachbound.com
-www.bingo.com
 www.bitmex.com
 www.bitmoji.com
 www.bitstamp.net
@@ -8947,7 +8867,6 @@ www.bumble.com
 www.cadelam.be 
 www.cadelux.lu/en 
 www.cart.starbucks.co.jp/
-www.casinohuone.com
 www.certos.com
 www.cewe.kruidvat.be
 www.cewe.kruidvat.nl
@@ -9066,22 +8985,12 @@ www.jaybirdsport.com
 www.juntasllegamos.indrive.com
 www.karwei.nl/*
 www.kayak.com
-www.kinepolis.be 
-www.kinepolis.biz
-www.kinepolis.ch 
-www.kinepolis.com 
-www.kinepolis.es 
-www.kinepolis.fr 
-www.kinepolis.lu 
-www.kinepolis.nl 
 www.kiwi.com
 www.koho.ca
-www.kolikkopelit.com
 www.kruidvat.be
 www.kruidvat.nl
 www.kruidvatkids.nl
 www.lab-recherche-environnement.org
-www.landmarkcinemas.com
 www.libelle.nl
 www.lineup.com.mx
 www.linkedin.com
@@ -9095,7 +9004,6 @@ www.logitechclub.com
 www.logitechg.com
 www.logitechstore.com.br
 www.lookatme.com.ph
-www.mariacasino.(com|se|ee|dk)
 www.marionnaud.at
 www.marionnaud.ch
 www.marionnaud.cz
@@ -9120,7 +9028,6 @@ www.mercadolibre.com.sv
 www.mercadolivre.com
 www.mercadopago.com.ec
 www.mini.de
-www.mjrtheatres.com
 www.momondo.com
 www.monespacesante.fr
 www.moneyback.com.hk
@@ -9131,8 +9038,6 @@ www.netflix.com
 www.onsexprime.fr
 www.onthewaterfrontfestival.com
 www.optimuscards.com
-www.ottocasino.se
-www.ottokasino.com
 www.ovh.com
 www.pangleglobal.com
 www.parool.nl
@@ -9177,8 +9082,6 @@ www.starbucks.co.jp
 www.starbucks.com
 www.starbucks.com.cn/
 www.starbucksreserve.com
-www.storspelare.se
-www.storspiller.com
 www.stripe.partners
 www.superdrug.com
 www.superdrugmobile.com
@@ -9214,7 +9117,6 @@ www.tumblr.com
 www.tw.coupang.com
 www.udemy.com
 www.ultimateears.com
-www.unibet.(com­|it|se|co.uk|be|nl|dk|ro|ee|ie|com.au|mt)
 www.universalorlandovacations.com
 www.uphold.com
 www.upwork.com/api 
@@ -9295,7 +9197,6 @@ www.visaitalia.com
 www.visakorea.com
 www.visasoutheasteurope.com
 www.vivre-avec-la-chaleur.fr
-www.vladcazino.ro
 www.vodafone.om
 www.volkskrant.nl
 www.volkskrant.nl/abonnementen
