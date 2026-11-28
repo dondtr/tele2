@@ -10,7 +10,6 @@
  idp-contact.nexuzhealth.be
  login-test.portofantwerpbruges.com/
  mix.monash.edu 
- new CDI-based architecture
 (*.post.ch:80|*.post.ch:443) AND 194.41.128.0/17
 *-api-*.acronis.com
 *-vpn.8x8.com
@@ -64,9 +63,6 @@
 *.aleenote.com
 *.algolia.net
 *.algolianet.com
-*.allegro.cz.allegrosandbox.pl
-*.allegro.pl.allegrosandbox.pl
-*.allegro.sk.allegrosandbox.pl
 *.amazon.ae
 *.amazon.ca
 *.amazon.cl
@@ -1595,7 +1591,6 @@ All Chime Assets
 All In Scope Targets
 All Motorola Devices running Android 13 and above. 
 All Other BitMEX Assets
-All Other NVIDIA Container Toolkit Assets
 All internet facing Sky DACH assets
 All internet facing Sky Italy assets 
 All internet facing Sky UK/ROI assets
@@ -1711,9 +1706,6 @@ COUPANG LIVE CREATOR (AOS)
 COUPANG LIVE CREATOR (IOS)
 COUPANG PLAY (AOS)
 COUPANG PLAY (IOS)
-CUDA Driver APIs
-CUDA Libraries
-CUDA Runtime APIs
 Canva (Android)
 Canva (Chrome Extension)
 Canva (iOS)
@@ -2144,9 +2136,6 @@ Munkisrv Open Source Project
 NARZO 80 Lite 4G
 NARZO 80 Pro 5G
 NARZO 80x 5G
-NVCC
-NVIDIA Nsight Developer Tools
-NVRTC library
 Naasapi.optus.com.au
 Narzo 80 lite 5G
 Neon-supported extensions
@@ -2173,7 +2162,6 @@ Notion Desktop App
 Notion Frontend
 Notion Integrations
 Notion MCP
-Nsight Systems
 OKX Android APK
 OKX Wallet Chrome Extension
 OKX Wallet Edge Add-ons
@@ -7380,7 +7368,6 @@ launchpad.37signals.com
 lawmanager.marriott.com
 lego.me
 leonard.vinci.com
-libNVVM API
 liberty-dev.wnba.com
 liberty-qa.wnba.com
 liberty-qa2.wnba.com
@@ -7844,7 +7831,6 @@ ns1.optusnet.com.au
 ns2.optusnet.com.au
 numbers.twilio.com
 nummus.robinhood.com
-nvJitLink APIs
 nycbasketball.nba.com
 oauth-sandbox.gocardless.com
 oauth.deriv.com
